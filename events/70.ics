@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150704T093702Z
+UID:f96a63bd-0b6d-4439-b187-375eb5bb965a@localhost
+DESCRIPTION:Wir werden nach einem "Reisebericht dioxinartiger und radioak
+ tiver Feinstäube durch unseren Körper" mehr darüber wissen\, wie perf
+ ide unser Körper angegriffen wird\, wie verheerend die Schädigung sich
+  auf noch ungeborene Babys und kleine Kinder auswirkt und wie die aktuel
+ le Zunahme von Lungenkrebs in der Region diese katastrophale Realität l
+ eider komplettiert.\nViele Menschen im Rheinischen Braunkohlerevier erle
+ ben in ihrem gesamten Alltag ein Ausgeliefertsein durch die "Quasi-Besat
+ zungsmacht" RWE. Wir werden die seelischen Folgen des subjektiv erlebten
+  ohnmächtigen Ausgesetztseins (u.a. durch extreme Schadstoffbelastung i
+ m eigenen Zuhause oder aber durch Zwangsumsiedlung) nachvollziehen: Verz
+ weiflung\, Hoffnungslosigkeit\, Angstzustände\, Depression bis hin zur 
+ Suizidgefährdung. Die Phänomene von Verdrängung und Verleugnung als u
+ nbewusste Bewältigungsversuche all dieser Zumutungen werden näher betr
+ achtet.\nWir diskutieren Handlungsmöglichkeiten gegen die Ohnmacht und 
+ für  Grundlagen eines selbstorganisierten Widerstands auch im Gesundhei
+ tswesen.
+URL:2015/events/70.html
+SUMMARY: Coal kills - body and soul
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

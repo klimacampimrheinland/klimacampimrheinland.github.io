@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150627T072651Z
+UID:74c08a6e-8610-4d3d-8c2f-77dfd3e87bb8@localhost
+DESCRIPTION:Die kapitalistische Wirtschaft beruht auf einem ungehemmten W
+ achstum. Doch die Grenzen unseres Ökosystems\nwerden immer sichtbarer: 
+ So durch den immer weiter steigenden CO2-Eintrag in unsere Atmosphäre. 
+ Auch die\nRohstoffe drohen knapp zu werden. Und das bereits stattfindend
+ e Artensterben oder der massive\nStickstoffausstoß bedrohen die Grundla
+ gen menschlichen Lebens auf unserem Planeten. Der Vortrag will\nanalysie
+ ren und bilanzieren: Welche Krisen haben wir zu erwarten? Lässt sich ei
+ n Zeithorizont für ihr Eintreten\nabschätzen? Wird dies ökonomische K
+ risen im Kapitalismus verursachen? Welche politischen Antworten sollte\n
+ die Ökologiebewegung geben?
+URL:2015/events/21.html
+SUMMARY:Extraktivismus und Grenzen des Wachstums
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

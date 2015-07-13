@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T140000
+DTSTAMP;VALUE=DATE-TIME:20150709T115604Z
+UID:9370cd6e-98b8-4e81-87b4-e74ba102b2fc@localhost
+DESCRIPTION:Wie initiiere ich einen Community Garden in meiner Stadt? Die
+  Teilnehmer_innen sollen eine Idee bekommen welche Möglichkeiten und He
+ rausforderungen der Aufbau eines Stadtgartens mit sich bringt und könne
+ n selbst im CampusGarten in Köln tätig werden. Die Kombination aus neu
+ nen Impulsen\, Wissentransfers und praktischer Arbeit stehen im Vordergr
+ und dieses Workshops.\n\nWichtig: Die Fahrt von Erkelenz zum CampusGarte
+ n dauert ca. 1h 30 min. Fahrtkosten können nicht übernommen werden!\n\
+ nReferent_innen: Mitarbeiter_innen des CampusGartens Köln.\nTreffpunkt:
+  14 Uhr am LaDi-Zelt\nDie Veranstaltung ist open-end und die Dauer kann 
+ flexibel mit den Teilnehmer_innen gestaltet werden.\nMax. Teilnehmer: 30
+  Personen
+URL:2015/events/103.html
+SUMMARY:EXKURSION NACH KÖLN: Urban Gardening für (zukünftige) Praktike
+ r_innen
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

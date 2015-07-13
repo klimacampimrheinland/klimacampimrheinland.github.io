@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114355Z
+UID:b4922e91-08f4-4e77-8045-ac2857398309@localhost
+DESCRIPTION:Bald ist es wieder so weit: Da die Vögel ihre Brut- und Nist
+ zeit beenden\, dürfen ab dem 01. Oktober wieder die Bäume\, auf denen 
+ sie brüteten gefällt werden. \nDoch seit mehreren Jahren ist der Hamba
+ cher Forst besetzt und die Anti-Kohle-Bewegung im Aufschwung. Wir wollen
+  dieses Moment nutzen und haben uns ein ehrgeiziges\, aber notwendiges Z
+ iel für den Herbst und den Frühling gesetzt: Kein Baum Fällt!
+URL:2015/events/79.html
+SUMMARY:Kein Baum fällt - Hambacher Forst bleibt !
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

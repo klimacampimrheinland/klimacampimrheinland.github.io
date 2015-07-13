@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T205558Z
+UID:3b17d631-2731-43db-8c88-fabf443adfe8@localhost
+DESCRIPTION:Der Vortrag von einem der weltweit führenden Experten für K
+ limawandelkommunikation über sein neues Buch beschäftigt sich mit der 
+ Frage:\nWarum handeln so wenig Leute in Anbetracht der massiven Bedrohun
+ gen durch den Klimawandel\, obwohl die Konsequenzen seit mehr als 20 Jah
+ re von mehr 97% aller Wissenschaftler*innen kommuniziert werden?
+URL:2015/events/32.html
+SUMMARY:Don't even think about it - Vortrag von George Marshall\, Experte
+  für Klimawandelkommunikation
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

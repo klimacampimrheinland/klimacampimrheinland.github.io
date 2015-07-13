@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T203805Z
+UID:e4630992-9ff9-4f54-97a3-5d15dbe54c02@localhost
+DESCRIPTION:Wir tauschen unsere Erfahrungen mi dem True Cost of Coal- Ban
+ ner und alte und neue Geschichten aus der Region und weltweit aus und ü
+ berlegen und planen unsere weitere Zusammenarbeit und zukünftige Projek
+ te. Das Treffen ist offen für alle Interessierten\, bringt wenn möglic
+ h eigene Geschichten aus dem Rheinland\, der Lausitz oder von anderswo m
+ it\, Geschichten über das Leben mit der Natur\, über die Zerstörung f
+ ür die Kohle\, über Widerstand\, Angst\, Mut und Träume!
+URL:2015/events/33.html
+SUMMARY:Share your Story - Austausch und Vernetzung zu den True Cost Of C
+ oal
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

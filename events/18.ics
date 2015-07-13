@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150706T102443Z
+UID:ae214da4-e641-44dd-b436-5e10fb8ec8e3@localhost
+DESCRIPTION:\nTrotz angeblichem Atomausstiegs dürfen die UAA Gronau und 
+ die Brennelementefabrik Lingen unbefristet weiter laufen. Die Brennstoff
+ spirale ist von dem was die Politik uns als Atomausstieg verkaufen will\
+ , nicht betroffen. Ob Uranerzkonzentrat\, Uranhexafluorid oder Brennelem
+ ente: Über den Hamburger Hafen fährt im Durchnitt alle zwei Tage ein A
+ tomtransport durch. Zahlreiche Transporte haben Uranfabriken in Frankrei
+ ch zum Ziel und fahren quer durchs dicht besiedelten Ruhrgebiet. Dagegen
+  gibt es Widerstand! Für den Herbst rufen Antiatomgruppen und AktIvistI
+ nnen zu Aktionenen entlang der Transportstrecken in Deutschland und Fran
+ kreich auf! Ohne Atomtransporte\, kein Kernbrennstoff!\nIm Workshop werd
+ en die Hintergründe dieser Transporte und ein kurzer Überblick über d
+ en aktuellen Widerstand in Deutschland und Frankreich beleuchtet\, sowie
+  Handlungsmöglichkeiten aufgezeigt. Ob Widerstansd gegen Kohlekraft\, A
+ tomkraft\, Fracking\, Flughafenbauten und weiteren unnütze Großprojekt
+ e (um nur einige Beispiele zu nennen)\, diese Kämpfe müssen wir für e
+ in besseres Klima und eine andere Welt zusammen führen!\n\nLinks: \nhtt
+ p://www.atomtransporte-hamburg-stoppen.de/\nwww.urantransport.de\nhttp:/
+ /www.urantransport.de/aktionstage.html\nhttp://www.atomtransporte-hambur
+ g-stoppen.de/wer-ist-an-den-transporten-beteiligt/uranfabrik-narbonne-ma
+ lvesi/
+URL:2015/events/18.html
+SUMMARY:Urantransporte vor deiner Haustür? 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T113327Z
+UID:6cfc0986-7a7b-4794-a9b5-9c6057e222a6@localhost
+DESCRIPTION:Das Kohlekraftwerk in Hamburg Moorburg ist Anfang des Jahres 
+ von Vattenfall in Betrieb genommen worden. Es ist mit ca. 9 Mio Tonnen C
+ O2 jährlich die größte CO2-Quelle Norddeutschlands. Wir wollen darüb
+ er berichten\, welche globalen und lokalen Auswirkungen das Kraftwerk ha
+ t.\nAußerdem wollen wir die Geschichte des Widerstands von den\nBauplat
+ zbesetzungen 2008 bis zur Blockade von Kohlelieferungen in diesem\nJahr 
+ nachzeichnen und diskutieren\, wie es mit dem Widerstand weitergehen kan
+ n.
+URL:2015/events/78.html
+SUMMARY:Kohlekraftwerk Moorburg- eine neue CO2-Schleuder für Hamburg
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

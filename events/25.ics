@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102415Z
+UID:49c3e47c-1b77-4fc0-b445-ff2458085bea@localhost
+DESCRIPTION:Menschen\, die an der Abbaukante leben\, aber nicht von einer
+  Umsiedlung betroffen sind - auch Randbetroffene genannt -  müssen tagt
+ äglich mit Lärm\, Feinstaub\, sich absenkendem Boden und vielen andere
+ n Nebenwirkungen der Braunkohletagebaue leben. Entschädigungen erhalten
+  sie dafür meist keine. Wie geht es diesen Menschen damit\, wie wirkt s
+ ich diese Situation auf ihre Psyche aus und sind sie eigentlich solastal
+ gisch? Solastalgie- was ist das überhaupt? Mit diesen Fragen habe ich m
+ ich im Rahmen meiner psychologischen Bachelorarbeit beschäftigt - als V
+ ersuch einer ersten wissenschaftlich Analyse dieses Themas\, denn bisher
+  wurden Randbetroffenen sowohl politisch als auch medial wenig bis keine
+  Aufmerksamkeit geschenkt.\nIn diesem Workshop möchte ich euch meine Fo
+ rschungsergebnisse anschaulich darstellen\, viele kleine Anekdoten der R
+ andbetroffenen in der Lausitz erzählen und mit euch darüber diskutiere
+ n\, ob und wo Gemeinsamkeiten und Unterschiede zur Situation Randbetroff
+ ener im Rheinland liegen. Gern können wir auch weitere Ideen schmieden 
+ wie psychologische Forschung zu Braunkohle aussehen könnte. 
+URL:2015/events/25.html
+SUMMARY:Leben an der Kante - was macht das mit der Psyche? 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

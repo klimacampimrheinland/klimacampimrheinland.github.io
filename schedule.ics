@@ -1,0 +1,1930 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150704T093702Z
+UID:f96a63bd-0b6d-4439-b187-375eb5bb965a@localhost
+DESCRIPTION:Wir werden nach einem "Reisebericht dioxinartiger und radioak
+ tiver Feinstäube durch unseren Körper" mehr darüber wissen\, wie perf
+ ide unser Körper angegriffen wird\, wie verheerend die Schädigung sich
+  auf noch ungeborene Babys und kleine Kinder auswirkt und wie die aktuel
+ le Zunahme von Lungenkrebs in der Region diese katastrophale Realität l
+ eider komplettiert.\nViele Menschen im Rheinischen Braunkohlerevier erle
+ ben in ihrem gesamten Alltag ein Ausgeliefertsein durch die "Quasi-Besat
+ zungsmacht" RWE. Wir werden die seelischen Folgen des subjektiv erlebten
+  ohnmächtigen Ausgesetztseins (u.a. durch extreme Schadstoffbelastung i
+ m eigenen Zuhause oder aber durch Zwangsumsiedlung) nachvollziehen: Verz
+ weiflung\, Hoffnungslosigkeit\, Angstzustände\, Depression bis hin zur 
+ Suizidgefährdung. Die Phänomene von Verdrängung und Verleugnung als u
+ nbewusste Bewältigungsversuche all dieser Zumutungen werden näher betr
+ achtet.\nWir diskutieren Handlungsmöglichkeiten gegen die Ohnmacht und 
+ für  Grundlagen eines selbstorganisierten Widerstands auch im Gesundhei
+ tswesen.
+URL:2015/events/70.html
+SUMMARY: Coal kills - body and soul
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T114139Z
+UID:8e8544e2-1976-46fd-aff9-8fe0754f9de1@localhost
+DESCRIPTION:Noch nie waren so viele Menschen auf der Flucht vor Krieg und
+  Armut\, gleichzeitig\nschottet sich Europa ab\, wie im Mittelmeer oftma
+ ls mit tödlichen Folgen. Dagegen öffnet\ndie Gobalisierung alle Schran
+ ken für Waren- und Kapitalströme.\nWir laden Euch dazu ein\, gemeinsam
+  "über Grenzen" nachzudenken. Grenzen bestehen\nnicht nur im räumliche
+ n und politischen Sinne. Wir alle unterscheiden das Vertraute vom\nFremd
+ en und Unbekannten\, um zu wissen\, wer wir sind und wohin wir gehören.
+  Wie\nverträgt sich diese mitunter lebenswichtige Grenzziehung im psych
+ ologischen Sinne mit\ndem Ideal einer "Willkommenskultur"\, dem Leben in
+  einer "offenen Weltgemeinschaft"\njenseits aller Unterschiede? Wie kön
+ nen wir uns in lokalen\, dezentralen Gemeinschaften\nverwurzeln und glei
+ chzeitig achtsam gegenüber Mensch und Erde in ihrer Gesamtheit\nsein?
+URL:2015/events/68.html
+SUMMARY:"Über Grenzen"
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T113325Z
+UID:ea8472ba-916f-42db-9aa5-bb8376aca0c7@localhost
+DESCRIPTION:Kaufen\, kaufen\, kaufen: Werbung manipuliert\, heizt überfl
+ üssigen Konsum\nan\, färbt das Image ausbeuterischer Konzerne schön\,
+  bedient Klischees\nund ist oft sexistisch. Du willst das nicht hinnehme
+ n? Dann probiere\ndich im Adbusting: Wie kannst du durch kleine aber fei
+ ne Veränderungen\,\nWerbung eine neue Bedeutung verleihen oder sie soga
+ r komplett umkehren?\nIn diesem Workshop warten Werbungen großer Firmen
+  nur darauf von euch\nmit Farbe\, Scheren und Kleber verändert zu werde
+ n.\nDer WS baut aufeinander auf. Es ist möglich auch später einzusteig
+ en\n(dann verpasst ihr jedoch den Teil\, wo die Techniken erklärt werde
+ n).
+URL:2015/events/24.html
+SUMMARY:Adbusting – Die Welt der Werbung kreativ umgestalten
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T163000
+DTSTAMP;VALUE=DATE-TIME:20150709T115053Z
+UID:c672d1d7-8806-4a3d-aaf7-68044e078840@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/41.html
+SUMMARY:Aktionstraining
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T115220Z
+UID:f0313b91-8e07-4d25-bc0b-7430e57b8ad4@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/43.html
+SUMMARY:Aktionstraining
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T163000
+DTSTAMP;VALUE=DATE-TIME:20150709T115441Z
+UID:d19a7091-23d2-43aa-9d31-3f19d90a70ea@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/45.html
+SUMMARY:Aktionstraining
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T115518Z
+UID:3b913782-fc56-4bf4-8d18-d139f2606401@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/47.html
+SUMMARY:Aktionstraining
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T180000
+DTSTAMP;VALUE=DATE-TIME:20150709T115111Z
+UID:b4cecd26-8208-4b1a-b703-93a8a039fa97@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/42.html
+SUMMARY:Aktionstraining Teil 2
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T120000
+DTSTAMP;VALUE=DATE-TIME:20150709T115237Z
+UID:a34854e8-dd95-4fe5-8380-7e2aa8c9b53f@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/44.html
+SUMMARY:Aktionstraining Teil 2
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T180000
+DTSTAMP;VALUE=DATE-TIME:20150709T115452Z
+UID:bfd112e4-a9fa-4f14-8945-60f46512b5b4@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/46.html
+SUMMARY:Aktionstraining Teil 2
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T115531Z
+UID:6aca8975-6f98-45b8-b8b5-a4718961f0b6@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/48.html
+SUMMARY:Aktionstraining Teil 2
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T210328Z
+UID:b5ae9aab-43ac-4b61-9673-e53b1b3836e3@localhost
+DESCRIPTION:
+URL:2015/events/12.html
+SUMMARY:Aktuelle politische Lage // Erklärung Kohleabgabedebatte
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T185429Z
+UID:bcdb05af-1987-45a6-ba53-5fc35898c08b@localhost
+DESCRIPTION:In diesem Workshop geht es um Archäologie\, Denkmalpflege 
+ – und um die Verstrickungen von RWE auf diesem Gebiet. Wir werden uns 
+ hierbei auch mit den Grundlagen des RWE-Filzes generell beschäftigen un
+ d dabei interaktiv die Verstrickungen zwischen RWE\, den Kommunen\, den 
+ Landschaftsverbänden und anderen Unternehmen erkunden.\nAußerdem werde
+ n wir die Auswirkungen des Filzes anhand des Beispiels der Archäologie 
+ und der Denkmalpflege in NRW betrachten.
+URL:2015/events/9.html
+SUMMARY:Archäologie und Denkmalpflege – Im Tagebaugebiet gefährdet
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150630T135927Z
+UID:344194d6-b825-4954-bb59-e4eb3130eccb@localhost
+DESCRIPTION:Participants will be encouraged to share and reflect upon per
+ sonal and historical stories of\ncourage\, creativity and disobedience\,
+  learn to trust each other and engage in horizontal\n6\nprocesses of org
+ anising\, as well as explore tools for effective and creative strategies
+  that are\nrequired in order to organise appropriate responses to the in
+ justices of the climate\ncatastrophe.\nWe will use the Climate Games as 
+ a case study to devise creative actions. Climate Games\nare a transmedia
+  framework\, which during COP21\, will use both the cyberspace and the\n
+ streets of Paris (or their own locality) as a huge playfield\, where tea
+ ms will take action for\nclimate justice and against the toxic sludge of
+  green capitalism.
+URL:2015/events/30.html
+SUMMARY:Art\, activism and climate change
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150630T135947Z
+UID:b6f26656-76e9-4222-a473-d387a05830e9@localhost
+DESCRIPTION:Exploration of the synergies that art and activism. Climate G
+ ames as a case study to devise creative actions.
+URL:2015/events/49.html
+SUMMARY:Art\, activism and climate change
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T115357Z
+UID:9040aa6d-5bd9-4ac2-8e33-2805c2d209ab@localhost
+DESCRIPTION:In dem Meeting sollen neue Projektideen und Regionale Vernetz
+ ungen entstehen\, um die Stärke und Handlungsfähigkeit der Klimabewegu
+ ng weiter voranzubringen.
+URL:2015/events/61.html
+SUMMARY:Aufbau und Vernetzung der Klimabewegung
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150807T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150807T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T134243Z
+UID:ec04b6ef-f85f-47b0-a799-0da8c33bfa61@localhost
+DESCRIPTION:Der kommunale\nKölner Energieversorger RheinEnergie betreibt
+  einen Block\ndesHeizkraftwerkesin Köln-Merkenich mit Braunkohlegranula
+ t. Welche\nkonkreten Aktivitäten unternimmt dieKölner Bürgerinitiativ
+ e "Tschö\nRheinEnergie"\, um denBraunkohleblock stillzulegen?
+URL:2015/events/38.html
+SUMMARY:Ausstieg aus der Braunkohleverstromung konkret
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T111041Z
+UID:115cb622-120d-40fe-ab58-d39b0eab4f5c@localhost
+DESCRIPTION:
+URL:2015/events/110.html
+SUMMARY:Awareness\, Defma\, Parteilichkeit - Austausch und Diskussion
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150707T190140Z
+UID:2f0e64b8-2c11-4419-85bd-b520f4374715@localhost
+DESCRIPTION:„Mongolei“ assoziiert Leere\, Weite\, Pferde\, Nomaden un
+ d Hügel. Gleichzeitig ist das Land reich an Rohstoffen. Nationale und i
+ nternationale Konzerne wollen Gold\, Kupfer\, Kohle und Uran abbauen\, e
+ in Konzernchef freute sich\, dass dort „kein Dschungel\, keine NGOs un
+ d keine Menschen“ seien und plant tolle Biodiversitäts-Offsets. Der W
+ orkshop gibt auf der Grundlage eines Besuchs im April Einsichten in die 
+ Probleme des Bergbaus und des Offsettings\, das nach dem Prinzip funktio
+ niert: „wir machen hier ein bisschen Natur kaputt und dafür woanders 
+ mehr wieder heile“. 
+URL:2015/events/34.html
+SUMMARY:Bergbau in der Mongolei - Gold\, Kupfer\, Kohle und wer dabei den
+  Kürzeren zieht
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T185138Z
+UID:2be40dea-a9de-4737-8420-fdcb6d23e515@localhost
+DESCRIPTION:Die Tagebaukante Garzweiler wollen wir ansteuern und einen Bl
+ ick in´s Loch werfen.\nSamstag\, 8.August 9 Uhr geht´s los.\nWir fahre
+ n mit dem Fahrrad. Bitte bringt Räder mit. (falls du kein Fahrrad haben
+  solltest\,\ngibt es evtl. die Möglichkeit\, eines zu leihen).\n\n: Gar
+ zweiler ist der zweitgrößte Braunkohletagebau in D (der größte ist H
+ ambach).\n   Die Kraftwerke des rheinischen Braunkohlerevier´s sind Eur
+ opa´s größter CO2-Emittent.  \n   (ca. 100 Mio t CO2 / Jahr\; ganz Ö
+ sterreich emitiert ca.70 Mio t / Jahr).\n\n: um das 2-Grad Ziel zu halte
+ n\, muß Kohle raus aus dem Energiemix. (Öl und Gas müssen \n   kontin
+ gentiert werden).\n\n: außerdem geht´s hier in der Gegend auch darum\,
+  die letzten Wälder und\n   landwirtschaftlichen Flächen zu retten und
+  weitere Umsiedlungen zu unterlassen.    \n
+URL:2015/events/7.html
+SUMMARY:Braunkohle Exkursion
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T191403Z
+UID:d95e176e-e112-4b7d-be8d-4066ecce05c8@localhost
+DESCRIPTION:Die Tagebaukante Garzweiler wollen wir ansteuern und einen Bl
+ ick in´s Loch werfen.\nSamstag\, 8.August 9 Uhr geht´s los.\nWir fahre
+ n mit dem Fahrrad. Bitte bringt Räder mit. (falls du kein Fahrrad haben
+  solltest\,\ngibt es evtl. die Möglichkeit\, eines zu leihen).\n\n: Gar
+ zweiler ist der zweitgrößte Braunkohletagebau in D (der größte ist H
+ ambach).\n   Die Kraftwerke des rheinischen Braunkohlerevier´s sind Eur
+ opa´s größter CO2-Emittent.  \n   (ca. 100 Mio t CO2 / Jahr\; ganz Ö
+ sterreich emitiert ca.70 Mio t / Jahr).\n\n: um das 2-Grad Ziel zu halte
+ n\, muß Kohle raus aus dem Energiemix. (Öl und Gas müssen \n   kontin
+ gentiert werden).\n\n: außerdem geht´s hier in der Gegend auch darum\,
+  die letzten Wälder und\n   landwirtschaftlichen Flächen zu retten und
+  weitere Umsiedlungen zu unterlassen.    
+URL:2015/events/10.html
+SUMMARY:Braunkohle Exkursion
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T200000
+DTSTAMP;VALUE=DATE-TIME:20150706T083046Z
+UID:0a41af49-33d2-4d1a-91bf-fa5eeda1552d@localhost
+DESCRIPTION:Welche Vorbereitungsprozesse laufen gerade in Bezug auf die\n
+ Klimaverhandlungen in Paris? Welche Positionen werden dabei vertreten\nu
+ nd wie beziehen sich die zahlreichen lokalen Kämpfe im Vorfeld auf\nPar
+ is - oder auch nicht? Wir erwarten zu dieser Session Aktivist*innen\naus
+  unterschiedlichen Regionen der Welt und spannende Inputs und Debatten.
+URL:2015/events/60.html
+SUMMARY:COP and Beyond
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T204159Z
+UID:771576d8-79b3-4a38-aa26-0c8f2da4a4e9@localhost
+DESCRIPTION:In Commons wird entsprechend den Bedürfnissen der Menschen u
+ nd mit Rücksicht auf die vorhandenen Ressourcen produziert. Aber reicht
+  das schon\, um dem Klimawandel zu begegnen? In dem Workshop würde ich 
+ gerne Fragen wie diesen nachgehen: Wo gibt es Anknüpfungspunkte zwische
+ n Klimaaktivist*innen und Commonsaktivist*innen? Was und wie können Com
+ mons zur Verlangsamung des Klimawandels beitragen? Ist das Klima ein Com
+ mons? Oder die Atmosphäre? Oder das CO2?
+URL:2015/events/39.html
+SUMMARY:Commons und Klimawandel
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T150000
+DTSTAMP;VALUE=DATE-TIME:20150629T203940Z
+UID:3701e6ff-0586-42a3-9f89-3dcd6748eec4@localhost
+DESCRIPTION:Fantasievolles Theater mit Tanz und Maskenspiel 
+URL:2015/events/50.html
+SUMMARY:Das Insektenhotel
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTAMP;VALUE=DATE-TIME:20150625T112241Z
+UID:8142b65f-881e-4ae4-bc68-e06c78c65230@localhost
+DESCRIPTION:Die Geschichten\, die Marc-Uwe Kling und sein kommunistischer
+  Mitbewohner\nerleben\, haben längst Einzug in die Pop-Kultur gehalten 
+ und einige\nZitate haben es bis in unseren Alltag geschafft (“Ach\, me
+ ins deins - das\n\nIn dieser Diskussion mochte ich mit euch zusammen die
+  Vielschichtigkeit\ndes Känguru Manifests besprechen und beispielhaft e
+ inige Geschichten\nanalysieren. Wer oder was ist das Ministerium für Pr
+ oduktivität? Wie\nfiktiv ist Joern Dwigs? Und was hat Tomatencremesuppe
+  mit der CDU zu\ntun? Ich werde einige Textstellen vorbereiten\, aber ih
+ r dürft auch gerne\nselbst eure Lieblingsausschnitte mitbringen. Dieser
+  Workshop ist für\nalle Fans des Kängurus und die\, die es noch werden
+  wollen.\nsind doch bürgerliche Kategorien!”). Durch seine brillante\
+ nBeobachtungsgabe\, die beschreibende Erzählweise und eine angenehme\nP
+ ortion Selbstironie hält Marc-Uwe Kling der Gesellschaft einen Spiegel\
+ nvor ohne den Zeigefinger zu erheben und deckt so die Absurditäten\nuns
+ eres Zusammenlebens und der Konsumgesellschaft auf. Aber auch die\nlinke
+  Bewegung mit all ihren Widersprüchen wird thematisiert: Probleme\nbei 
+ der Entscheidungsfindung im Konsens\, die Gewaltfrage\, oder die\nDiskre
+ panz zwischen Theorie und Praxis.
+URL:2015/events/36.html
+SUMMARY:Das Känguru Manifest
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110714Z
+UID:08b3af95-86bf-4aff-8a45-b542fed34e36@localhost
+DESCRIPTION:Klima retten - Erneuerbare Energien ausbauen - Regionalwirtsc
+ haft stärken - Zukunftsfähige Arbeitsplätze schaffen - Heimat bewahre
+ n - Natur schützen - Lebensqualität sichern\n\nVorgeschichte – Bürg
+ erforum Pulheim – Inhalt – Wirkung
+URL:2015/events/89.html
+SUMMARY:Das Pulheimer Manifest von 2006
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T144252Z
+UID:5e5a780c-8297-4e1f-863d-5ca459d91f5f@localhost
+DESCRIPTION:Eine Überblend-Diashow über die Zerstörung der Erdoberflä
+ che durch Tagebaue\,die Vernichtung von Lebensraum\, soziale Entwurzelun
+ g der Menschen\,Gesundheitsgefährdungen und Folgen\, die Behinderung de
+ r Energiewende\, Darstellung der Tagebaue und Kraftwerke\, weitere Reduz
+ ierung der Formaldemokratie.
+URL:2015/events/5.html
+SUMMARY:Das Rheinische Braunkohlerevier
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102401Z
+UID:66e937ec-c0c3-40a5-8613-b0c4cf92e57d@localhost
+DESCRIPTION:Eine weltweite Bewegung\nnimmt Einflussauf Investoren\, damit
+  diese Geld aus Erdöl-\, Kohle und\nErdgasindustrien abziehen.Im Rheinl
+ and richtet sich diese Kampagne vor\nallen Dingen gegen RWE. Städte und
+  Gemeinden\, Kirchen und soziale\nInstitutionen werden vorrangig angespr
+ ochen.
+URL:2015/events/53.html
+SUMMARY:Devestment und die Fossil FreeBewegung 
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTAMP;VALUE=DATE-TIME:20150709T115259Z
+UID:03e3debe-ed17-4b5d-8ca8-e3f89fe3e938@localhost
+DESCRIPTION:\nSeit 2004 starteten Gentechnikkonzerne und Lobbygruppen ein
+ e neue\nKampagne zur Durchsetzung ihrer Profitinteressen und zur Anlage 
+ von\nFeldern mit manipulierten Pflanzen. Ab 2005 entwickelte sich - wie\
+ nschon Mitte der 90er Jahre - eine spannende Mischung des\nWiderstandes:
+  Feldbefreiungen\, Feldbesetzungen\, Aktionen vor\nKonzernzentralen und 
+ -versammlungen\, Recherchen hinter den Kulissen\,\nbrisante Veröffentli
+ chungen und viele informative Veranstaltungen.\nMit Erfolg: 2012 gab es 
+ kam noch Felder und die großen Konzerne\nkündigten ihren Abgang aus De
+ utschland an – und der Sommer 2013 wird\nwahrscheinlich ganz ohne gv-P
+ flanzen ablaufen. Da lohnt sich der\nRückblick: Was macht solche Widers
+ tandsstrategien aus? Und was lässt\nsich daraus für andere Kampagnen u
+ nd Aktionen lernen - z.B. für den\nWiderstand gegen Atom oder Kohle\, T
+ ierfabriken oder Schlachthöfe\,\nNazis oder Sozialabbau\, Militär oder
+  Repression. Fotos\, kurze Filme\nund ausgewählte Anekdoten machen die 
+ Ton-Bilder-Schau zu einer\nrasanten Erinnerung an vergangene Protestjahr
+ e. Dann folgen Thesen\nfür eine entschlossenere Protestkultur auch zu a
+ nderen Themen. Am\nEnde besteht die Gelegenheit zur Debatte\, Entwicklun
+ g eigener Ideen\nund für konkrete Verabredungen …
+URL:2015/events/81.html
+SUMMARY:Die Mischung macht's - erfolgreiche Strategien des Widerstandes a
+ m Beispiel der Agrogentechnik
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T200000
+DTSTAMP;VALUE=DATE-TIME:20150709T110758Z
+UID:a84c6b5a-5f36-494e-9335-90c5c1b8ea0f@localhost
+DESCRIPTION:Film mit anschließender Diskussion:\nDie GartenCoop Freiburg
+  setzt das Solawi-Konzept erfolgreich um. Die Mitglieder teilen sich die
+  Verantwortung für einen Betrieb in Stadtnähe und tragen gemeinsam die
+  Kosten und Risiken der Landwirtschaft. Dieser Dokumentarfilm gibt Einbl
+ ick in die Motivationen und das Innenleben der Kooperative. Er zeigt Men
+ schen\, die in Zeiten ökonomischer und ökologischer Krise der Macht de
+ r Agrarindustrie etwas entgegensetzen: Die Strategie der krummen Gurken.
+ \nEine cine rebelde Produktion 2013\, 64 Min.
+URL:2015/events/93.html
+SUMMARY:Die Strategie der krummen Gurken
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T145251Z
+UID:96c63eb1-77f9-4920-8eeb-a7c1ab2d8ab2@localhost
+DESCRIPTION:Im September 2015 werden die Sustainable Development Goals (Z
+ iele für nachhaltige Entwicklung) die bisherigen Millennium-Entwicklung
+ sziele der UN ablösen. Die Millennium-Entwicklungsziele waren acht Ziel
+ e der UN\, verabschiedet von den Mitgliedsstaaten\, mit deren Hilfe man 
+ einen Rahmen für die internationale Entwicklungszusammenarbeit geschaff
+ en hat. Ihre Bilanz ist gemischt: Einerseits gelang es durch die Millenn
+ ium-Entwicklungsziele internationale Anstrengungen zu bündeln und so in
+  einigen Punkten Erfolge aufzuweisen\, andererseits wurden die Ziele kri
+ tisiert\, weil sie ohne Beteiligung der Zivilgesellschaft quasi im Hinte
+ rzimmer verhandelt wurden\, die acht Ziele keinen nachhaltigen Ansatz ve
+ rfolgten und weil die Ziele nur für sogenannte Entwicklungs- & Schwelle
+ nländer gelten sollten.\n\nDie Ziele für nachhaltige Entwicklung solle
+ n es nun besser machen. Dabei hat sich bereits viel geändert. Sie umfas
+ sen tatsächlich ökologische\, soziale und ökonomische Lösungsansätz
+ e und die bereits verhandelten 17 Ziele und 169 Unterziele machen das Do
+ kument deutlich komplexer. Darüber hinaus gab es eine breite Beteiligun
+ g von unterschiedlichsten Zivilgesellschaften bei den Verhandlungen der 
+ Ziele und Unterziele und die wichtigste Neuerung: Die Ziele für nachhal
+ tige Entwicklung werden für alle Staaten der Vereinten Nationen gelten\
+ , also auch für Deutschland. \nAber was bringen diese Ziele? Werden sie
+  die deutsche Politik nachhaltiger machen? Wie und für was kann Zivilge
+ sellschaft in Deutschland diese Ziele nutzen? Sind sie ein gutes Instrum
+ ent\, um eine Transformation einer Gesellschaft voranzutreiben? Spielen 
+ diese Ziele eine Rolle für die Degrowth-Bewegung?\n\nDiese und andere F
+ ragen wollen wir mit euch in diesem Workshop versuchen zu klären. Dazu 
+ wird es einen kurzen Input zu der Entstehung der Ziele für nachhaltige 
+ Entwicklung geben\, um danach gemeinsam darüber zu diskutieren\, ob tra
+ nsformatives Potential in den neuen Zielen der Vereinten Nationen liegt.
+ \n
+URL:2015/events/37.html
+SUMMARY:Die neuen Ziele der Vereinten Nationen – Die Ziele für nachhal
+ tige Entwicklung
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110551Z
+UID:11505eef-4aa0-4e72-9e62-845becc699ef@localhost
+DESCRIPTION:Immer\, wenn bei politischen Veranstaltungen Menschen\, die v
+ erschiedene Sprachen sprechen\, zusammenkommen\, werden viele Inhalte ü
+ bersetzt. Dolmetschen ist nicht nur etwas für Profis! Du würdest eigen
+ tlich gerne mal ausprobieren\, simultan zu dolmetschen\, aber brauchst n
+ och ein paar Tips? Super\, genau hier bekommst du sie! Der Workshop wird
+  mehrsprachig sein.
+URL:2015/events/82.html
+SUMMARY:Dolmetschen - ein Einführungsworkshop
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T205558Z
+UID:3b17d631-2731-43db-8c88-fabf443adfe8@localhost
+DESCRIPTION:Der Vortrag von einem der weltweit führenden Experten für K
+ limawandelkommunikation über sein neues Buch beschäftigt sich mit der 
+ Frage:\nWarum handeln so wenig Leute in Anbetracht der massiven Bedrohun
+ gen durch den Klimawandel\, obwohl die Konsequenzen seit mehr als 20 Jah
+ re von mehr 97% aller Wissenschaftler*innen kommuniziert werden?
+URL:2015/events/32.html
+SUMMARY:Don't even think about it - Vortrag von George Marshall\, Experte
+  für Klimawandelkommunikation
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T140000
+DTSTAMP;VALUE=DATE-TIME:20150709T115604Z
+UID:9370cd6e-98b8-4e81-87b4-e74ba102b2fc@localhost
+DESCRIPTION:Wie initiiere ich einen Community Garden in meiner Stadt? Die
+  Teilnehmer_innen sollen eine Idee bekommen welche Möglichkeiten und He
+ rausforderungen der Aufbau eines Stadtgartens mit sich bringt und könne
+ n selbst im CampusGarten in Köln tätig werden. Die Kombination aus neu
+ nen Impulsen\, Wissentransfers und praktischer Arbeit stehen im Vordergr
+ und dieses Workshops.\n\nWichtig: Die Fahrt von Erkelenz zum CampusGarte
+ n dauert ca. 1h 30 min. Fahrtkosten können nicht übernommen werden!\n\
+ nReferent_innen: Mitarbeiter_innen des CampusGartens Köln.\nTreffpunkt:
+  14 Uhr am LaDi-Zelt\nDie Veranstaltung ist open-end und die Dauer kann 
+ flexibel mit den Teilnehmer_innen gestaltet werden.\nMax. Teilnehmer: 30
+  Personen
+URL:2015/events/103.html
+SUMMARY:EXKURSION NACH KÖLN: Urban Gardening für (zukünftige) Praktike
+ r_innen
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114701Z
+UID:c7af93c8-9eb3-4aa4-9e33-d1a66fbdb094@localhost
+DESCRIPTION:Unter der Führung der NSDAP im deutschen Reich kam es ab 193
+ 3 zu einer neuen Epoche der deutschen Industrialisierung. Sie führte zu
+  einer starken sozialen/ ökonomischen Umwälzung. \nTeil dieser ist die
+  Niederschlagung der Opposition und die Inhaftierungen von Millionen von
+  Menschen in Konzentrationslager\, wo sie ihren Tod fanden. Kriegspläne
+ \, Millionen an Reichsmark und letztlich der Beginn des 2. Weltkrieges s
+ ind wichtiger Bestandteil der deutschen Industriegeschichte. \nEin klein
+ er Einblick in die Entstehung\, dem Auf- und Ausbau des Rheinischen Brau
+ nkohlereviers und der dazugehörenden Industriezweige unter der Hakenkre
+ uz-Fahne.
+URL:2015/events/109.html
+SUMMARY:Eine Informationsveranstaltung über das Rheinische Braunkohlerev
+ ier  im Nationalsozialismus
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114214Z
+UID:b02b7bb6-cf15-4946-8d06-26df8d61e8d1@localhost
+DESCRIPTION:Die GFK bietet viele Methoden und Denkansätze\, die uns helf
+ en mit uns\nund anderen Menschen liebevoller umzugehen\, aber auch "Nein
+ " zu sagen\nund unsere Grenzen zu wahren. Ich werde die theoretischen Gr
+ undlagen\nkurz erklären und dann anhand der Fragen der Teilnehmenden ei
+ nige\nAspekte (auch mit praktischen Übungen) vertiefen.
+URL:2015/events/55.html
+SUMMARY:Einführung in die Gewaltfreie Kommunikation 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T110829Z
+UID:6e3e3757-b063-4e30-bb0a-433d5964b544@localhost
+DESCRIPTION:Selbst als Feminist_innen haben wir oft völlig fragmentierte
+  Elemente verschiedenster Gender-Theorien im Kopf. Im Workshop wollen wi
+ r mit zunächst die groben Richtungen auseinanderhalten\, und darauf auf
+ bauend gemeinsam unsere eigenen Vorstellungen reflektieren. 
+URL:2015/events/96.html
+SUMMARY:Einführung in feministische Theorien
+ORGANIZER:kc2015
+LOCATION:Queer-Feministisches Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102320Z
+UID:e15fb421-70c2-4fd7-ac3a-5b4b72c3ccee@localhost
+DESCRIPTION:In dem Workshop wollen wir uns anhand kleiner Textauszüge Kr
+ itiken an Staat und Kapitalismus verständlicher machen und erörtern\, 
+ in wie fern staatliche Herrschaft und kapitalistische Ausbeutung Ursache
+ n des Klimawandels sind. Dieser Einführungsworkshop soll die Teilnahme 
+ an dem Fortgeschrittenen-Workshop: "Strategien zur Verhindung des Klimaw
+ andels - Wie Staat und Kapitalismus überwinden und den Klimawandel aufh
+ alten?" erleichtern.\n
+URL:2015/events/19.html
+SUMMARY:Einführungsworkshop: Warum wir Staat und Kapitalismus zurückdr
+ ängen müssen um den Klimawandel einzudämmen
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110619Z
+UID:66b04f56-b4ff-4a47-8d8c-a31be1eeca0e@localhost
+DESCRIPTION:(noch unvollständige Beschreibung?)\nLiebe alle\, bitte brin
+ gt eine Decke bzw. eine Isomatte mit\, die auf dem Boden liegen darf\, z
+ ieht bitte Kleidung an\, die dreckig werden darf\, Schminke / fettige Cr
+ emes vor dem Workshop bitte abmachen\, Dankeschön :)
+URL:2015/events/84.html
+SUMMARY:Erste Hilfe für alle
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110608Z
+UID:2802dfcd-89c6-499d-9d97-03e2c3dcc9df@localhost
+DESCRIPTION:(noch unvollständige Beschreibung?)\nLiebe alle\, bitte brin
+ gt eine Decke bzw. eine Isomatte mit\, die auf dem Boden liegen darf\, z
+ ieht bitte Kleidung an\, die dreckig werden darf\, Schminke / fettige Cr
+ emes vor dem Workshop bitte abmachen\, Dankeschön :)
+URL:2015/events/83.html
+SUMMARY:Erste Hilfe für alle 
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150627T072651Z
+UID:74c08a6e-8610-4d3d-8c2f-77dfd3e87bb8@localhost
+DESCRIPTION:Die kapitalistische Wirtschaft beruht auf einem ungehemmten W
+ achstum. Doch die Grenzen unseres Ökosystems\nwerden immer sichtbarer: 
+ So durch den immer weiter steigenden CO2-Eintrag in unsere Atmosphäre. 
+ Auch die\nRohstoffe drohen knapp zu werden. Und das bereits stattfindend
+ e Artensterben oder der massive\nStickstoffausstoß bedrohen die Grundla
+ gen menschlichen Lebens auf unserem Planeten. Der Vortrag will\nanalysie
+ ren und bilanzieren: Welche Krisen haben wir zu erwarten? Lässt sich ei
+ n Zeithorizont für ihr Eintreten\nabschätzen? Wird dies ökonomische K
+ risen im Kapitalismus verursachen? Welche politischen Antworten sollte\n
+ die Ökologiebewegung geben?
+URL:2015/events/21.html
+SUMMARY:Extraktivismus und Grenzen des Wachstums
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114511Z
+UID:f38e63a4-5a44-4306-921b-48cd6817148f@localhost
+DESCRIPTION:Umweltschutz ist nicht per se links\, sondern hat antisemitis
+ che\, rassistische und esoterische Wurzeln. Am Anfang standen im Wilhelm
+ inischen Kaiserreich Lebensreform und Heimatschutz\, Eugenik und Rassenh
+ ygiene. Ihre Ideen prägten noch die Anfänge der modernen Ökologiebewe
+ gung und der Grünen in den 1970er-Jahren. Eine zentrale Vorstellung ist
+  die Legende von der Überbevölkerung oder gar „Bevölkerungsbombe“
+ . Statt den Kapitalismus als Ursache für ökologische Zerstörungen anz
+ ugreifen\, werden die Menschen im globalen Süden ins Visier genommen.
+URL:2015/events/67.html
+SUMMARY:Feindbild Mensch – Ökofaschismus\, Biozentrismus und Wachstums
+ kritik
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T192512Z
+UID:e5aa5c8e-9e5e-4b90-9f43-202ab7c7144d@localhost
+DESCRIPTION: „Wenn es falsch ist das Klima zu zerstören\, ist es falsc
+ h von dieser\n   Zerstörung zu profitieren.“\n\n   Fossil Free forder
+ t daher: Kein Geld mehr für Kohle\, Öl und Gas! Bei\n   verschiedenen 
+ Institutionen (u.a. Unis\, Städte\, Pensionsfonds) sind\n   bereits Erf
+ olge zu verzeichnen: Sie trennen sich von Anlagen in die\n   fossile Bre
+ nnstoffindustrie! Erfahre mehr über die\n   Divestment-Bewegung\, warum
+  sie so rasant wächst und wie sie\n   funktioniert. Überlege gemeinsam
+  mit uns\, welche Möglichkeiten der\n   Vernetzung mit anderen Akteur*i
+ nnen der Klimabewegung bestehen und\n   wo es Überschneidungen und Syne
+ rgieeffekte gibt\, von denen alle\n   profitieren können! \n\n“If it
+ ’s wrong to wreck the climate\, it’s wrong to profit from that\n   w
+ reckage.”\n   That’s why Fossil Free claims: No money for coal\, oil
+  and gas! There\n   have been successes with different institutions (e.g
+ . universities\,\n   municipalities\, pension funds): They get rid of in
+ vestments in the\n   fossil fuel industry! Learn more about the divestme
+ nt movement\, why\n   it grows so fast and how it works. Consider with u
+ s\, which\n   networking possibilities there are with other actors in th
+ e climate\n   movement and where we can find overlapping and synergetic 
+ effects\n   that we all can profit from! 
+URL:2015/events/111.html
+SUMMARY:Fossil Free - internationale Graswurzelbewegung
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T190312Z
+UID:3830d4ad-6f9d-473d-a8cb-c287bd921367@localhost
+DESCRIPTION: Aktive von Fossil Free Deutschland und einige aus dem europ
+ äischen\n   Netzwerk treffen sich zu einem Storytelling! Die Bewegung w
+ ächst und\n   feiert diverse Erfolge – welche Geschichten der lokalen
+ \n   Kampagnengruppen stecken dahinter? Neu an Divestment Interessierte\
+ n   sind herzlich eingeladen\, uns auf diese Art und Weise kennenzulerne
+ n\n   und von tollen oder misslungenen Aktionen zu hören\, aus denen al
+ le\n   lernen können!\n\n   Es wird eine kurze Einführung in Divestmen
+ t geben. Wer noch mehr\n   über unsere Strategie erfahren möchte\, kan
+ n gerne auch vorher zum\n   Workshop am Mittwochvormittag kommen. \n\n  
+  Wir freuen uns auf euch! \n\n Members of Fossil Free Germany and some o
+ f the European network are\n   going to meet for a storytelling! The mov
+ ement is growing and\n   celebrating several successes – which stories
+  of the local campaigns\n   can we find behind that? New people interest
+ ed in divestment are\n   most welcome to thus get to know Fossil Free an
+ d hear about\n   successful or failed actions\, from which everybody can
+  profit!\n\n   There will be a short introduction to divestment. If you 
+ want to\n   learn more about our strategy\, you can also come to the pre
+ vious\n   workshop on Wednesday morning.\n\n   Looking forward to see yo
+ u! 
+URL:2015/events/40.html
+SUMMARY:Fossil Free Storytelling
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114819Z
+UID:67caa5fa-9b7e-4ac1-8067-58215d7ba8fc@localhost
+DESCRIPTION:\nBeim Klimagipfel in Paris Ende des Jahres wird die Industri
+ e versuchen\, Erdgas und Fracking als klimafreundliche Lösungen zu verk
+ aufen. Auch zahlreiche klimapolitische Akteure handeln Erdgas als eine m
+ ögliche Brücke im Zuge der Energiewende. Ein Grund dafür ist der im V
+ ergleich zu anderen fossilen Energieträgern geringere CO2-Gehalt von Er
+ dgas. Gleichzeitig erleben die USA und zunehmend auch andere Länder wie
+  z.B. Argentinien durch die Anwendung von Fracking derzeit einen neuen G
+ as- und Ölrausch. Das hat gerade für Länder des globalen Südens grav
+ ierende Folgen. Zum einen sind die lokalen Auswirkungen von Fracking auf
+  Mensch und Umwelt dort oftmals noch deutlich gravierender als in Lände
+ rn des globalen Nordens. Zum anderen wird der Klimawandel\, unter dem sc
+ hon heute die ärmsten Regionen und Bevölkerungsgruppen am stärksten l
+ eiden\, durch die Erschließung immer neuer fossiler Vorkommen weiter an
+ geheizt.\n\nNach einer inhaltlichen Einführung sollen in diesem Worksho
+ p unter anderem folgende Fragen gemeinsam erörtert werden: Können Gas 
+ und Fracking eine Brücke in eine klimafreundliche Zukunft sein? Ist Gas
+  eine klimafreundliche Alternative zu Kohle? Wie könnten wirkliche Lös
+ ungen und Alternativen aussehen? (Wie) können Kämpfe gegen Fracking un
+ d Kohle sich gegenseitig stärken und unterstützen? 
+URL:2015/events/69.html
+SUMMARY:Fracking als Brückentechnologie? - Der neue Gasboom und seine Fo
+ lgen in Nord und Süd 
+ORGANIZER:kc2015
+LOCATION:Degrowth 2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T185955Z
+UID:824a257e-cb2f-42b1-abf5-b35631337b43@localhost
+DESCRIPTION:Vorkommen & Potenziale Erdgas- und Erdölfelder\, Erdgas und 
+ CO2-Verpressung\, \nBohrungen\, Sprengungen (Fracking)\, Erdgasaustritte
+  und Umweltvergiftung\, \nUntergrundgefahren\, Lagerstättenwasser\, Erd
+ beben\, Grundwasser\, Medien\, \nNaturschutz\, Politik\, ....
+URL:2015/events/51.html
+SUMMARY:Fracking und  Auswirkungen der Erdgasförderung auf Mensch und Um
+ welt
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T143409Z
+UID:3e93f1f6-375f-401b-8121-222825d36181@localhost
+DESCRIPTION:Unser Alltag ist bestimmt durch die kapitalistische Logik. Wi
+ e tief wir diese verinnerlicht haben und was sie mit uns macht – dem w
+ ollen wir in diesem Seminar auf die Spur kommen. Praktische Übungen mac
+ hen Gemeinsame Ökonomie erlebbar und regen an zur Reflexion.\nAnhand vo
+ n Beispielen kommen wir in die Diskussion über Sinn\, Nutzen und Schwie
+ rigkeiten Gemeinsamer Ökonomie. Darüber hinaus geben wir einen Überbl
+ ick über ihre verschiedenen Formen und verorten sie in Geschichte und T
+ heorien emanzipatorischer Bewegungen.\nDie Anzahl der Teilnehmer_innen i
+ st begrenzt.
+URL:2015/events/14.html
+SUMMARY:Gemeinsame Ökonomie
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110839Z
+UID:b39b9be1-ac4a-4e3d-a50b-85a87f771ed2@localhost
+DESCRIPTION:Mit dem „interkontinentalen Netzwerk des Widerstands“ wur
+ de 1994 von den Zapatistas ein Vorgehen entfaltet\, welches „Unterschi
+ ede erkennen und Ähnlichkeiten anerkennen“ will. Die „Bewegung der 
+ Bewegungen“\, welche sich in Gipfelprotesten gegen die G8\, IWF und We
+ ltbank oder die WTO kristallisierte\, fand hierin einen Ausgangspunkt. W
+ ie sie entstand\, welche Etappen sie erfuhr\, wie sie in Genua erstmals 
+ gebrochen wurde – darauf liegt der Schwerpunkt der Erinnerungen. Die w
+ eiteren Entwicklungen werden zusammengefasst und die Grundlage gelegt f
+ ür einen gemeinsamen Ausblick auf globale Bewegungen.
+URL:2015/events/97.html
+SUMMARY:Geschichte wird gemacht. 
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114324Z
+UID:d6852d92-c407-4f3a-a420-053fe5b62609@localhost
+DESCRIPTION:Anetta Ristow referiert zu politischen Kämpfen und Basisbewe
+ gungen in Griechenland.
+URL:2015/events/71.html
+SUMMARY:Griechenland - der schwere Weg sich vom  Spardiktat und seinen Fo
+ lgen zu befreien
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTAMP;VALUE=DATE-TIME:20150701T135309Z
+UID:93337687-7683-4714-85e1-9ccb5b227ad5@localhost
+DESCRIPTION:Es gibt eine einfache und transparente Methode\, wie globale 
+ Klimagerechtigkeit in einem alternativen\, vernünftigen UN-Prozess konk
+ ret umsetzbar wäre. Dies würde allerdings dazu führen\, dass vor alle
+ m die entwickelten Industrieländer enorme Klima-"Schulden" anerkennen m
+ üssten. Dies wird im derzeit global kapitalistisch dominierten System k
+ aum durchsetzbar sein. Trotzdem muss ein internationaler Kampf darum gef
+ ührt werden\, damit ein dramatisches Ausmaß des Klimawandels noch verh
+ indert wird. Zielsetzung des Vortrages und Workshops ist es\, die Urteil
+ sfähigkeit und Argumentationskraft zum Thema globale Klimagerechtigkeit
+  zu schärfen\, um mit anderen internationalistischen und umweltbewusste
+ n Kräften und Staaten weltweit - gemeinsam im N und S - eine wirksame K
+ limagerechtigkeitsbewegung aufzubauen. \n
+URL:2015/events/27.html
+SUMMARY:Kampf um globale Klimagerechtigkeit
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T201125Z
+UID:1d56657a-2e38-4241-8d90-ea9245f47235@localhost
+DESCRIPTION:Kein Zweifel: Karl Marx hat wieder Konjunktur. Aber wie hilfr
+ eich ist der überragende Denker des 19. Jahrhunderts wirklich für uns 
+ heute\, wenn wir eine nachhaltige und solidarische Gesellschaft aufbauen
+  wollen? Bruno Kern zeigt die Grenzen und die bleibende Bedeutung des De
+ nkens von Karl Marx aus ökosozialistischer Perspektive auf. 
+URL:2015/events/4.html
+SUMMARY:Karl Marx aus ökosozialistischer Perspektive
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114355Z
+UID:b4922e91-08f4-4e77-8045-ac2857398309@localhost
+DESCRIPTION:Bald ist es wieder so weit: Da die Vögel ihre Brut- und Nist
+ zeit beenden\, dürfen ab dem 01. Oktober wieder die Bäume\, auf denen 
+ sie brüteten gefällt werden. \nDoch seit mehreren Jahren ist der Hamba
+ cher Forst besetzt und die Anti-Kohle-Bewegung im Aufschwung. Wir wollen
+  dieses Moment nutzen und haben uns ein ehrgeiziges\, aber notwendiges Z
+ iel für den Herbst und den Frühling gesetzt: Kein Baum Fällt!
+URL:2015/events/79.html
+SUMMARY:Kein Baum fällt - Hambacher Forst bleibt !
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T100000
+DTSTAMP;VALUE=DATE-TIME:20150709T110724Z
+UID:53eb7cc0-50ea-4b29-bdb1-f291dc43f980@localhost
+DESCRIPTION:Global wird von Weltbank\, UNO-Institutionen\, Agrarindustrie
+  und großen Umweltorganisationen eine "Climate Smart Agriculture" voran
+ getrieben. "Nachhaltige" Intensivierung\, eine neue grüne Revolution un
+ d Emissionshandel hängen allesamt mit dieser Lösungsstrategie zusammen
+ . Der Workshop informiert über dominante Ansätze\, welche vorgeben\, m
+ ithilfe der Landwirtschaft Klimaschutz zu betreiben\, hintefrägt das da
+ hinterliegende Greenwashing\, zeigt Widersprüche und Gefahren auf und d
+ iskutiert\, wie Widerstand dagegen fruchtbringend sein könnte.
+URL:2015/events/90.html
+SUMMARY:Klima-Smarte Landwirtschaft?
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T153000
+DTSTAMP;VALUE=DATE-TIME:20150709T114621Z
+UID:5fdf50ed-9741-4cf5-b6b8-d56a6482d5a5@localhost
+DESCRIPTION:Die Art wie wir landwirtschaften spielt eine tiefgreifende Ro
+ lle bei der Gestaltung unserer Zukunft. \nWas wird die wachsende Zahl de
+ r Weltbevölkerung essen\, wo und wie wird sie leben? Die industrielle N
+ ahrungsmittelproduktion ist für annähernd die Hälfte des globalen Tre
+ ibhausgasausstoßes verantwortlich\, gleichzeitig wird die bäuerliche L
+ andwirtschaft\, die bis heute die Welt ernährt\, vom Klimawandel bedroh
+ t. \nErnährungssouvernänität ist das Modell\, das von La Via Campesin
+ a 1997 den Vereinten Nationen vorgestellt wurde\, und Agrarökologie der
+  bäuerliche Weg dorthin. Diese (gelebten) Lösungsvorschläge werden wi
+ r im Workshop vorstellen. Anschließen wollen wir uns darüber austausch
+ en\, wie die Forderung nach einem demokratischen\, zukunftsträchtigen u
+ nd gerechten Landwirtschafts- und Ernährungssystem zu dem Klima auf uns
+ erem Planeten beitragen kann.
+URL:2015/events/104.html
+SUMMARY:Klimagerechtigkeit durch Ernährungssouveränität
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102340Z
+UID:01765f34-c7f5-4131-8d83-db1448cffcf0@localhost
+DESCRIPTION:Der Vortrag Klimawandel\, Kapitalismus und Alternative Wurtsc
+ haftsformen erklärt nicht nur den Klimawandel sondern auch die Verbindu
+ ngen zu Kapitalismus. Außerdem werden Alternative Wirtschaftssysteme ku
+ rz Porträtiert. Ein Vortrag des 14- Jährigen Klimaschutzaktivisten und
+  Autors Leonard Hepermann.
+URL:2015/events/56.html
+SUMMARY:Klimawandel\, Kapitalismus und alterative Wirtschaftsformen
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T205805Z
+UID:f58dbfb1-d86d-4103-a9e9-e4c54bff2563@localhost
+DESCRIPTION:
+URL:2015/events/76.html
+SUMMARY:Kohleabbau in Indonesien 
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110817Z
+UID:a3baee4b-d258-43f2-a396-3fa3ef963b01@localhost
+DESCRIPTION:Im Nordosten Kolumbiens befindet sich „El Cerrrejón“\, d
+ er größte Steinkohletagebau Lateinamerikas. Dort wurde bereits eine Fl
+ äche von 69000 ha (eine Fläche annähernd so groß wie die Stadt Berli
+ n) geraubt\, zerstört und für die landwirtschaftliche Produktion der K
+ leinbäuerinnen unbrauchbar gemacht. Aktuell werden jährlich zwischen 4
+  und 16 Millionen Tonnen Kohle abgebaut. Unter den Hauptabnehmer sind di
+ e deutschen Stromproduzenten EON\, Vattenfall\, RWE\, EnBW\, die mittler
+ weile weit mehr Kohle aus Kolumbien einkaufen als Deutschland aus seinen
+  eigenen Tagebauen produziert.  \nIn diesem Kontext wurden mindestens 60
+ .000 Personen vertrieben und schätzungsweise 2500 Menschen gezielt ermo
+ rdet\; alltäglich gibt es Bedrohungen und Einschüchterungen\, so wie z
+ ahlreiche Vergewaltigungen. Desweiteren führen die Verschmutzungen von 
+ Luft\, Wasser und Böden zum starken Anstieg von Erkrankungen und Sterbe
+ fälle. \nTrotz der aktuellen Friedensverhandlungen zwischen Regierung u
+ nd der FARC- EP in Kolumbien\, hat sich an der Macht der Paramilitärs u
+ nd Unternehmen nichts geändert\, und ein Politwechsel gilt als sehr unw
+ ahrscheinlich. Präsident Santos setzt bei seinem Programm des Wirtschaf
+ tswachstums\, voll und ganz auf den Ausbau des Energiesektors.\nTrotzall
+ em gibt es zahlreiche Menschen und Organisationen\, die gegen dieses mö
+ rderische und zerstörende Geschäft kämpfen. 
+URL:2015/events/95.html
+SUMMARY:Kohleabbau und Energie-Politik in Kolumbien: Ein mörderisches un
+ d zerstörendes Geschäft
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T113327Z
+UID:6cfc0986-7a7b-4794-a9b5-9c6057e222a6@localhost
+DESCRIPTION:Das Kohlekraftwerk in Hamburg Moorburg ist Anfang des Jahres 
+ von Vattenfall in Betrieb genommen worden. Es ist mit ca. 9 Mio Tonnen C
+ O2 jährlich die größte CO2-Quelle Norddeutschlands. Wir wollen darüb
+ er berichten\, welche globalen und lokalen Auswirkungen das Kraftwerk ha
+ t.\nAußerdem wollen wir die Geschichte des Widerstands von den\nBauplat
+ zbesetzungen 2008 bis zur Blockade von Kohlelieferungen in diesem\nJahr 
+ nachzeichnen und diskutieren\, wie es mit dem Widerstand weitergehen kan
+ n.
+URL:2015/events/78.html
+SUMMARY:Kohlekraftwerk Moorburg- eine neue CO2-Schleuder für Hamburg
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150625T112534Z
+UID:319657eb-94d4-441a-8711-00429cf1f46a@localhost
+DESCRIPTION:In diesem Kurs geht um konsensorientierte Moderation – in e
+ xplizit basisdemokratischen Gruppen aber auch in anderen Zusammenhängen
+ \, sowohl in Klein- als auch in Großgruppen. Wir werden uns verschieden
+ e Tools und Methoden zur Moderation gemeinsam erarbeiten\, diese diskuti
+ eren und kritisch reflektieren\, aber auch üben. Sowohl Einsteiger_inne
+ n als auch Fortgeschrittene sind willkommen\, denn unsere unterschiedlic
+ hen Zugänge und Erfahrungen können uns gegenseitig bereichern. Nützli
+ ch ist aber\, wenn ihr schon Erfahrung mit Plenumssituationen habt. 
+URL:2015/events/57.html
+SUMMARY:Konsensorientierte Moderation Teil1
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114837Z
+UID:d7147062-20d6-47e0-996b-56cea86b731d@localhost
+DESCRIPTION:Fortsetzung des Workshops Konsensorientierte Moderation Teil1
+URL:2015/events/58.html
+SUMMARY:Konsensorientierte Moderation Teil2
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T115420Z
+UID:62d34521-8a2c-4235-9b71-db454ce3fef8@localhost
+DESCRIPTION:Fortsetzung des Workshops Konsensorientierte Moderation Teil2
+URL:2015/events/59.html
+SUMMARY:Konsensorientierte Moderation Teil3
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T113441Z
+UID:a80ac1e6-0c99-4118-9a83-e3b8a64fa639@localhost
+DESCRIPTION:in diesem workshop werden Aufblasbare Aktionsmaterialen gebas
+ telt.\nDieser Workshop geht den ganzen Tag
+URL:2015/events/29.html
+SUMMARY:Kunst gegen Kohle - Aufblasbare Aktionsmaterialien bauen
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T203853Z
+UID:f25868fd-713b-4af7-967e-76bf02e657ef@localhost
+DESCRIPTION:
+URL:2015/events/73.html
+SUMMARY:Kunst gegen Kohle - Aufblasbare Aktionsmaterialien bauen
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTAMP;VALUE=DATE-TIME:20150709T110702Z
+UID:585661ad-8ce7-4f84-84b0-52f87d450f17@localhost
+DESCRIPTION:Um den Klimawandel zu entschleunigen ist einer der entscheide
+ nsten Faktoren die elektrische Energieerzeugung und -Verteilung. Regener
+ ative Stromerzeugung muss  die Zukunft sein\, doch die großen Stromkonz
+ erne verlangsamen den Prozess und ziehen weiter Profit auf Kosten der Na
+ tur. Im Vortrag möchte ich euch die Grundprinzipien der Stromversorgung
+ \, die Argumente der Großen Vier und die  Problematiken verständlicher
+  machen.
+URL:2015/events/88.html
+SUMMARY:Lastflussmanagement
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102415Z
+UID:49c3e47c-1b77-4fc0-b445-ff2458085bea@localhost
+DESCRIPTION:Menschen\, die an der Abbaukante leben\, aber nicht von einer
+  Umsiedlung betroffen sind - auch Randbetroffene genannt -  müssen tagt
+ äglich mit Lärm\, Feinstaub\, sich absenkendem Boden und vielen andere
+ n Nebenwirkungen der Braunkohletagebaue leben. Entschädigungen erhalten
+  sie dafür meist keine. Wie geht es diesen Menschen damit\, wie wirkt s
+ ich diese Situation auf ihre Psyche aus und sind sie eigentlich solastal
+ gisch? Solastalgie- was ist das überhaupt? Mit diesen Fragen habe ich m
+ ich im Rahmen meiner psychologischen Bachelorarbeit beschäftigt - als V
+ ersuch einer ersten wissenschaftlich Analyse dieses Themas\, denn bisher
+  wurden Randbetroffenen sowohl politisch als auch medial wenig bis keine
+  Aufmerksamkeit geschenkt.\nIn diesem Workshop möchte ich euch meine Fo
+ rschungsergebnisse anschaulich darstellen\, viele kleine Anekdoten der R
+ andbetroffenen in der Lausitz erzählen und mit euch darüber diskutiere
+ n\, ob und wo Gemeinsamkeiten und Unterschiede zur Situation Randbetroff
+ ener im Rheinland liegen. Gern können wir auch weitere Ideen schmieden 
+ wie psychologische Forschung zu Braunkohle aussehen könnte. 
+URL:2015/events/25.html
+SUMMARY:Leben an der Kante - was macht das mit der Psyche? 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110652Z
+UID:47ceb5c5-a34f-4474-8e08-0dfaabad0559@localhost
+DESCRIPTION:Du sitzt auf der Straße\, vor Dir eine Polizeikette. Die Pol
+ izei fordert Dich auf\, zu gehen. Tausende Fragen... Mach ich mich straf
+ bar\, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Da
+ rf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das
+  mit der Nötigung?\nWer sich rechtlich unsicher fühlt\, was Blockaden\
+ , Versammlungen und Nötigungen eigentlich bedeuten\, zieht in\nder konk
+ reten Auseinandersetzung mit den Cops häufig den Kürzeren...
+URL:2015/events/85.html
+SUMMARY:Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110631Z
+UID:6178371f-6e8e-47ce-9ebc-d8d7fb17434e@localhost
+DESCRIPTION:Du sitzt auf der Straße\, vor Dir eine Polizeikette. Die Pol
+ izei fordert Dich auf\, zu gehen. Tausende Fragen... Mach ich mich straf
+ bar\, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Da
+ rf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das
+  mit der Nötigung?\nWer sich rechtlich unsicher fühlt\, was Blockaden\
+ , Versammlungen und Nötigungen eigentlich bedeuten\, zieht in\nder konk
+ reten Auseinandersetzung mit den Cops häufig den Kürzeren...
+URL:2015/events/86.html
+SUMMARY:Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110640Z
+UID:0841a30b-6b67-4519-8650-ca7cb5298919@localhost
+DESCRIPTION:Du sitzt auf der Straße\, vor Dir eine Polizeikette. Die Pol
+ izei fordert Dich auf\, zu gehen. Tausende Fragen... Mach ich mich straf
+ bar\, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Da
+ rf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das
+  mit der Nötigung?\nWer sich rechtlich unsicher fühlt\, was Blockaden\
+ , Versammlungen und Nötigungen eigentlich bedeuten\, zieht in\nder konk
+ reten Auseinandersetzung mit den Cops häufig den Kürzeren...
+URL:2015/events/87.html
+SUMMARY:Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T175738Z
+UID:07606881-5077-4aa0-b827-411881b9811a@localhost
+DESCRIPTION:In dem Workshop "Mobilität in der Postwachstumsgesellschaft"
+  werde ich nach der Methode des Solution Cycle arbeiten\, welche verstä
+ rkt das Engagement der Beteiligten erfordert. Der Solution Cycle arbeite
+ t in 8 Schritten\, in denen die Teilnehmer interaktiv involviert sind\, 
+ so dass gemeinsam ein Raum geschaffen wird\, in dem Neues denkbar wird: 
+ Erkennen\, erfinden\, klären\, wählen\, gestalten\, flow\, lernen und 
+ beenden. Es wird nach dem Motto gestaltet werden: Handle so\, dass stets
+  mehr Möglichkeiten entstehen. Ich arbeite für Prof. Dr. Gustav Bergma
+ nn in dem Projekt Scoutopia\, in dem er erfolgreich diese Methode in Gru
+ ppenworkshops anwendet. Im Oktober werde ich das Projekt "Mobiläb" star
+ ten und mit verschiedenen Disziplinen der Universität Siegen die neue M
+ obilität erforschen und gestalten. Ich freue mich auf den Austausch und
+  das Weiterentwickeln der Möglichkeiten\, die wir jetzt schon sehen.\n
+URL:2015/events/17.html
+SUMMARY:Mobilität in der Postwachstumsgesellschaft 
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTAMP;VALUE=DATE-TIME:20150706T101218Z
+UID:1a2263c1-c82a-4f4e-b0cf-8752fa38d132@localhost
+DESCRIPTION:Nachhaltiger Aktivismus beinhaltet das Lernen aus sozialen K
+ ämpfen\, strategisches politisches Handeln\, sowie individuelle und kol
+ lektive Strategien zur Stärkung unserer Widerstandskraft\, um langfrist
+ iges Engagement zu ermöglichen. Das Konzept des nachhaltigen Aktivismus
+  wird in diesem Workshop konkret auf die Klimabewegung angewandt\, wobei
+  die Strategien der Bewegung von 2008/2009 und die jetzigen Klimabewegun
+ g zu Paris und darüber hinaus berücksichtigt werden.
+URL:2015/events/74.html
+SUMMARY:Nachhaltiger Klimaaktivismus 
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110807Z
+UID:74f23e19-eec8-49fb-b092-82b520d933b1@localhost
+DESCRIPTION:Strategisch-politisches Handeln kann einen entscheiden Unters
+ chied\nmachen\, ob wir immer nur reagieren oder ob wir in die Offensive\
+ nkommen\, ob wir ermüden oder motiviert Stück für Stück uns unseren\
+ nZielen nähern. In diesem Workshop werden die Grundlagen für\nstrategi
+ sch - politisches Handeln erläutert und Analysewerkzeuge wie\nder Movem
+ ent-Action-Plan kritisch vorgestellt\, um so unsere\nBasisarbeit in der 
+ jungen Klimabewegung strategisch zu stärken.
+URL:2015/events/94.html
+SUMMARY:Nur Recht haben hilft uns auch nicht weiter... Strategisches Hand
+ eln in der Klimabewegung
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114928Z
+UID:f75fdc58-4630-4afa-bbed-522204b97f79@localhost
+DESCRIPTION:Hier ist Raum für Vernetzung und Austausch rund um Landwirts
+ chaftsthemen. Fühlt euch eingeladen unser Zelt mit nachhaltigen Ansätz
+ en zu beleben.
+URL:2015/events/106.html
+SUMMARY:Open Space
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T115323Z
+UID:213ca566-453a-4b9c-9404-2f7417793f68@localhost
+DESCRIPTION:Hier ist Raum für Vernetzung und Austausch rund um Landwirts
+ chaftsthemen. Fühlt euch eingeladen unser Zelt mit nachhaltigen Ansätz
+ en zu beleben.
+URL:2015/events/107.html
+SUMMARY:Open Space
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150710T120811Z
+UID:67fee5c4-f72b-4e7d-b90b-4083c057cca1@localhost
+DESCRIPTION:Politisch aktive Menschen sind häufig mit Repression konfron
+ tiert. Dies\nkann neben offensichtlichen Problemen wie z.B. Prozesskoste
+ n auch zu\npsychischen Belastungen wie Traumatischem Stress führen. Um 
+ damit einen\ngenauso solidarischen Umgang wie mit Prozesskosten zu finde
+ n\, ist es\nwichtig\, sich mit dem Thema Trauma auseinanderzusetzen und 
+ gemeinsam\ngegen diese Form von Repression zu handeln. Wie wichtig ein\n
+ unterstützender Umgang miteinander für dauerhafte politische Arbeit is
+ t\,\nsoll in diesem Workshop gezeigt werden.
+URL:2015/events/15.html
+SUMMARY:Out of Action Workshop
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T210119Z
+UID:4fcfdcb4-9282-4bad-8d9e-7c65bad5d655@localhost
+DESCRIPTION:
+URL:2015/events/77.html
+SUMMARY:Palmölplantagen in Indonesien
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTAMP;VALUE=DATE-TIME:20150702T233054Z
+UID:1127512d-b22b-4526-9006-cf2a647ae65e@localhost
+DESCRIPTION:Was sag ich in einem Interview? Wie schreib ich eine Pressemi
+ tteilung?\nWir funktioniert Pressearbeit eigentlich?\nDarüber wollen wi
+ r mit euch reden und auch praktisch werden (Pappkartons sind manchmal wu
+ nderbare Fernsehkameras)! Ziel ist es Menschen dazu zu befähigen\, sich
+  an der Pressearbeit zu beteiligen.
+URL:2015/events/75.html
+SUMMARY:Presseworkshop 
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T143000
+DTSTAMP;VALUE=DATE-TIME:20150709T115006Z
+UID:9cf41fda-7a4f-4e4b-ab6c-69fda6ac5cb9@localhost
+DESCRIPTION:"Die Weiten des Rheinischen Braunkohlereviers. Soviele Mögli
+ chkeiten.\nKleine Gruppen von klimaschützenden Braunkohlegegner*innen s
+ chlendern\ndurch die Landschaft\, immer auf der Suche nach dem idealen O
+ rt für einen\nBannerdrop\, ein Bagger-Selfie oder ein High Five mit dem
+  Team\nWachschutz. Im Blick immer der Punktstand und das Ziel katastroph
+ alen\nKlimawandeln zu verhindern. Macht mit bei der Rally Monte Grube\, 
+ sammelt\nPunkte für coole Aktionen (Anregungen im Kickoff Treffen um 16
+  Uhr im Zirkuszelt) und\nlernt die Kohlegruben von ihrer besten Seite ke
+ nnen\, als Spielfeld.\nAbends im Camp Erfahrungsaustausch und Auspunkten
+ ."
+URL:2015/events/101.html
+SUMMARY:Rally Monte Grube
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T114538Z
+UID:9f09a49f-85ef-41d8-b9c7-07d0c033df67@localhost
+DESCRIPTION:In diesem praktischen Workshop habt ihr die Gelegenheit\, mit
+  gemeinsam mit dem talentierten Rapper*innen "schnibbi" & "lady lazy" in
+  die Welt des Rappens einzutauchen und rappen zu lernen.
+URL:2015/events/16.html
+SUMMARY:Rap Workshop
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150710T122256Z
+UID:39fbadb5-22f2-490f-8d25-389b4bd8d386@localhost
+DESCRIPTION:My contribution in the workshop will shed some light on the n
+ otion of de-growth  (zuhd) from an Islamic perspective. It is intended t
+ o frame an enlightened Islamic discourse to address this notion in light
+  of market economy and consumerism. Islam as a way of life is seen to pr
+ ovide remedies and insights to the national and global debate on growth 
+ and sustainability. Islam views the role of the individual as a value-an
+ d knowledge creator\, a steward\, witness\, and a reformer who strives t
+ o contribute to progress and good life (Hayat Tayebah). To be able to ac
+ hieve this\, we must develop new development models that are informed by
+  both culture and ecology. Social equity\, good governance\, participati
+ on\, de-growth\, conservation and protection are key principles in natur
+ al resources  management in Islam. Islamic development model argues for 
+ achieving prosperity without increasing the ecological footprints. \n\nI
+ slamic worldview also provides new perspectives for discovering and expl
+ aining the root causes for the current  environmental\, economic and soc
+ ial crises as manifested in climate change\, water crisis\, poverty and 
+ human security. Besides\, Islam views the root cause of global warming a
+ nd water and ecological crisis is due to the absence or lack of human st
+ ewardship and the deviation and departure from “natural state” or Fi
+ tra. A framework for water sustainability which represents balance in th
+ e five capitals (natural\, social\, financial\, manufactured\, and human
+ ) will be outlined. 
+URL:2015/events/112.html
+SUMMARY:Re-thinking de-growth: Islamic perspectives
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T205746Z
+UID:d9918c62-5597-4953-a38e-f391f9ee4750@localhost
+DESCRIPTION:
+URL:2015/events/28.html
+SUMMARY:Resistance against Fracking in UK
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150713T104625Z
+UID:4fcaac79-454f-4ced-8e67-97c76078a868@localhost
+DESCRIPTION:Gemeinsam wollen wir uns die Grundlagen der Ersten-Hilfe erar
+ beiten und dabei besonders auf Hilfsmaßnahmen eingehen\, die bei einer 
+ emonstration oder einer Blockade benötigt werden könnten. Bitte beacht
+ et\, dass dieser Workshop ein Austausch von Fähigkeiten ist und kein Le
+ hrgang. Bitte bringt ein Handtuch mit.
+URL:2015/events/114.html
+SUMMARY:Sanitäts-Workshop
+ORGANIZER:kc2015
+LOCATION:Degrowth 2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150713T104656Z
+UID:2b39a0f2-c66f-480b-ab7b-cf14fb4238e5@localhost
+DESCRIPTION:Gemeinsam wollen wir uns die Grundlagen der Ersten-Hilfe erar
+ beiten und dabei besonders auf Hilfsmaßnahmen eingehen\, die bei einer 
+ emonstration oder einer Blockade benötigt werden könnten. Bitte beacht
+ et\, dass dieser Workshop ein Austausch von Fähigkeiten ist und kein Le
+ hrgang. Bitte bringt ein Handtuch mit.
+URL:2015/events/115.html
+SUMMARY:Sanitäts-Workshop
+ORGANIZER:kc2015
+LOCATION:Degrowth 2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T203805Z
+UID:e4630992-9ff9-4f54-97a3-5d15dbe54c02@localhost
+DESCRIPTION:Wir tauschen unsere Erfahrungen mi dem True Cost of Coal- Ban
+ ner und alte und neue Geschichten aus der Region und weltweit aus und ü
+ berlegen und planen unsere weitere Zusammenarbeit und zukünftige Projek
+ te. Das Treffen ist offen für alle Interessierten\, bringt wenn möglic
+ h eigene Geschichten aus dem Rheinland\, der Lausitz oder von anderswo m
+ it\, Geschichten über das Leben mit der Natur\, über die Zerstörung f
+ ür die Kohle\, über Widerstand\, Angst\, Mut und Träume!
+URL:2015/events/33.html
+SUMMARY:Share your Story - Austausch und Vernetzung zu den True Cost Of C
+ oal
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T203119Z
+UID:552b115a-4ccf-4d0a-8246-55fa5b77d320@localhost
+DESCRIPTION:Verschiedene Solarkocher (Boxkocher\, Parabolspiegel\, Scheff
+ ler-Spiegel\nund Trockner) werden vorgestellt. Mit  dem „Solar-Box-Koc
+ her“ können\nwir Kochen und Backen. Um Braten bzw. schnell Gerichte m
+ it viel\nFlüssigkeit zu Kochen sind die Parabolspiegel deutlich besser\
+ ngeeignet. Mit fokussierenden Spiegelsystemen können wir auch schnell\n
+ Brauchwasser zum (ab-)Waschen erwärmen.
+URL:2015/events/52.html
+SUMMARY:Solares Kochen und Trocknen - Vorstellung der Kocher und Einsatzm
+ öglichkeiten
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T203439Z
+UID:d6e27a87-aa0a-4d29-9f5a-d77cef66f76b@localhost
+DESCRIPTION:
+URL:2015/events/31.html
+SUMMARY:Solidarische Landwirtschaft
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T100000
+DTSTAMP;VALUE=DATE-TIME:20150709T114714Z
+UID:5116d4c4-81a9-496c-925a-3f9b64b94c3e@localhost
+DESCRIPTION:In diesem ersten Teil des Thementages " SoLaWi/CSA" wollen wi
+ r das SoLaWi/CSA-Konzept vorstellen und zeigen\, wie es zu einer lebendi
+ gen\, verantwortungsvollen Landwirtschaft führen kann und so einen esse
+ ntiellen Beitrag für eine nachhaltige Entwicklung leistet. Der workshop
+  richtet sich an Menschen\, die das Konzept (besser) kennenlernen möcht
+ en.
+URL:2015/events/91.html
+SUMMARY:Solidarische Landwirtschaft (SoLaWi)/Community Supported Agricult
+ ure – Was ist das und wie funktioniert es?
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110909Z
+UID:57a8fe68-e1da-4edf-b7b3-9239b4740fc6@localhost
+DESCRIPTION:Die Art und Weise wie der Klimawandel\, seine Ursachen und Fo
+ lgen gegenwärtig\nim herrschenden politischen Diskurs dargestellt werde
+ n\, greift zu kurz.\nEbenso\nsind die vorgeschlagenen Lösungen problema
+ tisch\, denn in beiden Fällen\nwird derKapitalismus als Grundproblem ni
+ cht thematisiert. In unserem\nWorkshop wollen wir den existierenden\, of
+ t als alternativlos\npräsentierten\, markt- und/oder\ntechnikfixierten 
+ Lösungen von oben einige Ideen für Ansätze einer sozial-\nökologisch
+ en Transformation von unten gegenüberstellen. Wir wollen im\nVorfeld\nd
+ es Pariser Klimagipfels im Dezember 2015 unterschiedliche Kurzschlüsse\
+ naufzeigen\, und damit zu einer Diskussion unter Klimabewegungsaktivist*
+ innen\nüber adäquate Strategien politischer Intervention aus sozial-ö
+ kologischer\nPerspektive beitragen. Dabei wollen wir auch begründen\, w
+ arum der\nPariser Gipfel nicht der Fokus politischer Aktionen sein sollt
+ e.\n
+URL:2015/events/100.html
+SUMMARY:Still not loving the Cop's
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114852Z
+UID:15287b2b-490c-4720-8713-86fb41b40649@localhost
+DESCRIPTION:Wenn der Kapitalismus Klimawandel produziert und der Staat de
+ n Kapitalismus aufrechterhält\, wie können wir dann den Klimawandel au
+ f halten? Nach ein paar Eingangsthesen wollen wir anhand von 5 Fragen de
+ battieren. Der Workshop baut thesenhaft inhaltlich auf den vorherigen Wo
+ rkshop: "Warum wir Staat und Kapitalismus zurückdrängen müssen um den
+  Klimawandel einzudämmen" auf\, sodass Einsteiger_innen beide Workshops
+  gemeinsam besuchen können\, der Workshop aber auch für sich allein st
+ ehen kann.\n
+URL:2015/events/20.html
+SUMMARY:Strategien zur Verhindung des Klimawandels - Wie Staat und Kapita
+ lismus überwinden und den Klimawandel aufhalten?
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T203822Z
+UID:a3d25d76-fcfd-4805-b1fc-cc63681e327d@localhost
+DESCRIPTION:Um Menschen die Zusammenhänge und Folgen der Kohleverbrennun
+ g und des Klimawandels verständlich zu machen\, brauchen wir kreative B
+ ildungsmaterialien\, mit denen wir alle erreichen. Das Beehive Collectiv
+ e\, ein Künstler*innen- Netzwerk aus den USA\, zeigt anhand eines 5 x 2
+ \,50 Meter großen Mosaikposters auf eindrückliche Weise die Entstehung
+  der Kohle\, den Abbau in den USA und dessen Folgen\, ihre Rolle in der 
+ kapitalistischen Gesellschaft aber auch den vielfältigen Widerstand und
+  Alternativen. Mit der Methode der "story-basededucation" gelingt es ihn
+ en\, komplexe Zusammenhänge künstlerisch und für jeden verständlich 
+ in Geschichten zu verpacken. Im Vortrag werden auch Geschichten des Kohl
+ eabbaus und Widerstands aus Deutschland erzählt.
+URL:2015/events/54.html
+SUMMARY:The True Cost of Coal
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T110900Z
+UID:b9fd28b2-0fe5-4e78-b590-ebe418c4d64d@localhost
+DESCRIPTION:Climate change\nand gender justice are interrelated and funda
+ mentally similar issues: to\nsuccessfully tackle climate change and gend
+ er oppression at the root of the\nproblem will mean widespread structura
+ l changes\, challenges to power relations\nand existing economic systems
+ \, and transformative processes. Both will require\nus to change the way
+  we think\, act and live our lives. \n\n\nLooking at the\nclimate proble
+ m through a gender lens reveals not only that climate change will\nimpac
+ t those most strongly who are most vulnerable and contributed least to t
+ he\nproblem – something that is by now widely recognised in the climat
+ e justice\nmovement. At the same time\, it can help us to understand tha
+ t our attempts to find\nsolutions (whether in the international climate 
+ negotiations or closer to home\,\nin locally-based climate activism) als
+ o contain gender dimensions: whose voices\nare heard? How inclusive are 
+ the practices we adopt? How can participation in\ndemocratic processes b
+ e encouraged? And what could emancipatory practices look\nlike?\nThis wo
+ rkshop will explore the ways in which climate justice and gender justice
+ \nare related – particularly in reference to our own forms of climate 
+ activism –\nand attempt to find some initial answers to the questions 
+ above.  
+URL:2015/events/99.html
+SUMMARY:There will be no climate justice without gender justice
+ORGANIZER:kc2015
+LOCATION:Queer-Feministisches Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114444Z
+UID:d35b6c9c-8247-4d6d-be2b-f90efcd38bdb@localhost
+DESCRIPTION:Ressourcenkonflikte waren schon immer Ursprung und Grund gewa
+ ltsamer\nAuseinandersetzungen. Die Strategien der Bergbau-Unternehmen si
+ nd in\nvielen Ländern ähnlich. Die meisten Regionen in denen sie aktiv
+  sind\,\ngehören zu den ärmsten in den jeweiligen Ländern. In diesem 
+ Workshop\nsollen Konflikte um Rohstoffe beleuchtet werden und anhand von
+ \nBeispielen Wege aus Armut und Gewalt gesucht und konkrete\n(Entwicklun
+ gs-)Alternativen entwickelt werden. Mithilfe eines Planspiels\nsollen Re
+ ssourcenkonflikte\, dargestellt werden\, um die Schwierigkeiten\naber au
+ ch die Möglichkeiten in derartigen Konflikten zu erkennen.
+URL:2015/events/108.html
+SUMMARY:To extract or not to extract - Ressourcen Konflikte und Entwicklu
+ ngsalternativen
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102344Z
+UID:823af114-3e6f-4ca8-828f-f9f32c9944ed@localhost
+DESCRIPTION:\nMovements and NGOs have been fighting new coal plants in Eu
+ rope since\n2006 but now the focus has begun to change: we need to shut 
+ down existing coal plants\nand mines. This will take some strategic thin
+ king and require\nmovements and NGOs to cooperate more closely. The work
+ shop will give an overview of the current\ncoal situation in Europe. We 
+ will discuss what strategies may help to\nshut down as many plants and m
+ ines as possible.\nThe workshop will be in English (or German-as needed)
+URL:2015/events/8.html
+SUMMARY:Uniting anti-coal fights in Europe - a strategy workshop
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T093000
+DTSTAMP;VALUE=DATE-TIME:20150706T102443Z
+UID:ae214da4-e641-44dd-b436-5e10fb8ec8e3@localhost
+DESCRIPTION:\nTrotz angeblichem Atomausstiegs dürfen die UAA Gronau und 
+ die Brennelementefabrik Lingen unbefristet weiter laufen. Die Brennstoff
+ spirale ist von dem was die Politik uns als Atomausstieg verkaufen will\
+ , nicht betroffen. Ob Uranerzkonzentrat\, Uranhexafluorid oder Brennelem
+ ente: Über den Hamburger Hafen fährt im Durchnitt alle zwei Tage ein A
+ tomtransport durch. Zahlreiche Transporte haben Uranfabriken in Frankrei
+ ch zum Ziel und fahren quer durchs dicht besiedelten Ruhrgebiet. Dagegen
+  gibt es Widerstand! Für den Herbst rufen Antiatomgruppen und AktIvistI
+ nnen zu Aktionenen entlang der Transportstrecken in Deutschland und Fran
+ kreich auf! Ohne Atomtransporte\, kein Kernbrennstoff!\nIm Workshop werd
+ en die Hintergründe dieser Transporte und ein kurzer Überblick über d
+ en aktuellen Widerstand in Deutschland und Frankreich beleuchtet\, sowie
+  Handlungsmöglichkeiten aufgezeigt. Ob Widerstansd gegen Kohlekraft\, A
+ tomkraft\, Fracking\, Flughafenbauten und weiteren unnütze Großprojekt
+ e (um nur einige Beispiele zu nennen)\, diese Kämpfe müssen wir für e
+ in besseres Klima und eine andere Welt zusammen führen!\n\nLinks: \nhtt
+ p://www.atomtransporte-hamburg-stoppen.de/\nwww.urantransport.de\nhttp:/
+ /www.urantransport.de/aktionstage.html\nhttp://www.atomtransporte-hambur
+ g-stoppen.de/wer-ist-an-den-transporten-beteiligt/uranfabrik-narbonne-ma
+ lvesi/
+URL:2015/events/18.html
+SUMMARY:Urantransporte vor deiner Haustür? 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T111013Z
+UID:13ef562c-b373-4ccd-ae19-caded4d9480d@localhost
+DESCRIPTION:Die Teilnehmer_innen bekommen einen Überblick über verschie
+ dene Begrifflichkeiten und 	Formen städtischen Gärtnerns\, wie z.B. Co
+ mmunity Gardens\, Urban Gardening\, Urban Agriculture oder Urban Food St
+ rategies. Es werden Erfahrungen weitergegeben welche kulturellen/politis
+ chen/sozialen Auswirkungen solche Projekte haben können. \n\nReferent: 
+ Mitarbeiter der Prinzessinnengärten\, Berlin. \nTeilnehmer_innen: Sovie
+ le wie in das LaWi-Zelt reinpassen.
+URL:2015/events/102.html
+SUMMARY:Urbane Nahrungsproduktion für Ahnungslose
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114412Z
+UID:24593adc-bc8d-4cb8-8f7e-46dfc5fb31bc@localhost
+DESCRIPTION:Nachhaltigkeit ist komplex und oft abstrakt\, von daher auch 
+ schwer vermittelbar. Visualisierungen wirken oft besser\, helfen beim Ve
+ rstehen und bleiben haften. Mit einfachen Mitteln und Techniken\, lassen
+  sich diese einfach erlernen und sofort umsetzen für die Dokumentation\
+ , unterstützend bei der Moderation oder auch als Grundlage für partizi
+ pative Prozesse.\nDurch Visualisierung kann man sehr viel mehr Menschen 
+ für das Thema Nachhaltigkeit begeistern und partizipieren lassen. Gerad
+ e das Thema Wachstum\, Umweltverhalten\, Konsum sind nicht immer einfach
+ e Themen. Durch die "Hands on" Methoden\, werden Teilnehmende sofort das
+  Erlernte umzusetzen und in ihrem täglichen Engagement und Tun anwenden
+  können.
+URL:2015/events/65.html
+SUMMARY:Visualisierung von Nachhaltigkeit
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114603Z
+UID:58feb9a6-9314-40fe-9f60-5753f009342f@localhost
+DESCRIPTION:Nachhaltigkeit ist komplex und oft abstrakt\, von daher auch 
+ schwer vermittelbar. Visualisierungen wirken oft besser\, helfen beim Ve
+ rstehen und bleiben haften. Mit einfachen Mitteln und Techniken\, lassen
+  sich diese einfach erlernen und sofort umsetzen für 
+URL:2015/events/66.html
+SUMMARY:Visualisierung von Nachhaltigkeit Teil 2
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T110848Z
+UID:f664e55f-62ff-49e9-b9ee-0c854a60f5ca@localhost
+DESCRIPTION:Die Parallelen in der Ausbeutung natürlicher Ressourcen und 
+ der primär von Frauen geleisteten Reproduktionsarbeit wird bereits seit
+  den 1980ern innerhalb der feministischen Bewegung diskutiert. Wir wolle
+ n an diese Auseinandersetzung anknüpfen und ausleuchten\, wie feministi
+ sche und ökologische Kämpfe zusammen gedacht werden können. Unter dem
+  Begriff des 'Care-Extraktivismus' (Christa Wichterich) führt die fre
+ ie Wissenschaftlerin und Aktivistin Friederike Habermann aktuelle Debatt
+ en um Care-Revolution\, (Neo-)Extraktivismus und Commons zusammen.
+URL:2015/events/98.html
+SUMMARY:Vom 'Care-Extraktivismus' über Commons zur Ecommony
+ORGANIZER:kc2015
+LOCATION:Queer-Feministisches Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T114732Z
+UID:cd234b5e-54b5-4c4e-a6d9-406baa6907d5@localhost
+DESCRIPTION:Nachdem der unbewaffnete\, schwarze Teenager Mike Brown in Fe
+ rguson\,\nMissouri im August 2014 von einem weißen Polizisten erschosse
+ n wurde\,\nfolgten massive Proteste\, die sich schnell über die ganze U
+ SA\nausbreiteten und noch immer anhalten. Kampagnen wie "Hands Up\, Don'
+ t\nShoot" und "Black Lives Matter" machen seitdem mit prominenten und\nm
+ edienwirksamen Aktionen auf institutionellen Rassismus aufmerksam. Eine\
+ nReise in die größte Gefängnisnation der Welt\, in der selbst 50 Jahr
+ e\nnach der Bürgerrechtsbewegung mehr schwarze Männer Haftstrafen absi
+ tzen\,\nals 1850 in den Südstaaten versklavt waren.\n\n\nDer Bildervort
+ rag von Emily Laquer\, ehemals Mitglied von Berkeley\nCopwatch\, beleuch
+ tet Zusammenhänge der US-amerikanischen Justiz\, sucht\nnach historisch
+ en und politischen Gründen für staatlichen Rassismus und\nzeigt Bilder
+  einer wachsenden antirassistischen Bewegung.\n
+URL:2015/events/80.html
+SUMMARY:Was ist los in Ferguson? Polizeigewalt\, Gefängnisindustrie und 
+ institutioneller Rassismus in den USA
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T150000
+DTSTAMP;VALUE=DATE-TIME:20150709T114755Z
+UID:64f7d613-911d-4f3c-bfc6-f359e72e524e@localhost
+DESCRIPTION:Im zweiten Teil des Thementages " SoLaWi/CSA" wollen wir für
+  Menschen die das SoLaWi/CSA-Konzept praktisch umsetzen einen Raum des A
+ ustausches schaffen. Ob für Gärtner_in oder Begärtnerte_n\, in der Pr
+ axis kommen doch immer wieder Fragen auf (z.B. zu Verteilung\, Finanzier
+ ung und Mitgliederstruktur). Darüber wollen wir sprechen\, Erfahrungen 
+ austauschen und ggf. gemeinsam neue Lösungen finden. Dazu sind alle Int
+ eressierten\, ob nun schon in einer SoLaWi/CSA aktiv oder nicht\, eingel
+ aden.
+URL:2015/events/92.html
+SUMMARY:Wenn es praktisch wird – das SoLaWi/CSA Konzept  und seine Hera
+ usfoderungen
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T144240Z
+UID:fec344b8-368b-4cfc-a6d1-48cb10736b72@localhost
+DESCRIPTION:CO2\, NOx\, PM 2\,5\, ... Habt ihr damals auch öfters Physik
+  und Chemie geschwänzt und wisst nur das Kohle irgendwie scheiße ist? 
+ Dann seid ihr in dem Workshop genau richtig. Der Kampf gegen Kohle ist n
+ icht nur Widerstand gegen Energieriesen\, sondern auch ein Kampf mit (na
+ tur)wissenschaftlichen Begriffen. Deshalb werden wir in spielerischer un
+ d intaktiver Weise versuchen dem Mysterium Kohle näher zu kommen mit al
+ l seinen Abkürzungen und Zusammenhängen. Der Workshop wird auf vor all
+ em auf deutsch statt finden\, aber auch für englisch sprachige Personen
+  möglich sein.
+URL:2015/events/6.html
+SUMMARY:What the fuck ist Kohle?
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T192349Z
+UID:cd1f1900-9dfd-46fe-a9d7-fdcec15c9b18@localhost
+DESCRIPTION:
+URL:2015/events/72.html
+SUMMARY:creative sweatshop
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T100000
+DTSTAMP;VALUE=DATE-TIME:20150707T193508Z
+UID:c01f1b4f-1ba4-4d8e-b04a-007aeb2657f8@localhost
+DESCRIPTION:Nigeria ist ein gutes Beispiel für die mit Riesenschritten v
+ oranschreitende Zerstörung der Lebensgrundlagen der Menschheit: Fast vo
+ llständige Abhängigkeit vom Öl\, Versteppung als Folge des Klimawande
+ ls\, Agrarindustrialisierung bei gleichzeitiger Zerstörung der Subsiste
+ nzbedingungen und empörende soziale Ungleichheit bei objektivem Reichtu
+ m des Landes.\nDie inneren Gesetzmäßigkeiten der Kapitalverwertung las
+ sen einen effektiven Kampf gegen Umweltzerstörung und Klimawandel nicht
+  zu. Die gerade in diesem reichen Ölland überall mit Händen zu greife
+ nden Zerstörungen lassen sich nur nur durch eine Produktionsweise aufhe
+ ben\, die am Gebrauchswert orientiert ist. Wie eine solche Gesellschafts
+ ordnung aussehen kann\, wollen wir in diesem Workshop diskutieren.
+URL:2015/events/23.html
+SUMMARY:Ökosozialismus – Ausweg aus der Umweltkatastrophe
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T093000
+DTSTAMP;VALUE=DATE-TIME:20150625T112233Z
+UID:aa8e8ee0-b281-447e-98ff-6bfe26867c61@localhost
+DESCRIPTION:Anknüpfend an die internationale ökosozialistische Erkläru
+ ng von Belem\, die am Rande der Weltsozialforums Bewegung entstanden war
+ \, haben wir auf einer Reihe von Konferenzen eine ökosozialistische Erk
+ lärung erarbeitet\, die wir in der emanzipationsorientierten Bildungsar
+ beit zur Diskussion stellen und in einem offenen Prozess weiterentwickel
+ n wollen. Wir bieten diesen Workshop an\, um anhand des Textes der Erkl
+ ärung darüber zu sprechen\, wie er weiter verbessert werden kann.
+URL:2015/events/35.html
+SUMMARY:Ökosozialistische Erklärung – work in progress
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T200000
+DTSTAMP;VALUE=DATE-TIME:20150709T110941Z
+UID:8c6bcaa4-6ce4-4cfe-a411-e870e55080d9@localhost
+DESCRIPTION:Film mit anschließender Diskussion:\nWissen wir was wir esse
+ n? Woher das kommt? Wie es produziert wird? Wer das produziert?...\nWiss
+ en wir\, dass wir das Recht auf gesunde und kulturell angepasste Lebensm
+ ittel haben\, die nachhaltig produziert wurden?\nErnährung ist viel meh
+ r als produzieren und konsumieren. Das ist eine neue Organisationsform\,
+  in dem wir fairere Beziehungen entwickeln können und wo Menschen\, Wü
+ rde\, Solidarität einen neuen Sinn bekommen.Wir laden euch ein\, euch v
+ erschiedene Erfahrungen aus dem Baskenland anzugucken\, wo die Utopie si
+ ch verwirklicht...\n\nSprache: Baskisch/Spanisch\nUntertitel: Spanisch\n
+ Produktion: EHNE Bizkaia & Bizi lur\, 2014. 52 Min.
+URL:2015/events/105.html
+SUMMARY:„Bide Berriak: La Soberania Alimentaria en Euskal Herria“
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110503Z
+UID:a294f2e3-8bf5-4efd-8dad-ec30e9082cf7@localhost
+DESCRIPTION:Der 100%ige Ausstieg aus den fossilen Energien wird nicht mac
+ hbar sein\, wenn er nicht einhergeht mit einer\numfassenden Umstellung n
+ icht nur unserer Konsumgewohnheiten\, sondern auch unserer Produktionswe
+ ise.\nKlimaschützer müssen deswegen auch die sozialen Probleme\, insbe
+ sondere die Massenarbeitslosigkeit mitdenken\nund Vorstellungen von eine
+ r Veränderung der Arbeitswelt entwickeln. Die Gewerkschaftsgruppe der C
+ ampaign\nagainst Climate Change in Großbritannien hat einen Plan entwic
+ kelt\, wie die britische Wirtschaft in den nächsten\n20 Jahren ihre CO2
+ -Emissionen um 80% reduzieren und dabei netto eine Million Arbeitsplätz
+ e schaffen kann.\nWir wollen diesen Plan erstmals in Deutschland vorstel
+ len.
+URL:2015/events/63.html
+SUMMARY:„Eine Million Klimajobs“. Wie mit sauberer Energie Arbeitspl
+ ätze geschaffen werden können
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T123000
+DTSTAMP;VALUE=DATE-TIME:20150704T090813Z
+UID:94855bab-c214-4b5c-990d-abaa9b8c6787@localhost
+DESCRIPTION:Im Klimaschutzgesetz der Landesregierung NRW weichen SPD und 
+ Grüne die deutschen Klimaschutzziele\nsignifikant auf. Anstatt das gesa
+ mtdeutsche Reduktionsziel (minus 40 % bis 2020) aktiv zu unterstützen\,
+  schert\nNRW aus der Phalanx aus und begnügt sich mit einem Reduktionsz
+ iel von nur „mindestens 25 %“. Der Koalitionsvertrag macht sich nich
+ t einmal die Mühe\, diesen elementaren Kurswechsel zu erklären\, die L
+ andesregierung versucht vor allem\, RWE zu retten. Ausgerechnet Rot-Grü
+ n fällt damit den Klimazielen der\nBundesregierung in den Rücken\, obw
+ ohl mehr als ein Drittel der in Deutschland ausgestoßenen klimaschädli
+ chen Gase auf das Konto von Nordrhein-Westfalen gehen.
+URL:2015/events/22.html
+SUMMARY:„Heiße Luft beim Klimaschutz“. Eine Bilanz der Klimapolitik 
+ in NRW
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

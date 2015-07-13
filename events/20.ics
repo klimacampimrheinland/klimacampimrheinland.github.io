@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114852Z
+UID:15287b2b-490c-4720-8713-86fb41b40649@localhost
+DESCRIPTION:Wenn der Kapitalismus Klimawandel produziert und der Staat de
+ n Kapitalismus aufrechterhält\, wie können wir dann den Klimawandel au
+ f halten? Nach ein paar Eingangsthesen wollen wir anhand von 5 Fragen de
+ battieren. Der Workshop baut thesenhaft inhaltlich auf den vorherigen Wo
+ rkshop: "Warum wir Staat und Kapitalismus zurückdrängen müssen um den
+  Klimawandel einzudämmen" auf\, sodass Einsteiger_innen beide Workshops
+  gemeinsam besuchen können\, der Workshop aber auch für sich allein st
+ ehen kann.\n
+URL:2015/events/20.html
+SUMMARY:Strategien zur Verhindung des Klimawandels - Wie Staat und Kapita
+ lismus überwinden und den Klimawandel aufhalten?
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

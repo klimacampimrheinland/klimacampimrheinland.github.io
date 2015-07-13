@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T153000
+DTSTAMP;VALUE=DATE-TIME:20150709T114621Z
+UID:5fdf50ed-9741-4cf5-b6b8-d56a6482d5a5@localhost
+DESCRIPTION:Die Art wie wir landwirtschaften spielt eine tiefgreifende Ro
+ lle bei der Gestaltung unserer Zukunft. \nWas wird die wachsende Zahl de
+ r Weltbevölkerung essen\, wo und wie wird sie leben? Die industrielle N
+ ahrungsmittelproduktion ist für annähernd die Hälfte des globalen Tre
+ ibhausgasausstoßes verantwortlich\, gleichzeitig wird die bäuerliche L
+ andwirtschaft\, die bis heute die Welt ernährt\, vom Klimawandel bedroh
+ t. \nErnährungssouvernänität ist das Modell\, das von La Via Campesin
+ a 1997 den Vereinten Nationen vorgestellt wurde\, und Agrarökologie der
+  bäuerliche Weg dorthin. Diese (gelebten) Lösungsvorschläge werden wi
+ r im Workshop vorstellen. Anschließen wollen wir uns darüber austausch
+ en\, wie die Forderung nach einem demokratischen\, zukunftsträchtigen u
+ nd gerechten Landwirtschafts- und Ernährungssystem zu dem Klima auf uns
+ erem Planeten beitragen kann.
+URL:2015/events/104.html
+SUMMARY:Klimagerechtigkeit durch Ernährungssouveränität
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

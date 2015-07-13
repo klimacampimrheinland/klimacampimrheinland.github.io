@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110839Z
+UID:b39b9be1-ac4a-4e3d-a50b-85a87f771ed2@localhost
+DESCRIPTION:Mit dem „interkontinentalen Netzwerk des Widerstands“ wur
+ de 1994 von den Zapatistas ein Vorgehen entfaltet\, welches „Unterschi
+ ede erkennen und Ähnlichkeiten anerkennen“ will. Die „Bewegung der 
+ Bewegungen“\, welche sich in Gipfelprotesten gegen die G8\, IWF und We
+ ltbank oder die WTO kristallisierte\, fand hierin einen Ausgangspunkt. W
+ ie sie entstand\, welche Etappen sie erfuhr\, wie sie in Genua erstmals 
+ gebrochen wurde – darauf liegt der Schwerpunkt der Erinnerungen. Die w
+ eiteren Entwicklungen werden zusammengefasst und die Grundlage gelegt f
+ ür einen gemeinsamen Ausblick auf globale Bewegungen.
+URL:2015/events/97.html
+SUMMARY:Geschichte wird gemacht. 
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110503Z
+UID:a294f2e3-8bf5-4efd-8dad-ec30e9082cf7@localhost
+DESCRIPTION:Der 100%ige Ausstieg aus den fossilen Energien wird nicht mac
+ hbar sein\, wenn er nicht einhergeht mit einer\numfassenden Umstellung n
+ icht nur unserer Konsumgewohnheiten\, sondern auch unserer Produktionswe
+ ise.\nKlimaschützer müssen deswegen auch die sozialen Probleme\, insbe
+ sondere die Massenarbeitslosigkeit mitdenken\nund Vorstellungen von eine
+ r Veränderung der Arbeitswelt entwickeln. Die Gewerkschaftsgruppe der C
+ ampaign\nagainst Climate Change in Großbritannien hat einen Plan entwic
+ kelt\, wie die britische Wirtschaft in den nächsten\n20 Jahren ihre CO2
+ -Emissionen um 80% reduzieren und dabei netto eine Million Arbeitsplätz
+ e schaffen kann.\nWir wollen diesen Plan erstmals in Deutschland vorstel
+ len.
+URL:2015/events/63.html
+SUMMARY:„Eine Million Klimajobs“. Wie mit sauberer Energie Arbeitspl
+ ätze geschaffen werden können
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+END:VCALENDAR

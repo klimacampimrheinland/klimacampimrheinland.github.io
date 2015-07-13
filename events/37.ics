@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T145251Z
+UID:96c63eb1-77f9-4920-8eeb-a7c1ab2d8ab2@localhost
+DESCRIPTION:Im September 2015 werden die Sustainable Development Goals (Z
+ iele für nachhaltige Entwicklung) die bisherigen Millennium-Entwicklung
+ sziele der UN ablösen. Die Millennium-Entwicklungsziele waren acht Ziel
+ e der UN\, verabschiedet von den Mitgliedsstaaten\, mit deren Hilfe man 
+ einen Rahmen für die internationale Entwicklungszusammenarbeit geschaff
+ en hat. Ihre Bilanz ist gemischt: Einerseits gelang es durch die Millenn
+ ium-Entwicklungsziele internationale Anstrengungen zu bündeln und so in
+  einigen Punkten Erfolge aufzuweisen\, andererseits wurden die Ziele kri
+ tisiert\, weil sie ohne Beteiligung der Zivilgesellschaft quasi im Hinte
+ rzimmer verhandelt wurden\, die acht Ziele keinen nachhaltigen Ansatz ve
+ rfolgten und weil die Ziele nur für sogenannte Entwicklungs- & Schwelle
+ nländer gelten sollten.\n\nDie Ziele für nachhaltige Entwicklung solle
+ n es nun besser machen. Dabei hat sich bereits viel geändert. Sie umfas
+ sen tatsächlich ökologische\, soziale und ökonomische Lösungsansätz
+ e und die bereits verhandelten 17 Ziele und 169 Unterziele machen das Do
+ kument deutlich komplexer. Darüber hinaus gab es eine breite Beteiligun
+ g von unterschiedlichsten Zivilgesellschaften bei den Verhandlungen der 
+ Ziele und Unterziele und die wichtigste Neuerung: Die Ziele für nachhal
+ tige Entwicklung werden für alle Staaten der Vereinten Nationen gelten\
+ , also auch für Deutschland. \nAber was bringen diese Ziele? Werden sie
+  die deutsche Politik nachhaltiger machen? Wie und für was kann Zivilge
+ sellschaft in Deutschland diese Ziele nutzen? Sind sie ein gutes Instrum
+ ent\, um eine Transformation einer Gesellschaft voranzutreiben? Spielen 
+ diese Ziele eine Rolle für die Degrowth-Bewegung?\n\nDiese und andere F
+ ragen wollen wir mit euch in diesem Workshop versuchen zu klären. Dazu 
+ wird es einen kurzen Input zu der Entstehung der Ziele für nachhaltige 
+ Entwicklung geben\, um danach gemeinsam darüber zu diskutieren\, ob tra
+ nsformatives Potential in den neuen Zielen der Vereinten Nationen liegt.
+ \n
+URL:2015/events/37.html
+SUMMARY:Die neuen Ziele der Vereinten Nationen – Die Ziele für nachhal
+ tige Entwicklung
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

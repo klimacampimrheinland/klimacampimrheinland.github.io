@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114819Z
+UID:67caa5fa-9b7e-4ac1-8067-58215d7ba8fc@localhost
+DESCRIPTION:\nBeim Klimagipfel in Paris Ende des Jahres wird die Industri
+ e versuchen\, Erdgas und Fracking als klimafreundliche Lösungen zu verk
+ aufen. Auch zahlreiche klimapolitische Akteure handeln Erdgas als eine m
+ ögliche Brücke im Zuge der Energiewende. Ein Grund dafür ist der im V
+ ergleich zu anderen fossilen Energieträgern geringere CO2-Gehalt von Er
+ dgas. Gleichzeitig erleben die USA und zunehmend auch andere Länder wie
+  z.B. Argentinien durch die Anwendung von Fracking derzeit einen neuen G
+ as- und Ölrausch. Das hat gerade für Länder des globalen Südens grav
+ ierende Folgen. Zum einen sind die lokalen Auswirkungen von Fracking auf
+  Mensch und Umwelt dort oftmals noch deutlich gravierender als in Lände
+ rn des globalen Nordens. Zum anderen wird der Klimawandel\, unter dem sc
+ hon heute die ärmsten Regionen und Bevölkerungsgruppen am stärksten l
+ eiden\, durch die Erschließung immer neuer fossiler Vorkommen weiter an
+ geheizt.\n\nNach einer inhaltlichen Einführung sollen in diesem Worksho
+ p unter anderem folgende Fragen gemeinsam erörtert werden: Können Gas 
+ und Fracking eine Brücke in eine klimafreundliche Zukunft sein? Ist Gas
+  eine klimafreundliche Alternative zu Kohle? Wie könnten wirkliche Lös
+ ungen und Alternativen aussehen? (Wie) können Kämpfe gegen Fracking un
+ d Kohle sich gegenseitig stärken und unterstützen? 
+URL:2015/events/69.html
+SUMMARY:Fracking als Brückentechnologie? - Der neue Gasboom und seine Fo
+ lgen in Nord und Süd 
+ORGANIZER:kc2015
+LOCATION:Degrowth 2
+END:VEVENT
+END:VCALENDAR

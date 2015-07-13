@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114701Z
+UID:c7af93c8-9eb3-4aa4-9e33-d1a66fbdb094@localhost
+DESCRIPTION:Unter der Führung der NSDAP im deutschen Reich kam es ab 193
+ 3 zu einer neuen Epoche der deutschen Industrialisierung. Sie führte zu
+  einer starken sozialen/ ökonomischen Umwälzung. \nTeil dieser ist die
+  Niederschlagung der Opposition und die Inhaftierungen von Millionen von
+  Menschen in Konzentrationslager\, wo sie ihren Tod fanden. Kriegspläne
+ \, Millionen an Reichsmark und letztlich der Beginn des 2. Weltkrieges s
+ ind wichtiger Bestandteil der deutschen Industriegeschichte. \nEin klein
+ er Einblick in die Entstehung\, dem Auf- und Ausbau des Rheinischen Brau
+ nkohlereviers und der dazugehörenden Industriezweige unter der Hakenkre
+ uz-Fahne.
+URL:2015/events/109.html
+SUMMARY:Eine Informationsveranstaltung über das Rheinische Braunkohlerev
+ ier  im Nationalsozialismus
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

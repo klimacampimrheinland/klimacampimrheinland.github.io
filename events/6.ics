@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T144240Z
+UID:fec344b8-368b-4cfc-a6d1-48cb10736b72@localhost
+DESCRIPTION:CO2\, NOx\, PM 2\,5\, ... Habt ihr damals auch öfters Physik
+  und Chemie geschwänzt und wisst nur das Kohle irgendwie scheiße ist? 
+ Dann seid ihr in dem Workshop genau richtig. Der Kampf gegen Kohle ist n
+ icht nur Widerstand gegen Energieriesen\, sondern auch ein Kampf mit (na
+ tur)wissenschaftlichen Begriffen. Deshalb werden wir in spielerischer un
+ d intaktiver Weise versuchen dem Mysterium Kohle näher zu kommen mit al
+ l seinen Abkürzungen und Zusammenhängen. Der Workshop wird auf vor all
+ em auf deutsch statt finden\, aber auch für englisch sprachige Personen
+  möglich sein.
+URL:2015/events/6.html
+SUMMARY:What the fuck ist Kohle?
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

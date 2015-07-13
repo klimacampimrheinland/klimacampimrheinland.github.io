@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102340Z
+UID:01765f34-c7f5-4131-8d83-db1448cffcf0@localhost
+DESCRIPTION:Der Vortrag Klimawandel\, Kapitalismus und Alternative Wurtsc
+ haftsformen erklärt nicht nur den Klimawandel sondern auch die Verbindu
+ ngen zu Kapitalismus. Außerdem werden Alternative Wirtschaftssysteme ku
+ rz Porträtiert. Ein Vortrag des 14- Jährigen Klimaschutzaktivisten und
+  Autors Leonard Hepermann.
+URL:2015/events/56.html
+SUMMARY:Klimawandel\, Kapitalismus und alterative Wirtschaftsformen
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

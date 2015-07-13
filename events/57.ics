@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150625T112534Z
+UID:319657eb-94d4-441a-8711-00429cf1f46a@localhost
+DESCRIPTION:In diesem Kurs geht um konsensorientierte Moderation – in e
+ xplizit basisdemokratischen Gruppen aber auch in anderen Zusammenhängen
+ \, sowohl in Klein- als auch in Großgruppen. Wir werden uns verschieden
+ e Tools und Methoden zur Moderation gemeinsam erarbeiten\, diese diskuti
+ eren und kritisch reflektieren\, aber auch üben. Sowohl Einsteiger_inne
+ n als auch Fortgeschrittene sind willkommen\, denn unsere unterschiedlic
+ hen Zugänge und Erfahrungen können uns gegenseitig bereichern. Nützli
+ ch ist aber\, wenn ihr schon Erfahrung mit Plenumssituationen habt. 
+URL:2015/events/57.html
+SUMMARY:Konsensorientierte Moderation Teil1
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+END:VCALENDAR

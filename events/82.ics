@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110551Z
+UID:11505eef-4aa0-4e72-9e62-845becc699ef@localhost
+DESCRIPTION:Immer\, wenn bei politischen Veranstaltungen Menschen\, die v
+ erschiedene Sprachen sprechen\, zusammenkommen\, werden viele Inhalte ü
+ bersetzt. Dolmetschen ist nicht nur etwas für Profis! Du würdest eigen
+ tlich gerne mal ausprobieren\, simultan zu dolmetschen\, aber brauchst n
+ och ein paar Tips? Super\, genau hier bekommst du sie! Der Workshop wird
+  mehrsprachig sein.
+URL:2015/events/82.html
+SUMMARY:Dolmetschen - ein Einführungsworkshop
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150630T135927Z
+UID:344194d6-b825-4954-bb59-e4eb3130eccb@localhost
+DESCRIPTION:Participants will be encouraged to share and reflect upon per
+ sonal and historical stories of\ncourage\, creativity and disobedience\,
+  learn to trust each other and engage in horizontal\n6\nprocesses of org
+ anising\, as well as explore tools for effective and creative strategies
+  that are\nrequired in order to organise appropriate responses to the in
+ justices of the climate\ncatastrophe.\nWe will use the Climate Games as 
+ a case study to devise creative actions. Climate Games\nare a transmedia
+  framework\, which during COP21\, will use both the cyberspace and the\n
+ streets of Paris (or their own locality) as a huge playfield\, where tea
+ ms will take action for\nclimate justice and against the toxic sludge of
+  green capitalism.
+URL:2015/events/30.html
+SUMMARY:Art\, activism and climate change
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+END:VCALENDAR

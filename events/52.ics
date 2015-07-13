@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T203119Z
+UID:552b115a-4ccf-4d0a-8246-55fa5b77d320@localhost
+DESCRIPTION:Verschiedene Solarkocher (Boxkocher\, Parabolspiegel\, Scheff
+ ler-Spiegel\nund Trockner) werden vorgestellt. Mit  dem „Solar-Box-Koc
+ her“ können\nwir Kochen und Backen. Um Braten bzw. schnell Gerichte m
+ it viel\nFlüssigkeit zu Kochen sind die Parabolspiegel deutlich besser\
+ ngeeignet. Mit fokussierenden Spiegelsystemen können wir auch schnell\n
+ Brauchwasser zum (ab-)Waschen erwärmen.
+URL:2015/events/52.html
+SUMMARY:Solares Kochen und Trocknen - Vorstellung der Kocher und Einsatzm
+ öglichkeiten
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

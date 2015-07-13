@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T200000
+DTSTAMP;VALUE=DATE-TIME:20150709T110758Z
+UID:a84c6b5a-5f36-494e-9335-90c5c1b8ea0f@localhost
+DESCRIPTION:Film mit anschließender Diskussion:\nDie GartenCoop Freiburg
+  setzt das Solawi-Konzept erfolgreich um. Die Mitglieder teilen sich die
+  Verantwortung für einen Betrieb in Stadtnähe und tragen gemeinsam die
+  Kosten und Risiken der Landwirtschaft. Dieser Dokumentarfilm gibt Einbl
+ ick in die Motivationen und das Innenleben der Kooperative. Er zeigt Men
+ schen\, die in Zeiten ökonomischer und ökologischer Krise der Macht de
+ r Agrarindustrie etwas entgegensetzen: Die Strategie der krummen Gurken.
+ \nEine cine rebelde Produktion 2013\, 64 Min.
+URL:2015/events/93.html
+SUMMARY:Die Strategie der krummen Gurken
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

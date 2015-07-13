@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T180000
+DTSTAMP;VALUE=DATE-TIME:20150709T115111Z
+UID:b4cecd26-8208-4b1a-b703-93a8a039fa97@localhost
+DESCRIPTION:In diesem Basistraining wollen wir uns fit machen für die Ma
+ ssenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm
+  stehen Bezugsgruppen\, Konsens\, Durchfließen von Polizeiketten und we
+ itere praktische Fähigkeiten
+URL:2015/events/42.html
+SUMMARY:Aktionstraining Teil 2
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

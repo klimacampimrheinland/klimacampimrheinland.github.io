@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102344Z
+UID:823af114-3e6f-4ca8-828f-f9f32c9944ed@localhost
+DESCRIPTION:\nMovements and NGOs have been fighting new coal plants in Eu
+ rope since\n2006 but now the focus has begun to change: we need to shut 
+ down existing coal plants\nand mines. This will take some strategic thin
+ king and require\nmovements and NGOs to cooperate more closely. The work
+ shop will give an overview of the current\ncoal situation in Europe. We 
+ will discuss what strategies may help to\nshut down as many plants and m
+ ines as possible.\nThe workshop will be in English (or German-as needed)
+URL:2015/events/8.html
+SUMMARY:Uniting anti-coal fights in Europe - a strategy workshop
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

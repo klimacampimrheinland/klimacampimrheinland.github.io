@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110807Z
+UID:74f23e19-eec8-49fb-b092-82b520d933b1@localhost
+DESCRIPTION:Strategisch-politisches Handeln kann einen entscheiden Unters
+ chied\nmachen\, ob wir immer nur reagieren oder ob wir in die Offensive\
+ nkommen\, ob wir ermüden oder motiviert Stück für Stück uns unseren\
+ nZielen nähern. In diesem Workshop werden die Grundlagen für\nstrategi
+ sch - politisches Handeln erläutert und Analysewerkzeuge wie\nder Movem
+ ent-Action-Plan kritisch vorgestellt\, um so unsere\nBasisarbeit in der 
+ jungen Klimabewegung strategisch zu stärken.
+URL:2015/events/94.html
+SUMMARY:Nur Recht haben hilft uns auch nicht weiter... Strategisches Hand
+ eln in der Klimabewegung
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

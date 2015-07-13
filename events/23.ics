@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T100000
+DTSTAMP;VALUE=DATE-TIME:20150707T193508Z
+UID:c01f1b4f-1ba4-4d8e-b04a-007aeb2657f8@localhost
+DESCRIPTION:Nigeria ist ein gutes Beispiel für die mit Riesenschritten v
+ oranschreitende Zerstörung der Lebensgrundlagen der Menschheit: Fast vo
+ llständige Abhängigkeit vom Öl\, Versteppung als Folge des Klimawande
+ ls\, Agrarindustrialisierung bei gleichzeitiger Zerstörung der Subsiste
+ nzbedingungen und empörende soziale Ungleichheit bei objektivem Reichtu
+ m des Landes.\nDie inneren Gesetzmäßigkeiten der Kapitalverwertung las
+ sen einen effektiven Kampf gegen Umweltzerstörung und Klimawandel nicht
+  zu. Die gerade in diesem reichen Ölland überall mit Händen zu greife
+ nden Zerstörungen lassen sich nur nur durch eine Produktionsweise aufhe
+ ben\, die am Gebrauchswert orientiert ist. Wie eine solche Gesellschafts
+ ordnung aussehen kann\, wollen wir in diesem Workshop diskutieren.
+URL:2015/events/23.html
+SUMMARY:Ökosozialismus – Ausweg aus der Umweltkatastrophe
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+END:VCALENDAR

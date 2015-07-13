@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T144252Z
+UID:5e5a780c-8297-4e1f-863d-5ca459d91f5f@localhost
+DESCRIPTION:Eine Überblend-Diashow über die Zerstörung der Erdoberflä
+ che durch Tagebaue\,die Vernichtung von Lebensraum\, soziale Entwurzelun
+ g der Menschen\,Gesundheitsgefährdungen und Folgen\, die Behinderung de
+ r Energiewende\, Darstellung der Tagebaue und Kraftwerke\, weitere Reduz
+ ierung der Formaldemokratie.
+URL:2015/events/5.html
+SUMMARY:Das Rheinische Braunkohlerevier
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

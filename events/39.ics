@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T204159Z
+UID:771576d8-79b3-4a38-aa26-0c8f2da4a4e9@localhost
+DESCRIPTION:In Commons wird entsprechend den Bedürfnissen der Menschen u
+ nd mit Rücksicht auf die vorhandenen Ressourcen produziert. Aber reicht
+  das schon\, um dem Klimawandel zu begegnen? In dem Workshop würde ich 
+ gerne Fragen wie diesen nachgehen: Wo gibt es Anknüpfungspunkte zwische
+ n Klimaaktivist*innen und Commonsaktivist*innen? Was und wie können Com
+ mons zur Verlangsamung des Klimawandels beitragen? Ist das Klima ein Com
+ mons? Oder die Atmosphäre? Oder das CO2?
+URL:2015/events/39.html
+SUMMARY:Commons und Klimawandel
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

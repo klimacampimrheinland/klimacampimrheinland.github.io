@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T113325Z
+UID:ea8472ba-916f-42db-9aa5-bb8376aca0c7@localhost
+DESCRIPTION:Kaufen\, kaufen\, kaufen: Werbung manipuliert\, heizt überfl
+ üssigen Konsum\nan\, färbt das Image ausbeuterischer Konzerne schön\,
+  bedient Klischees\nund ist oft sexistisch. Du willst das nicht hinnehme
+ n? Dann probiere\ndich im Adbusting: Wie kannst du durch kleine aber fei
+ ne Veränderungen\,\nWerbung eine neue Bedeutung verleihen oder sie soga
+ r komplett umkehren?\nIn diesem Workshop warten Werbungen großer Firmen
+  nur darauf von euch\nmit Farbe\, Scheren und Kleber verändert zu werde
+ n.\nDer WS baut aufeinander auf. Es ist möglich auch später einzusteig
+ en\n(dann verpasst ihr jedoch den Teil\, wo die Techniken erklärt werde
+ n).
+URL:2015/events/24.html
+SUMMARY:Adbusting – Die Welt der Werbung kreativ umgestalten
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+END:VCALENDAR

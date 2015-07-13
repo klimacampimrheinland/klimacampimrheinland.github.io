@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114444Z
+UID:d35b6c9c-8247-4d6d-be2b-f90efcd38bdb@localhost
+DESCRIPTION:Ressourcenkonflikte waren schon immer Ursprung und Grund gewa
+ ltsamer\nAuseinandersetzungen. Die Strategien der Bergbau-Unternehmen si
+ nd in\nvielen Ländern ähnlich. Die meisten Regionen in denen sie aktiv
+  sind\,\ngehören zu den ärmsten in den jeweiligen Ländern. In diesem 
+ Workshop\nsollen Konflikte um Rohstoffe beleuchtet werden und anhand von
+ \nBeispielen Wege aus Armut und Gewalt gesucht und konkrete\n(Entwicklun
+ gs-)Alternativen entwickelt werden. Mithilfe eines Planspiels\nsollen Re
+ ssourcenkonflikte\, dargestellt werden\, um die Schwierigkeiten\naber au
+ ch die Möglichkeiten in derartigen Konflikten zu erkennen.
+URL:2015/events/108.html
+SUMMARY:To extract or not to extract - Ressourcen Konflikte und Entwicklu
+ ngsalternativen
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

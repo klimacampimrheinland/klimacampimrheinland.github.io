@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTAMP;VALUE=DATE-TIME:20150701T135309Z
+UID:93337687-7683-4714-85e1-9ccb5b227ad5@localhost
+DESCRIPTION:Es gibt eine einfache und transparente Methode\, wie globale 
+ Klimagerechtigkeit in einem alternativen\, vernünftigen UN-Prozess konk
+ ret umsetzbar wäre. Dies würde allerdings dazu führen\, dass vor alle
+ m die entwickelten Industrieländer enorme Klima-"Schulden" anerkennen m
+ üssten. Dies wird im derzeit global kapitalistisch dominierten System k
+ aum durchsetzbar sein. Trotzdem muss ein internationaler Kampf darum gef
+ ührt werden\, damit ein dramatisches Ausmaß des Klimawandels noch verh
+ indert wird. Zielsetzung des Vortrages und Workshops ist es\, die Urteil
+ sfähigkeit und Argumentationskraft zum Thema globale Klimagerechtigkeit
+  zu schärfen\, um mit anderen internationalistischen und umweltbewusste
+ n Kräften und Staaten weltweit - gemeinsam im N und S - eine wirksame K
+ limagerechtigkeitsbewegung aufzubauen. \n
+URL:2015/events/27.html
+SUMMARY:Kampf um globale Klimagerechtigkeit
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

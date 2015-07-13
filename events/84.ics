@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110619Z
+UID:66b04f56-b4ff-4a47-8d8c-a31be1eeca0e@localhost
+DESCRIPTION:(noch unvollständige Beschreibung?)\nLiebe alle\, bitte brin
+ gt eine Decke bzw. eine Isomatte mit\, die auf dem Boden liegen darf\, z
+ ieht bitte Kleidung an\, die dreckig werden darf\, Schminke / fettige Cr
+ emes vor dem Workshop bitte abmachen\, Dankeschön :)
+URL:2015/events/84.html
+SUMMARY:Erste Hilfe für alle
+ORGANIZER:kc2015
+LOCATION:Zelt Skills for Climate Movement ..
+END:VEVENT
+END:VCALENDAR

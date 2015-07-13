@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T114511Z
+UID:f38e63a4-5a44-4306-921b-48cd6817148f@localhost
+DESCRIPTION:Umweltschutz ist nicht per se links\, sondern hat antisemitis
+ che\, rassistische und esoterische Wurzeln. Am Anfang standen im Wilhelm
+ inischen Kaiserreich Lebensreform und Heimatschutz\, Eugenik und Rassenh
+ ygiene. Ihre Ideen prägten noch die Anfänge der modernen Ökologiebewe
+ gung und der Grünen in den 1970er-Jahren. Eine zentrale Vorstellung ist
+  die Legende von der Überbevölkerung oder gar „Bevölkerungsbombe“
+ . Statt den Kapitalismus als Ursache für ökologische Zerstörungen anz
+ ugreifen\, werden die Menschen im globalen Süden ins Visier genommen.
+URL:2015/events/67.html
+SUMMARY:Feindbild Mensch – Ökofaschismus\, Biozentrismus und Wachstums
+ kritik
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

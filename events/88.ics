@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTAMP;VALUE=DATE-TIME:20150709T110702Z
+UID:585661ad-8ce7-4f84-84b0-52f87d450f17@localhost
+DESCRIPTION:Um den Klimawandel zu entschleunigen ist einer der entscheide
+ nsten Faktoren die elektrische Energieerzeugung und -Verteilung. Regener
+ ative Stromerzeugung muss  die Zukunft sein\, doch die großen Stromkonz
+ erne verlangsamen den Prozess und ziehen weiter Profit auf Kosten der Na
+ tur. Im Vortrag möchte ich euch die Grundprinzipien der Stromversorgung
+ \, die Argumente der Großen Vier und die  Problematiken verständlicher
+  machen.
+URL:2015/events/88.html
+SUMMARY:Lastflussmanagement
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110817Z
+UID:a3baee4b-d258-43f2-a396-3fa3ef963b01@localhost
+DESCRIPTION:Im Nordosten Kolumbiens befindet sich „El Cerrrejón“\, d
+ er größte Steinkohletagebau Lateinamerikas. Dort wurde bereits eine Fl
+ äche von 69000 ha (eine Fläche annähernd so groß wie die Stadt Berli
+ n) geraubt\, zerstört und für die landwirtschaftliche Produktion der K
+ leinbäuerinnen unbrauchbar gemacht. Aktuell werden jährlich zwischen 4
+  und 16 Millionen Tonnen Kohle abgebaut. Unter den Hauptabnehmer sind di
+ e deutschen Stromproduzenten EON\, Vattenfall\, RWE\, EnBW\, die mittler
+ weile weit mehr Kohle aus Kolumbien einkaufen als Deutschland aus seinen
+  eigenen Tagebauen produziert.  \nIn diesem Kontext wurden mindestens 60
+ .000 Personen vertrieben und schätzungsweise 2500 Menschen gezielt ermo
+ rdet\; alltäglich gibt es Bedrohungen und Einschüchterungen\, so wie z
+ ahlreiche Vergewaltigungen. Desweiteren führen die Verschmutzungen von 
+ Luft\, Wasser und Böden zum starken Anstieg von Erkrankungen und Sterbe
+ fälle. \nTrotz der aktuellen Friedensverhandlungen zwischen Regierung u
+ nd der FARC- EP in Kolumbien\, hat sich an der Macht der Paramilitärs u
+ nd Unternehmen nichts geändert\, und ein Politwechsel gilt als sehr unw
+ ahrscheinlich. Präsident Santos setzt bei seinem Programm des Wirtschaf
+ tswachstums\, voll und ganz auf den Ausbau des Energiesektors.\nTrotzall
+ em gibt es zahlreiche Menschen und Organisationen\, die gegen dieses mö
+ rderische und zerstörende Geschäft kämpfen. 
+URL:2015/events/95.html
+SUMMARY:Kohleabbau und Energie-Politik in Kolumbien: Ein mörderisches un
+ d zerstörendes Geschäft
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T185955Z
+UID:824a257e-cb2f-42b1-abf5-b35631337b43@localhost
+DESCRIPTION:Vorkommen & Potenziale Erdgas- und Erdölfelder\, Erdgas und 
+ CO2-Verpressung\, \nBohrungen\, Sprengungen (Fracking)\, Erdgasaustritte
+  und Umweltvergiftung\, \nUntergrundgefahren\, Lagerstättenwasser\, Erd
+ beben\, Grundwasser\, Medien\, \nNaturschutz\, Politik\, ....
+URL:2015/events/51.html
+SUMMARY:Fracking und  Auswirkungen der Erdgasförderung auf Mensch und Um
+ welt
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

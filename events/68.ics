@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T114139Z
+UID:8e8544e2-1976-46fd-aff9-8fe0754f9de1@localhost
+DESCRIPTION:Noch nie waren so viele Menschen auf der Flucht vor Krieg und
+  Armut\, gleichzeitig\nschottet sich Europa ab\, wie im Mittelmeer oftma
+ ls mit tödlichen Folgen. Dagegen öffnet\ndie Gobalisierung alle Schran
+ ken für Waren- und Kapitalströme.\nWir laden Euch dazu ein\, gemeinsam
+  "über Grenzen" nachzudenken. Grenzen bestehen\nnicht nur im räumliche
+ n und politischen Sinne. Wir alle unterscheiden das Vertraute vom\nFremd
+ en und Unbekannten\, um zu wissen\, wer wir sind und wohin wir gehören.
+  Wie\nverträgt sich diese mitunter lebenswichtige Grenzziehung im psych
+ ologischen Sinne mit\ndem Ideal einer "Willkommenskultur"\, dem Leben in
+  einer "offenen Weltgemeinschaft"\njenseits aller Unterschiede? Wie kön
+ nen wir uns in lokalen\, dezentralen Gemeinschaften\nverwurzeln und glei
+ chzeitig achtsam gegenüber Mensch und Erde in ihrer Gesamtheit\nsein?
+URL:2015/events/68.html
+SUMMARY:"Über Grenzen"
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

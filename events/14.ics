@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T093000
+DTSTAMP;VALUE=DATE-TIME:20150629T143409Z
+UID:3e93f1f6-375f-401b-8121-222825d36181@localhost
+DESCRIPTION:Unser Alltag ist bestimmt durch die kapitalistische Logik. Wi
+ e tief wir diese verinnerlicht haben und was sie mit uns macht – dem w
+ ollen wir in diesem Seminar auf die Spur kommen. Praktische Übungen mac
+ hen Gemeinsame Ökonomie erlebbar und regen an zur Reflexion.\nAnhand vo
+ n Beispielen kommen wir in die Diskussion über Sinn\, Nutzen und Schwie
+ rigkeiten Gemeinsamer Ökonomie. Darüber hinaus geben wir einen Überbl
+ ick über ihre verschiedenen Formen und verorten sie in Geschichte und T
+ heorien emanzipatorischer Bewegungen.\nDie Anzahl der Teilnehmer_innen i
+ st begrenzt.
+URL:2015/events/14.html
+SUMMARY:Gemeinsame Ökonomie
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

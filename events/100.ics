@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110909Z
+UID:57a8fe68-e1da-4edf-b7b3-9239b4740fc6@localhost
+DESCRIPTION:Die Art und Weise wie der Klimawandel\, seine Ursachen und Fo
+ lgen gegenwärtig\nim herrschenden politischen Diskurs dargestellt werde
+ n\, greift zu kurz.\nEbenso\nsind die vorgeschlagenen Lösungen problema
+ tisch\, denn in beiden Fällen\nwird derKapitalismus als Grundproblem ni
+ cht thematisiert. In unserem\nWorkshop wollen wir den existierenden\, of
+ t als alternativlos\npräsentierten\, markt- und/oder\ntechnikfixierten 
+ Lösungen von oben einige Ideen für Ansätze einer sozial-\nökologisch
+ en Transformation von unten gegenüberstellen. Wir wollen im\nVorfeld\nd
+ es Pariser Klimagipfels im Dezember 2015 unterschiedliche Kurzschlüsse\
+ naufzeigen\, und damit zu einer Diskussion unter Klimabewegungsaktivist*
+ innen\nüber adäquate Strategien politischer Intervention aus sozial-ö
+ kologischer\nPerspektive beitragen. Dabei wollen wir auch begründen\, w
+ arum der\nPariser Gipfel nicht der Fokus politischer Aktionen sein sollt
+ e.\n
+URL:2015/events/100.html
+SUMMARY:Still not loving the Cop's
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

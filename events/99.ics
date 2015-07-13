@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T110900Z
+UID:b9fd28b2-0fe5-4e78-b590-ebe418c4d64d@localhost
+DESCRIPTION:Climate change\nand gender justice are interrelated and funda
+ mentally similar issues: to\nsuccessfully tackle climate change and gend
+ er oppression at the root of the\nproblem will mean widespread structura
+ l changes\, challenges to power relations\nand existing economic systems
+ \, and transformative processes. Both will require\nus to change the way
+  we think\, act and live our lives. \n\n\nLooking at the\nclimate proble
+ m through a gender lens reveals not only that climate change will\nimpac
+ t those most strongly who are most vulnerable and contributed least to t
+ he\nproblem – something that is by now widely recognised in the climat
+ e justice\nmovement. At the same time\, it can help us to understand tha
+ t our attempts to find\nsolutions (whether in the international climate 
+ negotiations or closer to home\,\nin locally-based climate activism) als
+ o contain gender dimensions: whose voices\nare heard? How inclusive are 
+ the practices we adopt? How can participation in\ndemocratic processes b
+ e encouraged? And what could emancipatory practices look\nlike?\nThis wo
+ rkshop will explore the ways in which climate justice and gender justice
+ \nare related – particularly in reference to our own forms of climate 
+ activism –\nand attempt to find some initial answers to the questions 
+ above.  
+URL:2015/events/99.html
+SUMMARY:There will be no climate justice without gender justice
+ORGANIZER:kc2015
+LOCATION:Queer-Feministisches Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

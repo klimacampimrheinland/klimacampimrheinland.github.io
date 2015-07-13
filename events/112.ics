@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150710T122256Z
+UID:39fbadb5-22f2-490f-8d25-389b4bd8d386@localhost
+DESCRIPTION:My contribution in the workshop will shed some light on the n
+ otion of de-growth  (zuhd) from an Islamic perspective. It is intended t
+ o frame an enlightened Islamic discourse to address this notion in light
+  of market economy and consumerism. Islam as a way of life is seen to pr
+ ovide remedies and insights to the national and global debate on growth 
+ and sustainability. Islam views the role of the individual as a value-an
+ d knowledge creator\, a steward\, witness\, and a reformer who strives t
+ o contribute to progress and good life (Hayat Tayebah). To be able to ac
+ hieve this\, we must develop new development models that are informed by
+  both culture and ecology. Social equity\, good governance\, participati
+ on\, de-growth\, conservation and protection are key principles in natur
+ al resources  management in Islam. Islamic development model argues for 
+ achieving prosperity without increasing the ecological footprints. \n\nI
+ slamic worldview also provides new perspectives for discovering and expl
+ aining the root causes for the current  environmental\, economic and soc
+ ial crises as manifested in climate change\, water crisis\, poverty and 
+ human security. Besides\, Islam views the root cause of global warming a
+ nd water and ecological crisis is due to the absence or lack of human st
+ ewardship and the deviation and departure from “natural state” or Fi
+ tra. A framework for water sustainability which represents balance in th
+ e five capitals (natural\, social\, financial\, manufactured\, and human
+ ) will be outlined. 
+URL:2015/events/112.html
+SUMMARY:Re-thinking de-growth: Islamic perspectives
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

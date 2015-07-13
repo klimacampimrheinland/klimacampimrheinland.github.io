@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T191403Z
+UID:d95e176e-e112-4b7d-be8d-4066ecce05c8@localhost
+DESCRIPTION:Die Tagebaukante Garzweiler wollen wir ansteuern und einen Bl
+ ick in´s Loch werfen.\nSamstag\, 8.August 9 Uhr geht´s los.\nWir fahre
+ n mit dem Fahrrad. Bitte bringt Räder mit. (falls du kein Fahrrad haben
+  solltest\,\ngibt es evtl. die Möglichkeit\, eines zu leihen).\n\n: Gar
+ zweiler ist der zweitgrößte Braunkohletagebau in D (der größte ist H
+ ambach).\n   Die Kraftwerke des rheinischen Braunkohlerevier´s sind Eur
+ opa´s größter CO2-Emittent.  \n   (ca. 100 Mio t CO2 / Jahr\; ganz Ö
+ sterreich emitiert ca.70 Mio t / Jahr).\n\n: um das 2-Grad Ziel zu halte
+ n\, muß Kohle raus aus dem Energiemix. (Öl und Gas müssen \n   kontin
+ gentiert werden).\n\n: außerdem geht´s hier in der Gegend auch darum\,
+  die letzten Wälder und\n   landwirtschaftlichen Flächen zu retten und
+  weitere Umsiedlungen zu unterlassen.    
+URL:2015/events/10.html
+SUMMARY:Braunkohle Exkursion
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

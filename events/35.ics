@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T093000
+DTSTAMP;VALUE=DATE-TIME:20150625T112233Z
+UID:aa8e8ee0-b281-447e-98ff-6bfe26867c61@localhost
+DESCRIPTION:Anknüpfend an die internationale ökosozialistische Erkläru
+ ng von Belem\, die am Rande der Weltsozialforums Bewegung entstanden war
+ \, haben wir auf einer Reihe von Konferenzen eine ökosozialistische Erk
+ lärung erarbeitet\, die wir in der emanzipationsorientierten Bildungsar
+ beit zur Diskussion stellen und in einem offenen Prozess weiterentwickel
+ n wollen. Wir bieten diesen Workshop an\, um anhand des Textes der Erkl
+ ärung darüber zu sprechen\, wie er weiter verbessert werden kann.
+URL:2015/events/35.html
+SUMMARY:Ökosozialistische Erklärung – work in progress
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

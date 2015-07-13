@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150710T120811Z
+UID:67fee5c4-f72b-4e7d-b90b-4083c057cca1@localhost
+DESCRIPTION:Politisch aktive Menschen sind häufig mit Repression konfron
+ tiert. Dies\nkann neben offensichtlichen Problemen wie z.B. Prozesskoste
+ n auch zu\npsychischen Belastungen wie Traumatischem Stress führen. Um 
+ damit einen\ngenauso solidarischen Umgang wie mit Prozesskosten zu finde
+ n\, ist es\nwichtig\, sich mit dem Thema Trauma auseinanderzusetzen und 
+ gemeinsam\ngegen diese Form von Repression zu handeln. Wie wichtig ein\n
+ unterstützender Umgang miteinander für dauerhafte politische Arbeit is
+ t\,\nsoll in diesem Workshop gezeigt werden.
+URL:2015/events/15.html
+SUMMARY:Out of Action Workshop
+ORGANIZER:kc2015
+LOCATION:Degrowth 1
+END:VEVENT
+END:VCALENDAR

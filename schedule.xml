@@ -1,0 +1,3125 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+  <version>1</version>
+  <conference>
+    <acronym>kc2015</acronym>
+    <title>Klimcamp 2015</title>
+    <start>2015-08-07</start>
+    <end>2015-08-17</end>
+    <days>11</days>
+    <timeslot_duration>00:30</timeslot_duration>
+  </conference>
+  <day date='2015-08-07' end='2015-08-07T22:00:00+02:00' index='1' start='2015-08-07T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='ec04b6ef-f85f-47b0-a799-0da8c33bfa61' id='38'>
+        <date>2015-08-07T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-38-ausstieg_aus_der_braunkohleverstromung_konkret</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Ausstieg aus der Braunkohleverstromung konkret</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Der kommunale
+          Kölner Energieversorger RheinEnergie betreibt einen Block
+          desHeizkraftwerkesin Köln-Merkenich mit Braunkohlegranulat. Welche
+          konkreten Aktivitäten unternimmt dieKölner Bürgerinitiative &quot;Tschö
+          RheinEnergie&quot;, um denBraunkohleblock stillzulegen?
+        </abstract>
+        <description>
+          Der kommunale
+          Kölner Energieversorger RheinEnergie betreibt einen Block
+          desHeizkraftwerkesin Köln-Merkenich mit Braunkohlegranulat. Welche
+          konkreten Aktivitäten unternimmt dieKölner Bürgerinitiative &quot;Tschö
+          RheinEnergie&quot;, um denBraunkohleblock stillzulegen?
+        </description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-08' end='2015-08-08T22:00:00+02:00' index='2' start='2015-08-08T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='1127512d-b22b-4526-9006-cf2a647ae65e' id='75'>
+        <date>2015-08-08T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-75-presseworkshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Presseworkshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type></type>
+        <language>de</language>
+        <abstract>
+          Was sag ich in einem Interview? Wie schreib ich eine Pressemitteilung?
+          Wir funktioniert Pressearbeit eigentlich?
+          Darüber wollen wir mit euch reden und auch praktisch werden (Pappkartons sind manchmal wunderbare Fernsehkameras)! Ziel ist es Menschen dazu zu befähigen, sich an der Pressearbeit zu beteiligen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='70'>Presse AG</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='823af114-3e6f-4ca8-828f-f9f32c9944ed' id='8'>
+        <date>2015-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-8-uniting_anti-coal_fights_in_europe_-_a_strategy_workshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Uniting anti-coal fights in Europe - a strategy workshop</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          
+          Movements and NGOs have been fighting new coal plants in Europe since
+          2006 but now the focus has begun to change: we need to shut down existing coal plants
+          and mines. This will take some strategic thinking and require
+          movements and NGOs to cooperate more closely. The workshop will give an overview of the current
+          coal situation in Europe. We will discuss what strategies may help to
+          shut down as many plants and mines as possible.
+          The workshop will be in English (or German-as needed)
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='35'>Mona Bricke</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='47ceb5c5-a34f-4474-8e08-0dfaabad0559' id='85'>
+        <date>2015-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-85-legal_aid_-von_a_wie_anketten_bis_z_wie_zivilrechtsklage</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Du sitzt auf der Straße, vor Dir eine Polizeikette. Die Polizei fordert Dich auf, zu gehen. Tausende Fragen... Mach ich mich strafbar, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Darf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das mit der Nötigung?
+          Wer sich rechtlich unsicher fühlt, was Blockaden, Versammlungen und Nötigungen eigentlich bedeuten, zieht in
+          der konkreten Auseinandersetzung mit den Cops häufig den Kürzeren...
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='aa8e8ee0-b281-447e-98ff-6bfe26867c61' id='35'>
+        <date>2015-08-08T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-35-okosozialistische_erklarung_work_in_progress</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Ökosozialistische Erklärung – work in progress</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Anknüpfend an die internationale ökosozialistische Erklärung von Belem, die am Rande der Weltsozialforums Bewegung entstanden war, haben wir auf einer Reihe von Konferenzen eine ökosozialistische Erklärung erarbeitet, die wir in der emanzipationsorientierten Bildungsarbeit zur Diskussion stellen und in einem offenen Prozess weiterentwickeln wollen. Wir bieten diesen Workshop an, um anhand des Textes der Erklärung darüber zu sprechen, wie er weiter verbessert werden kann.</abstract>
+        <description></description>
+        <persons>
+          <person id='49'>Manuel Kellner, Peter Schüren</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='8e8544e2-1976-46fd-aff9-8fe0754f9de1' id='68'>
+        <date>2015-08-08T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-68-uber_grenzen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>&quot;Über Grenzen&quot;</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Noch nie waren so viele Menschen auf der Flucht vor Krieg und Armut, gleichzeitig
+          schottet sich Europa ab, wie im Mittelmeer oftmals mit tödlichen Folgen. Dagegen öffnet
+          die Gobalisierung alle Schranken für Waren- und Kapitalströme.
+          Wir laden Euch dazu ein, gemeinsam &quot;über Grenzen&quot; nachzudenken. Grenzen bestehen
+          nicht nur im räumlichen und politischen Sinne. Wir alle unterscheiden das Vertraute vom
+          Fremden und Unbekannten, um zu wissen, wer wir sind und wohin wir gehören. Wie
+          verträgt sich diese mitunter lebenswichtige Grenzziehung im psychologischen Sinne mit
+          dem Ideal einer &quot;Willkommenskultur&quot;, dem Leben in einer &quot;offenen Weltgemeinschaft&quot;
+          jenseits aller Unterschiede? Wie können wir uns in lokalen, dezentralen Gemeinschaften
+          verwurzeln und gleichzeitig achtsam gegenüber Mensch und Erde in ihrer Gesamtheit
+          sein?
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='63'>Johannes Raschke (Kein Mensch ist illegal)</person>
+          <person id='64'>Bernhard Fiedler (Kein Mensch ist illegal)</person>
+          <person id='65'>Stephanie Walter</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='01765f34-c7f5-4131-8d83-db1448cffcf0' id='56'>
+        <date>2015-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-56-klimawandel_kapitalismus_und_alterative_wirtschaftsformen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Klimawandel, Kapitalismus und alterative Wirtschaftsformen</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Der Vortrag Klimawandel, Kapitalismus und Alternative Wurtschaftsformen erklärt nicht nur den Klimawandel sondern auch die Verbindungen zu Kapitalismus. Außerdem werden Alternative Wirtschaftssysteme kurz Porträtiert. Ein Vortrag des 14- Jährigen Klimaschutzaktivisten und Autors Leonard Hepermann.</abstract>
+        <description></description>
+        <persons>
+          <person id='56'>Leonard Hepermann</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='2be40dea-a9de-4737-8420-fdcb6d23e515' id='7'>
+        <date>2015-08-08T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>02:00</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-7-braunkohle_exkursion</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Braunkohle Exkursion</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>
+          Die Tagebaukante Garzweiler wollen wir ansteuern und einen Blick in´s Loch werfen.
+          Samstag, 8.August 9 Uhr geht´s los.
+          Wir fahren mit dem Fahrrad. Bitte bringt Räder mit. (falls du kein Fahrrad haben solltest,
+          gibt es evtl. die Möglichkeit, eines zu leihen).
+          
+          : Garzweiler ist der zweitgrößte Braunkohletagebau in D (der größte ist Hambach).
+             Die Kraftwerke des rheinischen Braunkohlerevier´s sind Europa´s größter CO2-Emittent.  
+             (ca. 100 Mio t CO2 / Jahr; ganz Österreich emitiert ca.70 Mio t / Jahr).
+          
+          : um das 2-Grad Ziel zu halten, muß Kohle raus aus dem Energiemix. (Öl und Gas müssen 
+             kontingentiert werden).
+          
+          : außerdem geht´s hier in der Gegend auch darum, die letzten Wälder und
+             landwirtschaftlichen Flächen zu retten und weitere Umsiedlungen zu unterlassen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='37'>Micha</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='fec344b8-368b-4cfc-a6d1-48cb10736b72' id='6'>
+        <date>2015-08-08T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-6-what_the_fuck_ist_kohle</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>What the fuck ist Kohle?</title>
+        <subtitle>Der intaktive Einführungsworkshop</subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>CO2, NOx, PM 2,5, ... Habt ihr damals auch öfters Physik und Chemie geschwänzt und wisst nur das Kohle irgendwie scheiße ist? Dann seid ihr in dem Workshop genau richtig. Der Kampf gegen Kohle ist nicht nur Widerstand gegen Energieriesen, sondern auch ein Kampf mit (natur)wissenschaftlichen Begriffen. Deshalb werden wir in spielerischer und intaktiver Weise versuchen dem Mysterium Kohle näher zu kommen mit all seinen Abkürzungen und Zusammenhängen. Der Workshop wird auf vor allem auf deutsch statt finden, aber auch für englisch sprachige Personen möglich sein.</abstract>
+        <description></description>
+        <persons>
+          <person id='26'>dattel, ausgeCO2hlt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='08b3af95-86bf-4aff-8a45-b542fed34e36' id='89'>
+        <date>2015-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-89-das_pulheimer_manifest_von_2006</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Das Pulheimer Manifest von 2006</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type></type>
+        <language>de</language>
+        <abstract>
+          Klima retten - Erneuerbare Energien ausbauen - Regionalwirtschaft stärken - Zukunftsfähige Arbeitsplätze schaffen - Heimat bewahren - Natur schützen - Lebensqualität sichern
+          
+          Vorgeschichte – Bürgerforum Pulheim – Inhalt – Wirkung
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='93'>Leben ohne Braunkohle Pulheim-Stommeln</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='a3baee4b-d258-43f2-a396-3fa3ef963b01' id='95'>
+        <date>2015-08-08T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-95-kohleabbau_und_energie-politik_in_kolumbien_ein_morderisches_und_zerstorendes_geschaft</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kohleabbau und Energie-Politik in Kolumbien: Ein mörderisches und zerstörendes Geschäft</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Im Nordosten Kolumbiens befindet sich „El Cerrrejón“, der größte Steinkohletagebau Lateinamerikas. Dort wurde bereits eine Fläche von 69000 ha (eine Fläche annähernd so groß wie die Stadt Berlin) geraubt, zerstört und für die landwirtschaftliche Produktion der Kleinbäuerinnen unbrauchbar gemacht. Aktuell werden jährlich zwischen 4 und 16 Millionen Tonnen Kohle abgebaut. Unter den Hauptabnehmer sind die deutschen Stromproduzenten EON, Vattenfall, RWE, EnBW, die mittlerweile weit mehr Kohle aus Kolumbien einkaufen als Deutschland aus seinen eigenen Tagebauen produziert.  
+          In diesem Kontext wurden mindestens 60.000 Personen vertrieben und schätzungsweise 2500 Menschen gezielt ermordet; alltäglich gibt es Bedrohungen und Einschüchterungen, so wie zahlreiche Vergewaltigungen. Desweiteren führen die Verschmutzungen von Luft, Wasser und Böden zum starken Anstieg von Erkrankungen und Sterbefälle. 
+          Trotz der aktuellen Friedensverhandlungen zwischen Regierung und der FARC- EP in Kolumbien, hat sich an der Macht der Paramilitärs und Unternehmen nichts geändert, und ein Politwechsel gilt als sehr unwahrscheinlich. Präsident Santos setzt bei seinem Programm des Wirtschaftswachstums, voll und ganz auf den Ausbau des Energiesektors.
+          Trotzallem gibt es zahlreiche Menschen und Organisationen, die gegen dieses mörderische und zerstörende Geschäft kämpfen.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='b02b7bb6-cf15-4946-8d06-26df8d61e8d1' id='55'>
+        <date>2015-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-55-einfuhrung_in_die_gewaltfreie_kommunikation</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Einführung in die Gewaltfreie Kommunikation</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Die GFK bietet viele Methoden und Denkansätze, die uns helfen mit uns
+          und anderen Menschen liebevoller umzugehen, aber auch &quot;Nein&quot; zu sagen
+          und unsere Grenzen zu wahren. Ich werde die theoretischen Grundlagen
+          kurz erklären und dann anhand der Fragen der Teilnehmenden einige
+          Aspekte (auch mit praktischen Übungen) vertiefen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='57'>Philipp Baum</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-09' end='2015-08-09T22:00:00+02:00' index='3' start='2015-08-09T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='74f23e19-eec8-49fb-b092-82b520d933b1' id='94'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>03:00</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-94-nur_recht_haben_hilft_uns_auch_nicht_weiter_strategisches_handeln_in_der_klimabewegung</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Nur Recht haben hilft uns auch nicht weiter... Strategisches Handeln in der Klimabewegung</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Strategisch-politisches Handeln kann einen entscheiden Unterschied
+          machen, ob wir immer nur reagieren oder ob wir in die Offensive
+          kommen, ob wir ermüden oder motiviert Stück für Stück uns unseren
+          Zielen nähern. In diesem Workshop werden die Grundlagen für
+          strategisch - politisches Handeln erläutert und Analysewerkzeuge wie
+          der Movement-Action-Plan kritisch vorgestellt, um so unsere
+          Basisarbeit in der jungen Klimabewegung strategisch zu stärken.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='24593adc-bc8d-4cb8-8f7e-46dfc5fb31bc' id='65'>
+        <date>2015-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-65-visualisierung_von_nachhaltigkeit</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Visualisierung von Nachhaltigkeit</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Nachhaltigkeit ist komplex und oft abstrakt, von daher auch schwer vermittelbar. Visualisierungen wirken oft besser, helfen beim Verstehen und bleiben haften. Mit einfachen Mitteln und Techniken, lassen sich diese einfach erlernen und sofort umsetzen für die Dokumentation, unterstützend bei der Moderation oder auch als Grundlage für partizipative Prozesse.
+          Durch Visualisierung kann man sehr viel mehr Menschen für das Thema Nachhaltigkeit begeistern und partizipieren lassen. Gerade das Thema Wachstum, Umweltverhalten, Konsum sind nicht immer einfache Themen. Durch die &quot;Hands on&quot; Methoden, werden Teilnehmende sofort das Erlernte umzusetzen und in ihrem täglichen Engagement und Tun anwenden können.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='344194d6-b825-4954-bb59-e4eb3130eccb' id='30'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>05:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-30-art_activism_and_climate_change</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Art, activism and climate change</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          Participants will be encouraged to share and reflect upon personal and historical stories of
+          courage, creativity and disobedience, learn to trust each other and engage in horizontal
+          6
+          processes of organising, as well as explore tools for effective and creative strategies that are
+          required in order to organise appropriate responses to the injustices of the climate
+          catastrophe.
+          We will use the Climate Games as a case study to devise creative actions. Climate Games
+          are a transmedia framework, which during COP21, will use both the cyberspace and the
+          streets of Paris (or their own locality) as a huge playfield, where teams will take action for
+          climate justice and against the toxic sludge of green capitalism.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='73'>Isa, The Laboratory of Insurrectionary Imagination</person>
+          <person id='88'>JJ, The Laboratory of Insurrectionary Imagination</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='11505eef-4aa0-4e72-9e62-845becc699ef' id='82'>
+        <date>2015-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-82-dolmetschen_-_ein_einfuhrungsworkshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Dolmetschen - ein Einführungsworkshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Immer, wenn bei politischen Veranstaltungen Menschen, die verschiedene Sprachen sprechen, zusammenkommen, werden viele Inhalte übersetzt. Dolmetschen ist nicht nur etwas für Profis! Du würdest eigentlich gerne mal ausprobieren, simultan zu dolmetschen, aber brauchst noch ein paar Tips? Super, genau hier bekommst du sie! Der Workshop wird mehrsprachig sein.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='b39b9be1-ac4a-4e3d-a50b-85a87f771ed2' id='97'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-97-geschichte_wird_gemacht</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Geschichte wird gemacht.</title>
+        <subtitle>Ein Rückblick auf die Globalisierungsbewegung von Friederike Habermann 	und ein gemeinsamer Ausblick</subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Mit dem „interkontinentalen Netzwerk des Widerstands“ wurde 1994 von den Zapatistas ein Vorgehen entfaltet, welches „Unterschiede erkennen und Ähnlichkeiten anerkennen“ will. Die „Bewegung der Bewegungen“, welche sich in Gipfelprotesten gegen die G8, IWF und Weltbank oder die WTO kristallisierte, fand hierin einen Ausgangspunkt. Wie sie entstand, welche Etappen sie erfuhr, wie sie in Genua erstmals gebrochen wurde – darauf liegt der Schwerpunkt der Erinnerungen. Die weiteren Entwicklungen werden zusammengefasst und die Grundlage gelegt für einen gemeinsamen Ausblick auf globale Bewegungen.</abstract>
+        <description>
+          Ich benötige für meine Veranstaltung: 
+          Strom   mit Beamer   mit Laptop  (Strom nur begrenzt verfügbar)
+          Bei Bedarf kann ich das Angebot auch mehrmals anbieten  
+          Bei Bedarf kann ich das Angebot auch in Englisch anbieten  
+        </description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='d6e27a87-aa0a-4d29-9f5a-d77cef66f76b' id='31'>
+        <date>2015-08-09T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-31-solidarische_landwirtschaft</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Solidarische Landwirtschaft</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='78'>SolaWi Köln</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='b4922e91-08f4-4e77-8045-ac2857398309' id='79'>
+        <date>2015-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-79-kein_baum_fallt_-_hambacher_forst_bleibt</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kein Baum fällt - Hambacher Forst bleibt !</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Bald ist es wieder so weit: Da die Vögel ihre Brut- und Nistzeit beenden, dürfen ab dem 01. Oktober wieder die Bäume, auf denen sie brüteten gefällt werden. 
+          Doch seit mehreren Jahren ist der Hambacher Forst besetzt und die Anti-Kohle-Bewegung im Aufschwung. Wir wollen dieses Moment nutzen und haben uns ein ehrgeiziges, aber notwendiges Ziel für den Herbst und den Frühling gesetzt: Kein Baum Fällt!
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='bcdb05af-1987-45a6-ba53-5fc35898c08b' id='9'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-9-archaologie_und_denkmalpflege_im_tagebaugebiet_gefahrdet</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Archäologie und Denkmalpflege – Im Tagebaugebiet gefährdet</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          In diesem Workshop geht es um Archäologie, Denkmalpflege – und um die Verstrickungen von RWE auf diesem Gebiet. Wir werden uns hierbei auch mit den Grundlagen des RWE-Filzes generell beschäftigen und dabei interaktiv die Verstrickungen zwischen RWE, den Kommunen, den Landschaftsverbänden und anderen Unternehmen erkunden.
+          Außerdem werden wir die Auswirkungen des Filzes anhand des Beispiels der Archäologie und der Denkmalpflege in NRW betrachten.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='36'>Jannis</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='1a2263c1-c82a-4f4e-b0cf-8752fa38d132' id='74'>
+        <date>2015-08-09T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-74-nachhaltiger_klimaaktivismus</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Nachhaltiger Klimaaktivismus</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Nachhaltiger Aktivismus beinhaltet das Lernen aus sozialen Kämpfen, strategisches politisches Handeln, sowie individuelle und kollektive Strategien zur Stärkung unserer Widerstandskraft, um langfristiges Engagement zu ermöglichen. Das Konzept des nachhaltigen Aktivismus wird in diesem Workshop konkret auf die Klimabewegung angewandt, wobei die Strategien der Bewegung von 2008/2009 und die jetzigen Klimabewegung zu Paris und darüber hinaus berücksichtigt werden.</abstract>
+        <description></description>
+        <persons>
+          <person id='72'>Timo von ausgeCO2hlt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='66e937ec-c0c3-40a5-8613-b0c4cf92e57d' id='53'>
+        <date>2015-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-53-devestment_und_die_fossil_freebewegung</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Devestment und die Fossil FreeBewegung</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Eine weltweite Bewegung
+          nimmt Einflussauf Investoren, damit diese Geld aus Erdöl-, Kohle und
+          Erdgasindustrien abziehen.Im Rheinland richtet sich diese Kampagne vor
+          allen Dingen gegen RWE. Städte und Gemeinden, Kirchen und soziale
+          Institutionen werden vorrangig angesprochen.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='115cb622-120d-40fe-ab58-d39b0eab4f5c' id='110'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-110-awareness_defma_parteilichkeit_-_austausch_und_diskussion</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Awareness, Defma, Parteilichkeit - Austausch und Diskussion</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='d6852d92-c407-4f3a-a420-053fe5b62609' id='71'>
+        <date>2015-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-71-griechenland_-_der_schwere_weg_sich_vom_spardiktat_und_seinen_folgen_zu_befreien</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Griechenland - der schwere Weg sich vom  Spardiktat und seinen Folgen zu befreien</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Anetta Ristow referiert zu politischen Kämpfen und Basisbewegungen in Griechenland.</abstract>
+        <description></description>
+        <persons>
+          <person id='69'>Anetta Ristow</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+      <event guid='13ef562c-b373-4ccd-ae19-caded4d9480d' id='102'>
+        <date>2015-08-09T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>02:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-102-urbane_nahrungsproduktion_fur_ahnungslose</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Urbane Nahrungsproduktion für Ahnungslose</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Die Teilnehmer_innen bekommen einen Überblick über verschiedene Begrifflichkeiten und 	Formen städtischen Gärtnerns, wie z.B. Community Gardens, Urban Gardening, Urban Agriculture oder Urban Food Strategies. Es werden Erfahrungen weitergegeben welche kulturellen/politischen/sozialen Auswirkungen solche Projekte haben können. 
+          
+          Referent: Mitarbeiter der Prinzessinnengärten, Berlin. 
+          Teilnehmer_innen: Soviele wie in das LaWi-Zelt reinpassen.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='9370cd6e-98b8-4e81-87b4-e74ba102b2fc' id='103'>
+        <date>2015-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>05:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-103-exkursion_nach_koln_urban_gardening_fur_zukunftige_praktiker_innen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>EXKURSION NACH KÖLN: Urban Gardening für (zukünftige) Praktiker_innen</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>
+          Wie initiiere ich einen Community Garden in meiner Stadt? Die Teilnehmer_innen sollen eine Idee bekommen welche Möglichkeiten und Herausforderungen der Aufbau eines Stadtgartens mit sich bringt und können selbst im CampusGarten in Köln tätig werden. Die Kombination aus neunen Impulsen, Wissentransfers und praktischer Arbeit stehen im Vordergrund dieses Workshops.
+          
+          Wichtig: Die Fahrt von Erkelenz zum CampusGarten dauert ca. 1h 30 min. Fahrtkosten können nicht übernommen werden!
+          
+          Referent_innen: Mitarbeiter_innen des CampusGartens Köln.
+          Treffpunkt: 14 Uhr am LaDi-Zelt
+          Die Veranstaltung ist open-end und die Dauer kann flexibel mit den Teilnehmer_innen gestaltet werden.
+          Max. Teilnehmer: 30 Personen
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+      <event guid='6e3e3757-b063-4e30-bb0a-433d5964b544' id='96'>
+        <date>2015-08-09T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Queer-Feministisches Barrio-Zelt</room>
+        <slug>kc2015-96-einfuhrung_in_feministische_theorien</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Einführung in feministische Theorien</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Selbst als Feminist_innen haben wir oft völlig fragmentierte Elemente verschiedenster Gender-Theorien im Kopf. Im Workshop wollen wir mit zunächst die groben Richtungen auseinanderhalten, und darauf aufbauend gemeinsam unsere eigenen Vorstellungen reflektieren.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date='2015-08-10' end='2015-08-10T22:00:00+02:00' index='4' start='2015-08-10T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='d35b6c9c-8247-4d6d-be2b-f90efcd38bdb' id='108'>
+        <date>2015-08-10T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-108-to_extract_or_not_to_extract_-_ressourcen_konflikte_und_entwicklungsalternativen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>To extract or not to extract - Ressourcen Konflikte und Entwicklungsalternativen</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Ressourcenkonflikte waren schon immer Ursprung und Grund gewaltsamer
+          Auseinandersetzungen. Die Strategien der Bergbau-Unternehmen sind in
+          vielen Ländern ähnlich. Die meisten Regionen in denen sie aktiv sind,
+          gehören zu den ärmsten in den jeweiligen Ländern. In diesem Workshop
+          sollen Konflikte um Rohstoffe beleuchtet werden und anhand von
+          Beispielen Wege aus Armut und Gewalt gesucht und konkrete
+          (Entwicklungs-)Alternativen entwickelt werden. Mithilfe eines Planspiels
+          sollen Ressourcenkonflikte, dargestellt werden, um die Schwierigkeiten
+          aber auch die Möglichkeiten in derartigen Konflikten zu erkennen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='101'>Leon</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='9f09a49f-85ef-41d8-b9c7-07d0c033df67' id='16'>
+        <date>2015-08-10T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-16-rap_workshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Rap Workshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type></type>
+        <language>de</language>
+        <abstract>In diesem praktischen Workshop habt ihr die Gelegenheit, mit gemeinsam mit dem talentierten Rapper*innen &quot;schnibbi&quot; &amp; &quot;lady lazy&quot; in die Welt des Rappens einzutauchen und rappen zu lernen.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='39fbadb5-22f2-490f-8d25-389b4bd8d386' id='112'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-112-re-thinking_de-growth_islamic_perspectives</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Re-thinking de-growth: Islamic perspectives</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          My contribution in the workshop will shed some light on the notion of de-growth  (zuhd) from an Islamic perspective. It is intended to frame an enlightened Islamic discourse to address this notion in light of market economy and consumerism. Islam as a way of life is seen to provide remedies and insights to the national and global debate on growth and sustainability. Islam views the role of the individual as a value-and knowledge creator, a steward, witness, and a reformer who strives to contribute to progress and good life (Hayat Tayebah). To be able to achieve this, we must develop new development models that are informed by both culture and ecology. Social equity, good governance, participation, de-growth, conservation and protection are key principles in natural resources  management in Islam. Islamic development model argues for achieving prosperity without increasing the ecological footprints. 
+          
+          Islamic worldview also provides new perspectives for discovering and explaining the root causes for the current  environmental, economic and social crises as manifested in climate change, water crisis, poverty and human security. Besides, Islam views the root cause of global warming and water and ecological crisis is due to the absence or lack of human stewardship and the deviation and departure from “natural state” or Fitra. A framework for water sustainability which represents balance in the five capitals (natural, social, financial, manufactured, and human) will be outlined.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='103'>Professor Odeh Al-Jayyousi</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='b6f26656-76e9-4222-a473-d387a05830e9' id='49'>
+        <date>2015-08-10T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>05:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-49-art_activism_and_climate_change</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Art, activism and climate change</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>Exploration of the synergies that art and activism. Climate Games as a case study to devise creative actions.</abstract>
+        <description></description>
+        <persons>
+          <person id='73'>Isa, The Laboratory of Insurrectionary Imagination</person>
+          <person id='88'>JJ, The Laboratory of Insurrectionary Imagination</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='2802dfcd-89c6-499d-9d97-03e2c3dcc9df' id='83'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>03:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-83-erste_hilfe_fur_alle</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Erste Hilfe für alle</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          (noch unvollständige Beschreibung?)
+          Liebe alle, bitte bringt eine Decke bzw. eine Isomatte mit, die auf dem Boden liegen darf, zieht bitte Kleidung an, die dreckig werden darf, Schminke / fettige Cremes vor dem Workshop bitte abmachen, Dankeschön :)
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='f38e63a4-5a44-4306-921b-48cd6817148f' id='67'>
+        <date>2015-08-10T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-67-feindbild_mensch_okofaschismus_biozentrismus_und_wachstumskritik</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Feindbild Mensch – Ökofaschismus, Biozentrismus und Wachstumskritik</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Umweltschutz ist nicht per se links, sondern hat antisemitische, rassistische und esoterische Wurzeln. Am Anfang standen im Wilhelminischen Kaiserreich Lebensreform und Heimatschutz, Eugenik und Rassenhygiene. Ihre Ideen prägten noch die Anfänge der modernen Ökologiebewegung und der Grünen in den 1970er-Jahren. Eine zentrale Vorstellung ist die Legende von der Überbevölkerung oder gar „Bevölkerungsbombe“. Statt den Kapitalismus als Ursache für ökologische Zerstörungen anzugreifen, werden die Menschen im globalen Süden ins Visier genommen.</abstract>
+        <description></description>
+        <persons>
+          <person id='62'>Peter Bierl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='8142b65f-881e-4ae4-bc68-e06c78c65230' id='36'>
+        <date>2015-08-10T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-36-das_kanguru_manifest</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Das Känguru Manifest</title>
+        <subtitle>was wir von einem kommunistischen Beuteltier lernen können</subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Die Geschichten, die Marc-Uwe Kling und sein kommunistischer Mitbewohner
+          erleben, haben längst Einzug in die Pop-Kultur gehalten und einige
+          Zitate haben es bis in unseren Alltag geschafft (“Ach, meins deins - das
+          
+          In dieser Diskussion mochte ich mit euch zusammen die Vielschichtigkeit
+          des Känguru Manifests besprechen und beispielhaft einige Geschichten
+          analysieren. Wer oder was ist das Ministerium für Produktivität? Wie
+          fiktiv ist Joern Dwigs? Und was hat Tomatencremesuppe mit der CDU zu
+          tun? Ich werde einige Textstellen vorbereiten, aber ihr dürft auch gerne
+          selbst eure Lieblingsausschnitte mitbringen. Dieser Workshop ist für
+          alle Fans des Kängurus und die, die es noch werden wollen.
+          sind doch bürgerliche Kategorien!”). Durch seine brillante
+          Beobachtungsgabe, die beschreibende Erzählweise und eine angenehme
+          Portion Selbstironie hält Marc-Uwe Kling der Gesellschaft einen Spiegel
+          vor ohne den Zeigefinger zu erheben und deckt so die Absurditäten
+          unseres Zusammenlebens und der Konsumgesellschaft auf. Aber auch die
+          linke Bewegung mit all ihren Widersprüchen wird thematisiert: Probleme
+          bei der Entscheidungsfindung im Konsens, die Gewaltfrage, oder die
+          Diskrepanz zwischen Theorie und Praxis.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='50'>Tilman</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='74c08a6e-8610-4d3d-8c2f-77dfd3e87bb8' id='21'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-21-extraktivismus_und_grenzen_des_wachstums</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Extraktivismus und Grenzen des Wachstums</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Die kapitalistische Wirtschaft beruht auf einem ungehemmten Wachstum. Doch die Grenzen unseres Ökosystems
+          werden immer sichtbarer: So durch den immer weiter steigenden CO2-Eintrag in unsere Atmosphäre. Auch die
+          Rohstoffe drohen knapp zu werden. Und das bereits stattfindende Artensterben oder der massive
+          Stickstoffausstoß bedrohen die Grundlagen menschlichen Lebens auf unserem Planeten. Der Vortrag will
+          analysieren und bilanzieren: Welche Krisen haben wir zu erwarten? Lässt sich ein Zeithorizont für ihr Eintreten
+          abschätzen? Wird dies ökonomische Krisen im Kapitalismus verursachen? Welche politischen Antworten sollte
+          die Ökologiebewegung geben?
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='44'>Klaus Meier, isl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='d95e176e-e112-4b7d-be8d-4066ecce05c8' id='10'>
+        <date>2015-08-10T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>02:00</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-10-braunkohle_exkursion</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Braunkohle Exkursion</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>
+          Die Tagebaukante Garzweiler wollen wir ansteuern und einen Blick in´s Loch werfen.
+          Samstag, 8.August 9 Uhr geht´s los.
+          Wir fahren mit dem Fahrrad. Bitte bringt Räder mit. (falls du kein Fahrrad haben solltest,
+          gibt es evtl. die Möglichkeit, eines zu leihen).
+          
+          : Garzweiler ist der zweitgrößte Braunkohletagebau in D (der größte ist Hambach).
+             Die Kraftwerke des rheinischen Braunkohlerevier´s sind Europa´s größter CO2-Emittent.  
+             (ca. 100 Mio t CO2 / Jahr; ganz Österreich emitiert ca.70 Mio t / Jahr).
+          
+          : um das 2-Grad Ziel zu halten, muß Kohle raus aus dem Energiemix. (Öl und Gas müssen 
+             kontingentiert werden).
+          
+          : außerdem geht´s hier in der Gegend auch darum, die letzten Wälder und
+             landwirtschaftlichen Flächen zu retten und weitere Umsiedlungen zu unterlassen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='34'>Tina, ausgeCO2hlt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='4fcfdcb4-9282-4bad-8d9e-7c65bad5d655' id='77'>
+        <date>2015-08-10T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-77-palmolplantagen_in_indonesien</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Palmölplantagen in Indonesien</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='87'>Oliver Pye</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='5e5a780c-8297-4e1f-863d-5ca459d91f5f' id='5'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-5-das_rheinische_braunkohlerevier</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Das Rheinische Braunkohlerevier</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type></type>
+        <language>de</language>
+        <abstract>Eine Überblend-Diashow über die Zerstörung der Erdoberfläche durch Tagebaue,die Vernichtung von Lebensraum, soziale Entwurzelung der Menschen,Gesundheitsgefährdungen und Folgen, die Behinderung der Energiewende, Darstellung der Tagebaue und Kraftwerke, weitere Reduzierung der Formaldemokratie.</abstract>
+        <description></description>
+        <persons>
+          <person id='32'>Herbert Sauerwein, SoVie</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='e15fb421-70c2-4fd7-ac3a-5b4b72c3ccee' id='19'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-19-einfuhrungsworkshop_warum_wir_staat_und_kapitalismus_zuruckdrangen_mussen_um_den_klimawandel_einzudammen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Einführungsworkshop: Warum wir Staat und Kapitalismus zurückdrängen müssen um den Klimawandel einzudämmen</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type></type>
+        <language>de</language>
+        <abstract>In dem Workshop wollen wir uns anhand kleiner Textauszüge Kritiken an Staat und Kapitalismus verständlicher machen und erörtern, in wie fern staatliche Herrschaft und kapitalistische Ausbeutung Ursachen des Klimawandels sind. Dieser Einführungsworkshop soll die Teilnahme an dem Fortgeschrittenen-Workshop: &quot;Strategien zur Verhindung des Klimawandels - Wie Staat und Kapitalismus überwinden und den Klimawandel aufhalten?&quot; erleichtern.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+      <event guid='58feb9a6-9314-40fe-9f60-5753f009342f' id='66'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-66-visualisierung_von_nachhaltigkeit_teil_2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Visualisierung von Nachhaltigkeit Teil 2</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Nachhaltigkeit ist komplex und oft abstrakt, von daher auch schwer vermittelbar. Visualisierungen wirken oft besser, helfen beim Verstehen und bleiben haften. Mit einfachen Mitteln und Techniken, lassen sich diese einfach erlernen und sofort umsetzen für</abstract>
+        <description></description>
+        <persons>
+          <person id='61'>Susanne Kitlinski</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 1'>
+      <event guid='319657eb-94d4-441a-8711-00429cf1f46a' id='57'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 1</room>
+        <slug>kc2015-57-konsensorientierte_moderation_teil1</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Konsensorientierte Moderation Teil1</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Kurs geht um konsensorientierte Moderation – in explizit basisdemokratischen Gruppen aber auch in anderen Zusammenhängen, sowohl in Klein- als auch in Großgruppen. Wir werden uns verschiedene Tools und Methoden zur Moderation gemeinsam erarbeiten, diese diskutieren und kritisch reflektieren, aber auch üben. Sowohl Einsteiger_innen als auch Fortgeschrittene sind willkommen, denn unsere unterschiedlichen Zugänge und Erfahrungen können uns gegenseitig bereichern. Nützlich ist aber, wenn ihr schon Erfahrung mit Plenumssituationen habt.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 2'>
+      <event guid='4fcaac79-454f-4ced-8e67-97c76078a868' id='114'>
+        <date>2015-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 2</room>
+        <slug>kc2015-114-sanitats-workshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Sanitäts-Workshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Gemeinsam wollen wir uns die Grundlagen der Ersten-Hilfe erarbeiten und dabei besonders auf Hilfsmaßnahmen eingehen, die bei einer emonstration oder einer Blockade benötigt werden könnten. Bitte beachtet, dass dieser Workshop ein Austausch von Fähigkeiten ist und kein Lehrgang. Bitte bringt ein Handtuch mit.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+      <event guid='53eb7cc0-50ea-4b29-bdb1-f291dc43f980' id='90'>
+        <date>2015-08-10T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-90-klima-smarte_landwirtschaft</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Klima-Smarte Landwirtschaft?</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Global wird von Weltbank, UNO-Institutionen, Agrarindustrie und großen Umweltorganisationen eine &quot;Climate Smart Agriculture&quot; vorangetrieben. &quot;Nachhaltige&quot; Intensivierung, eine neue grüne Revolution und Emissionshandel hängen allesamt mit dieser Lösungsstrategie zusammen. Der Workshop informiert über dominante Ansätze, welche vorgeben, mithilfe der Landwirtschaft Klimaschutz zu betreiben, hintefrägt das dahinterliegende Greenwashing, zeigt Widersprüche und Gefahren auf und diskutiert, wie Widerstand dagegen fruchtbringend sein könnte.</abstract>
+        <description>
+          Thementag: Klima und Landwirtschaft
+          
+          Klimawandel hat einen starken Einfluss auf Landwirtschaft. Aber auch die Art und Weise der Landwirtschaft beeinflusst das Klima. Der Thementag beleuchtet verschiedene Lösungsstrategien, welche die Krise in Klima und Landwirtschaft gemeinsam zu überwinden versuchen - von der höchst problematischen &quot;nachhaltigen&quot; Intensivierung bis hin zu Ernährungssouveränität und Agrarökologie.
+        </description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='5fdf50ed-9741-4cf5-b6b8-d56a6482d5a5' id='104'>
+        <date>2015-08-10T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>02:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-104-klimagerechtigkeit_durch_ernahrungssouveranitat</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Klimagerechtigkeit durch Ernährungssouveränität</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Die Art wie wir landwirtschaften spielt eine tiefgreifende Rolle bei der Gestaltung unserer Zukunft. 
+          Was wird die wachsende Zahl der Weltbevölkerung essen, wo und wie wird sie leben? Die industrielle Nahrungsmittelproduktion ist für annähernd die Hälfte des globalen Treibhausgasausstoßes verantwortlich, gleichzeitig wird die bäuerliche Landwirtschaft, die bis heute die Welt ernährt, vom Klimawandel bedroht. 
+          Ernährungssouvernänität ist das Modell, das von La Via Campesina 1997 den Vereinten Nationen vorgestellt wurde, und Agrarökologie der bäuerliche Weg dorthin. Diese (gelebten) Lösungsvorschläge werden wir im Workshop vorstellen. Anschließen wollen wir uns darüber austauschen, wie die Forderung nach einem demokratischen, zukunftsträchtigen und gerechten Landwirtschafts- und Ernährungssystem zu dem Klima auf unserem Planeten beitragen kann.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='96'>Paula</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='8c6bcaa4-6ce4-4cfe-a411-e870e55080d9' id='105'>
+        <date>2015-08-10T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-105-bide_berriak_la_soberania_alimentaria_en_euskal_herria</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>„Bide Berriak: La Soberania Alimentaria en Euskal Herria“</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>other</type>
+        <language></language>
+        <abstract>
+          Film mit anschließender Diskussion:
+          Wissen wir was wir essen? Woher das kommt? Wie es produziert wird? Wer das produziert?...
+          Wissen wir, dass wir das Recht auf gesunde und kulturell angepasste Lebensmittel haben, die nachhaltig produziert wurden?
+          Ernährung ist viel mehr als produzieren und konsumieren. Das ist eine neue Organisationsform, in dem wir fairere Beziehungen entwickeln können und wo Menschen, Würde, Solidarität einen neuen Sinn bekommen.Wir laden euch ein, euch verschiedene Erfahrungen aus dem Baskenland anzugucken, wo die Utopie sich verwirklicht...
+          
+          Sprache: Baskisch/Spanisch
+          Untertitel: Spanisch
+          Produktion: EHNE Bizkaia &amp; Bizi lur, 2014. 52 Min.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+      <event guid='f664e55f-62ff-49e9-b9ee-0c854a60f5ca' id='98'>
+        <date>2015-08-10T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Queer-Feministisches Barrio-Zelt</room>
+        <slug>kc2015-98-vom_care-extraktivismus_uber_commons_zur_ecommony</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Vom 'Care-Extraktivismus' über Commons zur Ecommony</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Die Parallelen in der Ausbeutung natürlicher Ressourcen und der primär von Frauen geleisteten Reproduktionsarbeit wird bereits seit den 1980ern innerhalb der feministischen Bewegung diskutiert. Wir wollen an diese Auseinandersetzung anknüpfen und ausleuchten, wie feministische und ökologische Kämpfe zusammen gedacht werden können. Unter dem Begriff des 'Care-Extraktivismus' (Christa Wichterich) führt die freie Wissenschaftlerin und Aktivistin Friederike Habermann aktuelle Debatten um Care-Revolution, (Neo-)Extraktivismus und Commons zusammen.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date='2015-08-11' end='2015-08-11T22:00:00+02:00' index='5' start='2015-08-11T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='96c63eb1-77f9-4920-8eeb-a7c1ab2d8ab2' id='37'>
+        <date>2015-08-11T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-37-die_neuen_ziele_der_vereinten_nationen_die_ziele_fur_nachhaltige_entwicklung</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Die neuen Ziele der Vereinten Nationen – Die Ziele für nachhaltige Entwicklung</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Im September 2015 werden die Sustainable Development Goals (Ziele für nachhaltige Entwicklung) die bisherigen Millennium-Entwicklungsziele der UN ablösen. Die Millennium-Entwicklungsziele waren acht Ziele der UN, verabschiedet von den Mitgliedsstaaten, mit deren Hilfe man einen Rahmen für die internationale Entwicklungszusammenarbeit geschaffen hat. Ihre Bilanz ist gemischt: Einerseits gelang es durch die Millennium-Entwicklungsziele internationale Anstrengungen zu bündeln und so in einigen Punkten Erfolge aufzuweisen, andererseits wurden die Ziele kritisiert, weil sie ohne Beteiligung der Zivilgesellschaft quasi im Hinterzimmer verhandelt wurden, die acht Ziele keinen nachhaltigen Ansatz verfolgten und weil die Ziele nur für sogenannte Entwicklungs- &amp; Schwellenländer gelten sollten.
+          
+          Die Ziele für nachhaltige Entwicklung sollen es nun besser machen. Dabei hat sich bereits viel geändert. Sie umfassen tatsächlich ökologische, soziale und ökonomische Lösungsansätze und die bereits verhandelten 17 Ziele und 169 Unterziele machen das Dokument deutlich komplexer. Darüber hinaus gab es eine breite Beteiligung von unterschiedlichsten Zivilgesellschaften bei den Verhandlungen der Ziele und Unterziele und die wichtigste Neuerung: Die Ziele für nachhaltige Entwicklung werden für alle Staaten der Vereinten Nationen gelten, also auch für Deutschland. 
+          Aber was bringen diese Ziele? Werden sie die deutsche Politik nachhaltiger machen? Wie und für was kann Zivilgesellschaft in Deutschland diese Ziele nutzen? Sind sie ein gutes Instrument, um eine Transformation einer Gesellschaft voranzutreiben? Spielen diese Ziele eine Rolle für die Degrowth-Bewegung?
+          
+          Diese und andere Fragen wollen wir mit euch in diesem Workshop versuchen zu klären. Dazu wird es einen kurzen Input zu der Entstehung der Ziele für nachhaltige Entwicklung geben, um danach gemeinsam darüber zu diskutieren, ob transformatives Potential in den neuen Zielen der Vereinten Nationen liegt.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='51'>Patrick Rohde</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='2f0e64b8-2c11-4419-85bd-b520f4374715' id='34'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-34-bergbau_in_der_mongolei_-_gold_kupfer_kohle_und_wer_dabei_den_kurzeren_zieht</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Bergbau in der Mongolei - Gold, Kupfer, Kohle und wer dabei den Kürzeren zieht</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>„Mongolei“ assoziiert Leere, Weite, Pferde, Nomaden und Hügel. Gleichzeitig ist das Land reich an Rohstoffen. Nationale und internationale Konzerne wollen Gold, Kupfer, Kohle und Uran abbauen, ein Konzernchef freute sich, dass dort „kein Dschungel, keine NGOs und keine Menschen“ seien und plant tolle Biodiversitäts-Offsets. Der Workshop gibt auf der Grundlage eines Besuchs im April Einsichten in die Probleme des Bergbaus und des Offsettings, das nach dem Prinzip funktioniert: „wir machen hier ein bisschen Natur kaputt und dafür woanders mehr wieder heile“.</abstract>
+        <description></description>
+        <persons>
+          <person id='76'>Regine Richter, urgewald e.V.</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='cd1f1900-9dfd-46fe-a9d7-fdcec15c9b18' id='72'>
+        <date>2015-08-11T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>05:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-72-creative_sweatshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>creative sweatshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='74'>Selj</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='6178371f-6e8e-47ce-9ebc-d8d7fb17434e' id='86'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-86-legal_aid_-von_a_wie_anketten_bis_z_wie_zivilrechtsklage</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Du sitzt auf der Straße, vor Dir eine Polizeikette. Die Polizei fordert Dich auf, zu gehen. Tausende Fragen... Mach ich mich strafbar, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Darf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das mit der Nötigung?
+          Wer sich rechtlich unsicher fühlt, was Blockaden, Versammlungen und Nötigungen eigentlich bedeuten, zieht in
+          der konkreten Auseinandersetzung mit den Cops häufig den Kürzeren...
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='3e93f1f6-375f-401b-8121-222825d36181' id='14'>
+        <date>2015-08-11T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>05:00</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-14-gemeinsame_okonomie</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Gemeinsame Ökonomie</title>
+        <subtitle>Einführung in eine solidarische Lebensweise</subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Unser Alltag ist bestimmt durch die kapitalistische Logik. Wie tief wir diese verinnerlicht haben und was sie mit uns macht – dem wollen wir in diesem Seminar auf die Spur kommen. Praktische Übungen machen Gemeinsame Ökonomie erlebbar und regen an zur Reflexion.
+          Anhand von Beispielen kommen wir in die Diskussion über Sinn, Nutzen und Schwierigkeiten Gemeinsamer Ökonomie. Darüber hinaus geben wir einen Überblick über ihre verschiedenen Formen und verorten sie in Geschichte und Theorien emanzipatorischer Bewegungen.
+          Die Anzahl der Teilnehmer_innen ist begrenzt.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='39'>Kopfstand Kollektiv</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='15287b2b-490c-4720-8713-86fb41b40649' id='20'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-20-strategien_zur_verhindung_des_klimawandels_-_wie_staat_und_kapitalismus_uberwinden_und_den_klimawandel_aufhalten</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Strategien zur Verhindung des Klimawandels - Wie Staat und Kapitalismus überwinden und den Klimawandel aufhalten?</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Wenn der Kapitalismus Klimawandel produziert und der Staat den Kapitalismus aufrechterhält, wie können wir dann den Klimawandel auf halten? Nach ein paar Eingangsthesen wollen wir anhand von 5 Fragen debattieren. Der Workshop baut thesenhaft inhaltlich auf den vorherigen Workshop: &quot;Warum wir Staat und Kapitalismus zurückdrängen müssen um den Klimawandel einzudämmen&quot; auf, sodass Einsteiger_innen beide Workshops gemeinsam besuchen können, der Workshop aber auch für sich allein stehen kann.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='824a257e-cb2f-42b1-abf5-b35631337b43' id='51'>
+        <date>2015-08-11T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-51-fracking_und_auswirkungen_der_erdgasforderung_auf_mensch_und_umwelt</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Fracking und  Auswirkungen der Erdgasförderung auf Mensch und Umwelt</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Vorkommen &amp; Potenziale Erdgas- und Erdölfelder, Erdgas und CO2-Verpressung, 
+          Bohrungen, Sprengungen (Fracking), Erdgasaustritte und Umweltvergiftung, 
+          Untergrundgefahren, Lagerstättenwasser, Erdbeben, Grundwasser, Medien, 
+          Naturschutz, Politik, ....
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='75'>Lothar Lehmann, Energie Bildung Altmark</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='93337687-7683-4714-85e1-9ccb5b227ad5' id='27'>
+        <date>2015-08-11T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-27-kampf_um_globale_klimagerechtigkeit</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kampf um globale Klimagerechtigkeit</title>
+        <subtitle>Konkrete Klimaschulden vieler Industrie- und Ölförderländer müssen anerkannt und bezahlt werden. Eine internationalistische Forderung für eine solidarische Klimabewegung zwischen N und S - in Paris und danach.</subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Es gibt eine einfache und transparente Methode, wie globale Klimagerechtigkeit in einem alternativen, vernünftigen UN-Prozess konkret umsetzbar wäre. Dies würde allerdings dazu führen, dass vor allem die entwickelten Industrieländer enorme Klima-&quot;Schulden&quot; anerkennen müssten. Dies wird im derzeit global kapitalistisch dominierten System kaum durchsetzbar sein. Trotzdem muss ein internationaler Kampf darum geführt werden, damit ein dramatisches Ausmaß des Klimawandels noch verhindert wird. Zielsetzung des Vortrages und Workshops ist es, die Urteilsfähigkeit und Argumentationskraft zum Thema globale Klimagerechtigkeit zu schärfen, um mit anderen internationalistischen und umweltbewussten Kräften und Staaten weltweit - gemeinsam im N und S - eine wirksame Klimagerechtigkeitsbewegung aufzubauen.</abstract>
+        <description></description>
+        <persons>
+          <person id='47'>Dr. Helmut Selinger, ISW (Institut für sozial-ökologische Wirtschaftsforschung München)</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='c7af93c8-9eb3-4aa4-9e33-d1a66fbdb094' id='109'>
+        <date>2015-08-11T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-109-eine_informationsveranstaltung_uber_das_rheinische_braunkohlerevier_im_nationalsozialismus</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Eine Informationsveranstaltung über das Rheinische Braunkohlerevier  im Nationalsozialismus</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Unter der Führung der NSDAP im deutschen Reich kam es ab 1933 zu einer neuen Epoche der deutschen Industrialisierung. Sie führte zu einer starken sozialen/ ökonomischen Umwälzung. 
+          Teil dieser ist die Niederschlagung der Opposition und die Inhaftierungen von Millionen von Menschen in Konzentrationslager, wo sie ihren Tod fanden. Kriegspläne, Millionen an Reichsmark und letztlich der Beginn des 2. Weltkrieges sind wichtiger Bestandteil der deutschen Industriegeschichte. 
+          Ein kleiner Einblick in die Entstehung, dem Auf- und Ausbau des Rheinischen Braunkohlereviers und der dazugehörenden Industriezweige unter der Hakenkreuz-Fahne.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='cd234b5e-54b5-4c4e-a6d9-406baa6907d5' id='80'>
+        <date>2015-08-11T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>02:00</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-80-was_ist_los_in_ferguson_polizeigewalt_gefangnisindustrie_und_institutioneller_rassismus_in_den_usa</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Was ist los in Ferguson? Polizeigewalt, Gefängnisindustrie und institutioneller Rassismus in den USA</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Nachdem der unbewaffnete, schwarze Teenager Mike Brown in Ferguson,
+          Missouri im August 2014 von einem weißen Polizisten erschossen wurde,
+          folgten massive Proteste, die sich schnell über die ganze USA
+          ausbreiteten und noch immer anhalten. Kampagnen wie &quot;Hands Up, Don't
+          Shoot&quot; und &quot;Black Lives Matter&quot; machen seitdem mit prominenten und
+          medienwirksamen Aktionen auf institutionellen Rassismus aufmerksam. Eine
+          Reise in die größte Gefängnisnation der Welt, in der selbst 50 Jahre
+          nach der Bürgerrechtsbewegung mehr schwarze Männer Haftstrafen absitzen,
+          als 1850 in den Südstaaten versklavt waren.
+          
+          
+          Der Bildervortrag von Emily Laquer, ehemals Mitglied von Berkeley
+          Copwatch, beleuchtet Zusammenhänge der US-amerikanischen Justiz, sucht
+          nach historischen und politischen Gründen für staatlichen Rassismus und
+          zeigt Bilder einer wachsenden antirassistischen Bewegung.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='552b115a-4ccf-4d0a-8246-55fa5b77d320' id='52'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-52-solares_kochen_und_trocknen_-_vorstellung_der_kocher_und_einsatzmoglichkeiten</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Solares Kochen und Trocknen - Vorstellung der Kocher und Einsatzmöglichkeiten</title>
+        <subtitle>Vortrag und Diskussion</subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Verschiedene Solarkocher (Boxkocher, Parabolspiegel, Scheffler-Spiegel
+          und Trockner) werden vorgestellt. Mit  dem „Solar-Box-Kocher“ können
+          wir Kochen und Backen. Um Braten bzw. schnell Gerichte mit viel
+          Flüssigkeit zu Kochen sind die Parabolspiegel deutlich besser
+          geeignet. Mit fokussierenden Spiegelsystemen können wir auch schnell
+          Brauchwasser zum (ab-)Waschen erwärmen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='77'>Henning Liebeck</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+      <event guid='1d56657a-2e38-4241-8d90-ea9245f47235' id='4'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-4-karl_marx_aus_okosozialistischer_perspektive</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Karl Marx aus ökosozialistischer Perspektive</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Kein Zweifel: Karl Marx hat wieder Konjunktur. Aber wie hilfreich ist der überragende Denker des 19. Jahrhunderts wirklich für uns heute, wenn wir eine nachhaltige und solidarische Gesellschaft aufbauen wollen? Bruno Kern zeigt die Grenzen und die bleibende Bedeutung des Denkens von Karl Marx aus ökosozialistischer Perspektive auf.</abstract>
+        <description></description>
+        <persons>
+          <person id='31'>Bruno Kern, Initiative Ökosozialismus</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='0a41af49-33d2-4d1a-91bf-fa5eeda1552d' id='60'>
+        <date>2015-08-11T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-60-cop_and_beyond</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>COP and Beyond</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract>
+          Welche Vorbereitungsprozesse laufen gerade in Bezug auf die
+          Klimaverhandlungen in Paris? Welche Positionen werden dabei vertreten
+          und wie beziehen sich die zahlreichen lokalen Kämpfe im Vorfeld auf
+          Paris - oder auch nicht? Wir erwarten zu dieser Session Aktivist*innen
+          aus unterschiedlichen Regionen der Welt und spannende Inputs und Debatten.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 1'>
+      <event guid='d7147062-20d6-47e0-996b-56cea86b731d' id='58'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 1</room>
+        <slug>kc2015-58-konsensorientierte_moderation_teil2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Konsensorientierte Moderation Teil2</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type></type>
+        <language>de</language>
+        <abstract>Fortsetzung des Workshops Konsensorientierte Moderation Teil1</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 2'>
+      <event guid='67caa5fa-9b7e-4ac1-8067-58215d7ba8fc' id='69'>
+        <date>2015-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 2</room>
+        <slug>kc2015-69-fracking_als_bruckentechnologie_-_der_neue_gasboom_und_seine_folgen_in_nord_und_sud</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Fracking als Brückentechnologie? - Der neue Gasboom und seine Folgen in Nord und Süd</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          
+          Beim Klimagipfel in Paris Ende des Jahres wird die Industrie versuchen, Erdgas und Fracking als klimafreundliche Lösungen zu verkaufen. Auch zahlreiche klimapolitische Akteure handeln Erdgas als eine mögliche Brücke im Zuge der Energiewende. Ein Grund dafür ist der im Vergleich zu anderen fossilen Energieträgern geringere CO2-Gehalt von Erdgas. Gleichzeitig erleben die USA und zunehmend auch andere Länder wie z.B. Argentinien durch die Anwendung von Fracking derzeit einen neuen Gas- und Ölrausch. Das hat gerade für Länder des globalen Südens gravierende Folgen. Zum einen sind die lokalen Auswirkungen von Fracking auf Mensch und Umwelt dort oftmals noch deutlich gravierender als in Ländern des globalen Nordens. Zum anderen wird der Klimawandel, unter dem schon heute die ärmsten Regionen und Bevölkerungsgruppen am stärksten leiden, durch die Erschließung immer neuer fossiler Vorkommen weiter angeheizt.
+          
+          Nach einer inhaltlichen Einführung sollen in diesem Workshop unter anderem folgende Fragen gemeinsam erörtert werden: Können Gas und Fracking eine Brücke in eine klimafreundliche Zukunft sein? Ist Gas eine klimafreundliche Alternative zu Kohle? Wie könnten wirkliche Lösungen und Alternativen aussehen? (Wie) können Kämpfe gegen Fracking und Kohle sich gegenseitig stärken und unterstützen?
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='66'>Laura Weis, PowerShift e.V.</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+      <event guid='5116d4c4-81a9-496c-925a-3f9b64b94c3e' id='91'>
+        <date>2015-08-11T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-91-solidarische_landwirtschaft_solawi_community_supported_agriculture_was_ist_das_und_wie_funktioniert_es</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Solidarische Landwirtschaft (SoLaWi)/Community Supported Agriculture – Was ist das und wie funktioniert es?</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>In diesem ersten Teil des Thementages &quot; SoLaWi/CSA&quot; wollen wir das SoLaWi/CSA-Konzept vorstellen und zeigen, wie es zu einer lebendigen, verantwortungsvollen Landwirtschaft führen kann und so einen essentiellen Beitrag für eine nachhaltige Entwicklung leistet. Der workshop richtet sich an Menschen, die das Konzept (besser) kennenlernen möchten.</abstract>
+        <description>Thementag &quot; SoLaWi/CSA&quot;</description>
+        <persons>
+          <person id='97'>Erklärbar und andere</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='64f7d613-911d-4f3c-bfc6-f359e72e524e' id='92'>
+        <date>2015-08-11T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>02:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-92-wenn_es_praktisch_wird_das_solawi_csa_konzept_und_seine_herausfoderungen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Wenn es praktisch wird – das SoLaWi/CSA Konzept  und seine Herausfoderungen</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>Im zweiten Teil des Thementages &quot; SoLaWi/CSA&quot; wollen wir für Menschen die das SoLaWi/CSA-Konzept praktisch umsetzen einen Raum des Austausches schaffen. Ob für Gärtner_in oder Begärtnerte_n, in der Praxis kommen doch immer wieder Fragen auf (z.B. zu Verteilung, Finanzierung und Mitgliederstruktur). Darüber wollen wir sprechen, Erfahrungen austauschen und ggf. gemeinsam neue Lösungen finden. Dazu sind alle Interessierten, ob nun schon in einer SoLaWi/CSA aktiv oder nicht, eingeladen.</abstract>
+        <description></description>
+        <persons>
+          <person id='98'>pk</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='a84c6b5a-5f36-494e-9335-90c5c1b8ea0f' id='93'>
+        <date>2015-08-11T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-93-die_strategie_der_krummen_gurken</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Die Strategie der krummen Gurken</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>other</type>
+        <language></language>
+        <abstract>
+          Film mit anschließender Diskussion:
+          Die GartenCoop Freiburg setzt das Solawi-Konzept erfolgreich um. Die Mitglieder teilen sich die Verantwortung für einen Betrieb in Stadtnähe und tragen gemeinsam die Kosten und Risiken der Landwirtschaft. Dieser Dokumentarfilm gibt Einblick in die Motivationen und das Innenleben der Kooperative. Er zeigt Menschen, die in Zeiten ökonomischer und ökologischer Krise der Macht der Agrarindustrie etwas entgegensetzen: Die Strategie der krummen Gurken.
+          Eine cine rebelde Produktion 2013, 64 Min.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='99'>L X</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-12' end='2015-08-12T22:00:00+02:00' index='6' start='2015-08-12T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='0841a30b-6b67-4519-8650-ca7cb5298919' id='87'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-87-legal_aid_-von_a_wie_anketten_bis_z_wie_zivilrechtsklage</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Du sitzt auf der Straße, vor Dir eine Polizeikette. Die Polizei fordert Dich auf, zu gehen. Tausende Fragen... Mach ich mich strafbar, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Darf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das mit der Nötigung?
+          Wer sich rechtlich unsicher fühlt, was Blockaden, Versammlungen und Nötigungen eigentlich bedeuten, zieht in
+          der konkreten Auseinandersetzung mit den Cops häufig den Kürzeren...
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='6cfc0986-7a7b-4794-a9b5-9c6057e222a6' id='78'>
+        <date>2015-08-12T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-78-kohlekraftwerk_moorburg-_eine_neue_co2-schleuder_fur_hamburg</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kohlekraftwerk Moorburg- eine neue CO2-Schleuder für Hamburg</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type></type>
+        <language>de</language>
+        <abstract>
+          Das Kohlekraftwerk in Hamburg Moorburg ist Anfang des Jahres von Vattenfall in Betrieb genommen worden. Es ist mit ca. 9 Mio Tonnen CO2 jährlich die größte CO2-Quelle Norddeutschlands. Wir wollen darüber berichten, welche globalen und lokalen Auswirkungen das Kraftwerk hat.
+          Außerdem wollen wir die Geschichte des Widerstands von den
+          Bauplatzbesetzungen 2008 bis zur Blockade von Kohlelieferungen in diesem
+          Jahr nachzeichnen und diskutieren, wie es mit dem Widerstand weitergehen kann.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='89'>Jens Fischer, Gegenstrom Hamburg</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='c672d1d7-8806-4a3d-aaf7-68044e078840' id='41'>
+        <date>2015-08-12T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-41-aktionstraining</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='b4cecd26-8208-4b1a-b703-93a8a039fa97' id='42'>
+        <date>2015-08-12T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-42-aktionstraining_teil_2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining Teil 2</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='a80ac1e6-0c99-4118-9a83-e3b8a64fa639' id='29'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>02:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-29-kunst_gegen_kohle_-_aufblasbare_aktionsmaterialien_bauen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kunst gegen Kohle - Aufblasbare Aktionsmaterialien bauen</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          in diesem workshop werden Aufblasbare Aktionsmaterialen gebastelt.
+          Dieser Workshop geht den ganzen Tag
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='79'>Artur, Tools for Action</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='ea8472ba-916f-42db-9aa5-bb8376aca0c7' id='24'>
+        <date>2015-08-12T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>03:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-24-adbusting_die_welt_der_werbung_kreativ_umgestalten</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Adbusting – Die Welt der Werbung kreativ umgestalten</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Kaufen, kaufen, kaufen: Werbung manipuliert, heizt überflüssigen Konsum
+          an, färbt das Image ausbeuterischer Konzerne schön, bedient Klischees
+          und ist oft sexistisch. Du willst das nicht hinnehmen? Dann probiere
+          dich im Adbusting: Wie kannst du durch kleine aber feine Veränderungen,
+          Werbung eine neue Bedeutung verleihen oder sie sogar komplett umkehren?
+          In diesem Workshop warten Werbungen großer Firmen nur darauf von euch
+          mit Farbe, Scheren und Kleber verändert zu werden.
+          Der WS baut aufeinander auf. Es ist möglich auch später einzusteigen
+          (dann verpasst ihr jedoch den Teil, wo die Techniken erklärt werden).
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='f58dbfb1-d86d-4103-a9e9-e4c54bff2563' id='76'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-76-kohleabbau_in_indonesien</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kohleabbau in Indonesien</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='85'>Yuyun Harmono, Asienhaus</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='d9918c62-5597-4953-a38e-f391f9ee4750' id='28'>
+        <date>2015-08-12T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-28-resistance_against_fracking_in_uk</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Resistance against Fracking in UK</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='86'>No Dash For Gas</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='07606881-5077-4aa0-b827-411881b9811a' id='17'>
+        <date>2015-08-12T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-17-mobilitat_in_der_postwachstumsgesellschaft</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mobilität in der Postwachstumsgesellschaft</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type></type>
+        <language>de</language>
+        <abstract>In dem Workshop &quot;Mobilität in der Postwachstumsgesellschaft&quot; werde ich nach der Methode des Solution Cycle arbeiten, welche verstärkt das Engagement der Beteiligten erfordert. Der Solution Cycle arbeitet in 8 Schritten, in denen die Teilnehmer interaktiv involviert sind, so dass gemeinsam ein Raum geschaffen wird, in dem Neues denkbar wird: Erkennen, erfinden, klären, wählen, gestalten, flow, lernen und beenden. Es wird nach dem Motto gestaltet werden: Handle so, dass stets mehr Möglichkeiten entstehen. Ich arbeite für Prof. Dr. Gustav Bergmann in dem Projekt Scoutopia, in dem er erfolgreich diese Methode in Gruppenworkshops anwendet. Im Oktober werde ich das Projekt &quot;Mobiläb&quot; starten und mit verschiedenen Disziplinen der Universität Siegen die neue Mobilität erforschen und gestalten. Ich freue mich auf den Austausch und das Weiterentwickeln der Möglichkeiten, die wir jetzt schon sehen.</abstract>
+        <description></description>
+        <persons>
+          <person id='42'>Anne Schwab</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='e4630992-9ff9-4f54-97a3-5d15dbe54c02' id='33'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-33-share_your_story_-_austausch_und_vernetzung_zu_den_true_cost_of_coal</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Share your Story - Austausch und Vernetzung zu den True Cost Of Coal</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Wir tauschen unsere Erfahrungen mi dem True Cost of Coal- Banner und alte und neue Geschichten aus der Region und weltweit aus und überlegen und planen unsere weitere Zusammenarbeit und zukünftige Projekte. Das Treffen ist offen für alle Interessierten, bringt wenn möglich eigene Geschichten aus dem Rheinland, der Lausitz oder von anderswo mit, Geschichten über das Leben mit der Natur, über die Zerstörung für die Kohle, über Widerstand, Angst, Mut und Träume!</abstract>
+        <description></description>
+        <persons>
+          <person id='80'>Alex Wernke</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='a3d25d76-fcfd-4805-b1fc-cc63681e327d' id='54'>
+        <date>2015-08-12T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-54-the_true_cost_of_coal</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The True Cost of Coal</title>
+        <subtitle>Interaktiver Vortrag mit dem faszinierenden Kunstwerk des Beehive Collective</subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Um Menschen die Zusammenhänge und Folgen der Kohleverbrennung und des Klimawandels verständlich zu machen, brauchen wir kreative Bildungsmaterialien, mit denen wir alle erreichen. Das Beehive Collective, ein Künstler*innen- Netzwerk aus den USA, zeigt anhand eines 5 x 2,50 Meter großen Mosaikposters auf eindrückliche Weise die Entstehung der Kohle, den Abbau in den USA und dessen Folgen, ihre Rolle in der kapitalistischen Gesellschaft aber auch den vielfältigen Widerstand und Alternativen. Mit der Methode der &quot;story-basededucation&quot; gelingt es ihnen, komplexe Zusammenhänge künstlerisch und für jeden verständlich in Geschichten zu verpacken. Im Vortrag werden auch Geschichten des Kohleabbaus und Widerstands aus Deutschland erzählt.</abstract>
+        <description></description>
+        <persons>
+          <person id='80'>Alex Wernke</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='f96a63bd-0b6d-4439-b187-375eb5bb965a' id='70'>
+        <date>2015-08-12T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-70-coal_kills_-_body_and_soul</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title> Coal kills - body and soul</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Wir werden nach einem &quot;Reisebericht dioxinartiger und radioaktiver Feinstäube durch unseren Körper&quot; mehr darüber wissen, wie perfide unser Körper angegriffen wird, wie verheerend die Schädigung sich auf noch ungeborene Babys und kleine Kinder auswirkt und wie die aktuelle Zunahme von Lungenkrebs in der Region diese katastrophale Realität leider komplettiert.
+          Viele Menschen im Rheinischen Braunkohlerevier erleben in ihrem gesamten Alltag ein Ausgeliefertsein durch die &quot;Quasi-Besatzungsmacht&quot; RWE. Wir werden die seelischen Folgen des subjektiv erlebten ohnmächtigen Ausgesetztseins (u.a. durch extreme Schadstoffbelastung im eigenen Zuhause oder aber durch Zwangsumsiedlung) nachvollziehen: Verzweiflung, Hoffnungslosigkeit, Angstzustände, Depression bis hin zur Suizidgefährdung. Die Phänomene von Verdrängung und Verleugnung als unbewusste Bewältigungsversuche all dieser Zumutungen werden näher betrachtet.
+          Wir diskutieren Handlungsmöglichkeiten gegen die Ohnmacht und für  Grundlagen eines selbstorganisierten Widerstands auch im Gesundheitswesen.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='e5aa5c8e-9e5e-4b90-9f43-202ab7c7144d' id='111'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-111-fossil_free_-_internationale_graswurzelbewegung</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Fossil Free - internationale Graswurzelbewegung</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+           „Wenn es falsch ist das Klima zu zerstören, ist es falsch von dieser
+             Zerstörung zu profitieren.“
+          
+             Fossil Free fordert daher: Kein Geld mehr für Kohle, Öl und Gas! Bei
+             verschiedenen Institutionen (u.a. Unis, Städte, Pensionsfonds) sind
+             bereits Erfolge zu verzeichnen: Sie trennen sich von Anlagen in die
+             fossile Brennstoffindustrie! Erfahre mehr über die
+             Divestment-Bewegung, warum sie so rasant wächst und wie sie
+             funktioniert. Überlege gemeinsam mit uns, welche Möglichkeiten der
+             Vernetzung mit anderen Akteur*innen der Klimabewegung bestehen und
+             wo es Überschneidungen und Synergieeffekte gibt, von denen alle
+             profitieren können! 
+          
+          “If it’s wrong to wreck the climate, it’s wrong to profit from that
+             wreckage.”
+             That’s why Fossil Free claims: No money for coal, oil and gas! There
+             have been successes with different institutions (e.g. universities,
+             municipalities, pension funds): They get rid of investments in the
+             fossil fuel industry! Learn more about the divestment movement, why
+             it grows so fast and how it works. Consider with us, which
+             networking possibilities there are with other actors in the climate
+             movement and where we can find overlapping and synergetic effects
+             that we all can profit from!
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='585661ad-8ce7-4f84-84b0-52f87d450f17' id='88'>
+        <date>2015-08-12T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-88-lastflussmanagement</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Lastflussmanagement</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Um den Klimawandel zu entschleunigen ist einer der entscheidensten Faktoren die elektrische Energieerzeugung und -Verteilung. Regenerative Stromerzeugung muss  die Zukunft sein, doch die großen Stromkonzerne verlangsamen den Prozess und ziehen weiter Profit auf Kosten der Natur. Im Vortrag möchte ich euch die Grundprinzipien der Stromversorgung, die Argumente der Großen Vier und die  Problematiken verständlicher machen.</abstract>
+        <description></description>
+        <persons>
+          <person id='92'>Henning</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='94855bab-c214-4b5c-990d-abaa9b8c6787' id='22'>
+        <date>2015-08-12T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-22-heisse_luft_beim_klimaschutz_eine_bilanz_der_klimapolitik_in_nrw</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>„Heiße Luft beim Klimaschutz“. Eine Bilanz der Klimapolitik in NRW</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Im Klimaschutzgesetz der Landesregierung NRW weichen SPD und Grüne die deutschen Klimaschutzziele
+          signifikant auf. Anstatt das gesamtdeutsche Reduktionsziel (minus 40 % bis 2020) aktiv zu unterstützen, schert
+          NRW aus der Phalanx aus und begnügt sich mit einem Reduktionsziel von nur „mindestens 25 %“. Der Koalitionsvertrag macht sich nicht einmal die Mühe, diesen elementaren Kurswechsel zu erklären, die Landesregierung versucht vor allem, RWE zu retten. Ausgerechnet Rot-Grün fällt damit den Klimazielen der
+          Bundesregierung in den Rücken, obwohl mehr als ein Drittel der in Deutschland ausgestoßenen klimaschädlichen Gase auf das Konto von Nordrhein-Westfalen gehen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='45'>Michael Aggelidis, LaVo Die Linke.NRW</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='49c3e47c-1b77-4fc0-b445-ff2458085bea' id='25'>
+        <date>2015-08-12T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-25-leben_an_der_kante_-_was_macht_das_mit_der_psyche</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Leben an der Kante - was macht das mit der Psyche?</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Menschen, die an der Abbaukante leben, aber nicht von einer Umsiedlung betroffen sind - auch Randbetroffene genannt -  müssen tagtäglich mit Lärm, Feinstaub, sich absenkendem Boden und vielen anderen Nebenwirkungen der Braunkohletagebaue leben. Entschädigungen erhalten sie dafür meist keine. Wie geht es diesen Menschen damit, wie wirkt sich diese Situation auf ihre Psyche aus und sind sie eigentlich solastalgisch? Solastalgie- was ist das überhaupt? Mit diesen Fragen habe ich mich im Rahmen meiner psychologischen Bachelorarbeit beschäftigt - als Versuch einer ersten wissenschaftlich Analyse dieses Themas, denn bisher wurden Randbetroffenen sowohl politisch als auch medial wenig bis keine Aufmerksamkeit geschenkt.
+          In diesem Workshop möchte ich euch meine Forschungsergebnisse anschaulich darstellen, viele kleine Anekdoten der Randbetroffenen in der Lausitz erzählen und mit euch darüber diskutieren, ob und wo Gemeinsamkeiten und Unterschiede zur Situation Randbetroffener im Rheinland liegen. Gern können wir auch weitere Ideen schmieden wie psychologische Forschung zu Braunkohle aussehen könnte.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+      <event guid='9cf41fda-7a4f-4e4b-ab6c-69fda6ac5cb9' id='101'>
+        <date>2015-08-12T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-101-rally_monte_grube</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Rally Monte Grube</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract>
+          &quot;Die Weiten des Rheinischen Braunkohlereviers. Soviele Möglichkeiten.
+          Kleine Gruppen von klimaschützenden Braunkohlegegner*innen schlendern
+          durch die Landschaft, immer auf der Suche nach dem idealen Ort für einen
+          Bannerdrop, ein Bagger-Selfie oder ein High Five mit dem Team
+          Wachschutz. Im Blick immer der Punktstand und das Ziel katastrophalen
+          Klimawandeln zu verhindern. Macht mit bei der Rally Monte Grube, sammelt
+          Punkte für coole Aktionen (Anregungen im Kickoff Treffen um 16 Uhr im Zirkuszelt) und
+          lernt die Kohlegruben von ihrer besten Seite kennen, als Spielfeld.
+          Abends im Camp Erfahrungsaustausch und Auspunkten.&quot;
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='a294f2e3-8bf5-4efd-8dad-ec30e9082cf7' id='63'>
+        <date>2015-08-12T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-63-eine_million_klimajobs_wie_mit_sauberer_energie_arbeitsplatze_geschaffen_werden_konnen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>„Eine Million Klimajobs“. Wie mit sauberer Energie Arbeitsplätze geschaffen werden können</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>
+          Der 100%ige Ausstieg aus den fossilen Energien wird nicht machbar sein, wenn er nicht einhergeht mit einer
+          umfassenden Umstellung nicht nur unserer Konsumgewohnheiten, sondern auch unserer Produktionsweise.
+          Klimaschützer müssen deswegen auch die sozialen Probleme, insbesondere die Massenarbeitslosigkeit mitdenken
+          und Vorstellungen von einer Veränderung der Arbeitswelt entwickeln. Die Gewerkschaftsgruppe der Campaign
+          against Climate Change in Großbritannien hat einen Plan entwickelt, wie die britische Wirtschaft in den nächsten
+          20 Jahren ihre CO2-Emissionen um 80% reduzieren und dabei netto eine Million Arbeitsplätze schaffen kann.
+          Wir wollen diesen Plan erstmals in Deutschland vorstellen.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='58'>Stephen Hall, Englischer Gewerkschafter und Klimaaktivist</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 1'>
+      <event guid='67fee5c4-f72b-4e7d-b90b-4083c057cca1' id='15'>
+        <date>2015-08-12T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 1</room>
+        <slug>kc2015-15-out_of_action_workshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Out of Action Workshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          Politisch aktive Menschen sind häufig mit Repression konfrontiert. Dies
+          kann neben offensichtlichen Problemen wie z.B. Prozesskosten auch zu
+          psychischen Belastungen wie Traumatischem Stress führen. Um damit einen
+          genauso solidarischen Umgang wie mit Prozesskosten zu finden, ist es
+          wichtig, sich mit dem Thema Trauma auseinanderzusetzen und gemeinsam
+          gegen diese Form von Repression zu handeln. Wie wichtig ein
+          unterstützender Umgang miteinander für dauerhafte politische Arbeit ist,
+          soll in diesem Workshop gezeigt werden.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='40'>out of action</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+      <event guid='f75fdc58-4630-4afa-bbed-522204b97f79' id='106'>
+        <date>2015-08-12T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>03:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-106-open_space</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Open Space</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>other</type>
+        <language></language>
+        <abstract>Hier ist Raum für Vernetzung und Austausch rund um Landwirtschaftsthemen. Fühlt euch eingeladen unser Zelt mit nachhaltigen Ansätzen zu beleben.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-13' end='2015-08-13T22:00:00+02:00' index='7' start='2015-08-13T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='f0313b91-8e07-4d25-bc0b-7430e57b8ad4' id='43'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-43-aktionstraining</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='a34854e8-dd95-4fe5-8380-7e2aa8c9b53f' id='44'>
+        <date>2015-08-13T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-44-aktionstraining_teil_2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining Teil 2</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='f25868fd-713b-4af7-967e-76bf02e657ef' id='73'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>05:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-73-kunst_gegen_kohle_-_aufblasbare_aktionsmaterialien_bauen</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Kunst gegen Kohle - Aufblasbare Aktionsmaterialien bauen</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='79'>Artur, Tools for Action</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='66b04f56-b4ff-4a47-8d8c-a31be1eeca0e' id='84'>
+        <date>2015-08-13T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>03:00</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-84-erste_hilfe_fur_alle</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Erste Hilfe für alle</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          (noch unvollständige Beschreibung?)
+          Liebe alle, bitte bringt eine Decke bzw. eine Isomatte mit, die auf dem Boden liegen darf, zieht bitte Kleidung an, die dreckig werden darf, Schminke / fettige Cremes vor dem Workshop bitte abmachen, Dankeschön :)
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='3b17d631-2731-43db-8c88-fabf443adfe8' id='32'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>04:00</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-32-don_t_even_think_about_it_-_vortrag_von_george_marshall_experte_fur_klimawandelkommunikation</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Don't even think about it - Vortrag von George Marshall, Experte für Klimawandelkommunikation</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          Der Vortrag von einem der weltweit führenden Experten für Klimawandelkommunikation über sein neues Buch beschäftigt sich mit der Frage:
+          Warum handeln so wenig Leute in Anbetracht der massiven Bedrohungen durch den Klimawandel, obwohl die Konsequenzen seit mehr als 20 Jahre von mehr 97% aller Wissenschaftler*innen kommuniziert werden?
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='84'>George Marshall</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='771576d8-79b3-4a38-aa26-0c8f2da4a4e9' id='39'>
+        <date>2015-08-13T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-39-commons_und_klimawandel</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Commons und Klimawandel</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In Commons wird entsprechend den Bedürfnissen der Menschen und mit Rücksicht auf die vorhandenen Ressourcen produziert. Aber reicht das schon, um dem Klimawandel zu begegnen? In dem Workshop würde ich gerne Fragen wie diesen nachgehen: Wo gibt es Anknüpfungspunkte zwischen Klimaaktivist*innen und Commonsaktivist*innen? Was und wie können Commons zur Verlangsamung des Klimawandels beitragen? Ist das Klima ein Commons? Oder die Atmosphäre? Oder das CO2?</abstract>
+        <description></description>
+        <persons>
+          <person id='82'>Brigitte Kratzwald</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+      <event guid='b5ae9aab-43ac-4b61-9673-e53b1b3836e3' id='12'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Klima, Kohle &amp; Co2</room>
+        <slug>kc2015-12-aktuelle_politische_lage_erklarung_kohleabgabedebatte</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktuelle politische Lage // Erklärung Kohleabgabedebatte</title>
+        <subtitle>Einführung</subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id='38'>Gegenstrom Berlin</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Open Space _____________'>
+      <event guid='ae214da4-e641-44dd-b436-5e10fb8ec8e3' id='18'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-18-urantransporte_vor_deiner_haustur</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Urantransporte vor deiner Haustür?</title>
+        <subtitle>Fakten und Widerstand</subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          
+          Trotz angeblichem Atomausstiegs dürfen die UAA Gronau und die Brennelementefabrik Lingen unbefristet weiter laufen. Die Brennstoffspirale ist von dem was die Politik uns als Atomausstieg verkaufen will, nicht betroffen. Ob Uranerzkonzentrat, Uranhexafluorid oder Brennelemente: Über den Hamburger Hafen fährt im Durchnitt alle zwei Tage ein Atomtransport durch. Zahlreiche Transporte haben Uranfabriken in Frankreich zum Ziel und fahren quer durchs dicht besiedelten Ruhrgebiet. Dagegen gibt es Widerstand! Für den Herbst rufen Antiatomgruppen und AktIvistInnen zu Aktionenen entlang der Transportstrecken in Deutschland und Frankreich auf! Ohne Atomtransporte, kein Kernbrennstoff!
+          Im Workshop werden die Hintergründe dieser Transporte und ein kurzer Überblick über den aktuellen Widerstand in Deutschland und Frankreich beleuchtet, sowie Handlungsmöglichkeiten aufgezeigt. Ob Widerstansd gegen Kohlekraft, Atomkraft, Fracking, Flughafenbauten und weiteren unnütze Großprojekte (um nur einige Beispiele zu nennen), diese Kämpfe müssen wir für ein besseres Klima und eine andere Welt zusammen führen!
+          
+          Links: 
+          http://www.atomtransporte-hamburg-stoppen.de/
+          www.urantransport.de
+          http://www.urantransport.de/aktionstage.html
+          http://www.atomtransporte-hamburg-stoppen.de/wer-ist-an-den-transporten-beteiligt/uranfabrik-narbonne-malvesi/
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='43'>Cécile Lecomte (Robin Wood, Sortir du nucléaire)</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='03e3debe-ed17-4b5d-8ca8-e3f89fe3e938' id='81'>
+        <date>2015-08-13T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-81-die_mischung_macht_s_-_erfolgreiche_strategien_des_widerstandes_am_beispiel_der_agrogentechnik</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Die Mischung macht's - erfolgreiche Strategien des Widerstandes am Beispiel der Agrogentechnik</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>
+          
+          Seit 2004 starteten Gentechnikkonzerne und Lobbygruppen eine neue
+          Kampagne zur Durchsetzung ihrer Profitinteressen und zur Anlage von
+          Feldern mit manipulierten Pflanzen. Ab 2005 entwickelte sich - wie
+          schon Mitte der 90er Jahre - eine spannende Mischung des
+          Widerstandes: Feldbefreiungen, Feldbesetzungen, Aktionen vor
+          Konzernzentralen und -versammlungen, Recherchen hinter den Kulissen,
+          brisante Veröffentlichungen und viele informative Veranstaltungen.
+          Mit Erfolg: 2012 gab es kam noch Felder und die großen Konzerne
+          kündigten ihren Abgang aus Deutschland an – und der Sommer 2013 wird
+          wahrscheinlich ganz ohne gv-Pflanzen ablaufen. Da lohnt sich der
+          Rückblick: Was macht solche Widerstandsstrategien aus? Und was lässt
+          sich daraus für andere Kampagnen und Aktionen lernen - z.B. für den
+          Widerstand gegen Atom oder Kohle, Tierfabriken oder Schlachthöfe,
+          Nazis oder Sozialabbau, Militär oder Repression. Fotos, kurze Filme
+          und ausgewählte Anekdoten machen die Ton-Bilder-Schau zu einer
+          rasanten Erinnerung an vergangene Protestjahre. Dann folgen Thesen
+          für eine entschlossenere Protestkultur auch zu anderen Themen. Am
+          Ende besteht die Gelegenheit zur Debatte, Entwicklung eigener Ideen
+          und für konkrete Verabredungen …
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='91'>Jörg Bergstedt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='3701e6ff-0586-42a3-9f89-3dcd6748eec4' id='50'>
+        <date>2015-08-13T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-50-das_insektenhotel</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Das Insektenhotel</title>
+        <subtitle>Eine Geschichte über die Natur und die besten Pommes der Welt für Menschen ab 4 Jahre</subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>Fantasievolles Theater mit Tanz und Maskenspiel</abstract>
+        <description>
+          Lisa ist oft bei Opa im Gemüsegarten. Da gibt es ja so viel zu
+          entdecken. Am liebsten mag Lisa all die kleinen Tierchen, die dort herumkrabbeln und umherschwirren. Die Ameisen, die Würmer, die Käfer und die Bienen. Stundenlang kann sie die beobachten und deshalb auch so gut nachmachen. Übrigens pflanzt Lisa gerade Kartoffeln an. Möchtest du wissen warum? Dann komm mit zum Insektenhotel!
+        </description>
+        <persons>
+          <person id='81'>Sonja Ewald</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='d19a7091-23d2-43aa-9d31-3f19d90a70ea' id='45'>
+        <date>2015-08-13T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-45-aktionstraining</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='bfd112e4-a9fa-4f14-8945-60f46512b5b4' id='46'>
+        <date>2015-08-13T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Open Space _____________</room>
+        <slug>kc2015-46-aktionstraining_teil_2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining Teil 2</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zirkuszelt'>
+      <event guid='c01f1b4f-1ba4-4d8e-b04a-007aeb2657f8' id='23'>
+        <date>2015-08-13T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-23-okosozialismus_ausweg_aus_der_umweltkatastrophe</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Ökosozialismus – Ausweg aus der Umweltkatastrophe</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type></type>
+        <language>de</language>
+        <abstract>
+          Nigeria ist ein gutes Beispiel für die mit Riesenschritten voranschreitende Zerstörung der Lebensgrundlagen der Menschheit: Fast vollständige Abhängigkeit vom Öl, Versteppung als Folge des Klimawandels, Agrarindustrialisierung bei gleichzeitiger Zerstörung der Subsistenzbedingungen und empörende soziale Ungleichheit bei objektivem Reichtum des Landes.
+          Die inneren Gesetzmäßigkeiten der Kapitalverwertung lassen einen effektiven Kampf gegen Umweltzerstörung und Klimawandel nicht zu. Die gerade in diesem reichen Ölland überall mit Händen zu greifenden Zerstörungen lassen sich nur nur durch eine Produktionsweise aufheben, die am Gebrauchswert orientiert ist. Wie eine solche Gesellschaftsordnung aussehen kann, wollen wir in diesem Workshop diskutieren.
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='67'>Klaus Engert, Nigeria</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='9040aa6d-5bd9-4ac2-8e33-2805c2d209ab' id='61'>
+        <date>2015-08-13T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Zirkuszelt</room>
+        <slug>kc2015-61-aufbau_und_vernetzung_der_klimabewegung</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aufbau und Vernetzung der Klimabewegung</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract>In dem Meeting sollen neue Projektideen und Regionale Vernetzungen entstehen, um die Stärke und Handlungsfähigkeit der Klimabewegung weiter voranzubringen.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 1'>
+      <event guid='62d34521-8a2c-4235-9b71-db454ce3fef8' id='59'>
+        <date>2015-08-13T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 1</room>
+        <slug>kc2015-59-konsensorientierte_moderation_teil3</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Konsensorientierte Moderation Teil3</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Fortsetzung des Workshops Konsensorientierte Moderation Teil2</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 2'>
+      <event guid='2b39a0f2-c66f-480b-ab7b-cf14fb4238e5' id='115'>
+        <date>2015-08-13T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Degrowth 2</room>
+        <slug>kc2015-115-sanitats-workshop</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Sanitäts-Workshop</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Gemeinsam wollen wir uns die Grundlagen der Ersten-Hilfe erarbeiten und dabei besonders auf Hilfsmaßnahmen eingehen, die bei einer emonstration oder einer Blockade benötigt werden könnten. Bitte beachtet, dass dieser Workshop ein Austausch von Fähigkeiten ist und kein Lehrgang. Bitte bringt ein Handtuch mit.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+      <event guid='213ca566-453a-4b9c-9404-2f7417793f68' id='107'>
+        <date>2015-08-13T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>03:00</duration>
+        <room>Landwirtschafts-Barrio-Zelt</room>
+        <slug>kc2015-107-open_space</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Open Space</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>Hier ist Raum für Vernetzung und Austausch rund um Landwirtschaftsthemen. Fühlt euch eingeladen unser Zelt mit nachhaltigen Ansätzen zu beleben.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+      <event guid='b9fd28b2-0fe5-4e78-b590-ebe418c4d64d' id='99'>
+        <date>2015-08-13T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Queer-Feministisches Barrio-Zelt</room>
+        <slug>kc2015-99-there_will_be_no_climate_justice_without_gender_justice</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>There will be no climate justice without gender justice</title>
+        <subtitle></subtitle>
+        <track>Kritik der Verhältnisse – alles verändern</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>
+          Climate change
+          and gender justice are interrelated and fundamentally similar issues: to
+          successfully tackle climate change and gender oppression at the root of the
+          problem will mean widespread structural changes, challenges to power relations
+          and existing economic systems, and transformative processes. Both will require
+          us to change the way we think, act and live our lives. 
+          
+          
+          Looking at the
+          climate problem through a gender lens reveals not only that climate change will
+          impact those most strongly who are most vulnerable and contributed least to the
+          problem – something that is by now widely recognised in the climate justice
+          movement. At the same time, it can help us to understand that our attempts to find
+          solutions (whether in the international climate negotiations or closer to home,
+          in locally-based climate activism) also contain gender dimensions: whose voices
+          are heard? How inclusive are the practices we adopt? How can participation in
+          democratic processes be encouraged? And what could emancipatory practices look
+          like?
+          This workshop will explore the ways in which climate justice and gender justice
+          are related – particularly in reference to our own forms of climate activism –
+          and attempt to find some initial answers to the questions above.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date='2015-08-14' end='2015-08-14T22:00:00+02:00' index='8' start='2015-08-14T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+      <event guid='3830d4ad-6f9d-473d-a8cb-c287bd921367' id='40'>
+        <date>2015-08-14T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>04:00</duration>
+        <room>Zelt Was war, was ist ..</room>
+        <slug>kc2015-40-fossil_free_storytelling</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Fossil Free Storytelling</title>
+        <subtitle></subtitle>
+        <track>Klima, Kohle &amp; Co2</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+           Aktive von Fossil Free Deutschland und einige aus dem europäischen
+             Netzwerk treffen sich zu einem Storytelling! Die Bewegung wächst und
+             feiert diverse Erfolge – welche Geschichten der lokalen
+             Kampagnengruppen stecken dahinter? Neu an Divestment Interessierte
+             sind herzlich eingeladen, uns auf diese Art und Weise kennenzulernen
+             und von tollen oder misslungenen Aktionen zu hören, aus denen alle
+             lernen können!
+          
+             Es wird eine kurze Einführung in Divestment geben. Wer noch mehr
+             über unsere Strategie erfahren möchte, kann gerne auch vorher zum
+             Workshop am Mittwochvormittag kommen. 
+          
+             Wir freuen uns auf euch! 
+          
+           Members of Fossil Free Germany and some of the European network are
+             going to meet for a storytelling! The movement is growing and
+             celebrating several successes – which stories of the local campaigns
+             can we find behind that? New people interested in divestment are
+             most welcome to thus get to know Fossil Free and hear about
+             successful or failed actions, from which everybody can profit!
+          
+             There will be a short introduction to divestment. If you want to
+             learn more about our strategy, you can also come to the previous
+             workshop on Wednesday morning.
+          
+             Looking forward to see you!
+        </abstract>
+        <description></description>
+        <persons>
+          <person id='83'>Fossil Free and Friends</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+      <event guid='3b913782-fc56-4bf4-8d18-d139f2606401' id='47'>
+        <date>2015-08-14T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-47-aktionstraining</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event guid='6aca8975-6f98-45b8-b8b5-a4718961f0b6' id='48'>
+        <date>2015-08-14T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Skills for Climate Movement ..</room>
+        <slug>kc2015-48-aktionstraining_teil_2</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Aktionstraining Teil 2</title>
+        <subtitle></subtitle>
+        <track>Skills for Climate Movement – Bauen, Bewegen &amp; Kunst!</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>In diesem Basistraining wollen wir uns fit machen für die Massenaktion des Zivilen Ungehorsams und darüber hinaus. Auf dem Programm stehen Bezugsgruppen, Konsens, Durchfließen von Polizeiketten und weitere praktische Fähigkeiten</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+      <event guid='57a8fe68-e1da-4edf-b7b3-9239b4740fc6' id='100'>
+        <date>2015-08-14T09:30:00+02:00</date>
+        <start>09:30</start>
+        <duration>01:30</duration>
+        <room>Zelt Kritik der Verhältnisse ..</room>
+        <slug>kc2015-100-still_not_loving_the_cop_s</slug>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Still not loving the Cop's</title>
+        <subtitle></subtitle>
+        <track>Was war los, was ist los und wie geht’s weiter mit der Klimabewegung?</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>
+          Die Art und Weise wie der Klimawandel, seine Ursachen und Folgen gegenwärtig
+          im herrschenden politischen Diskurs dargestellt werden, greift zu kurz.
+          Ebenso
+          sind die vorgeschlagenen Lösungen problematisch, denn in beiden Fällen
+          wird derKapitalismus als Grundproblem nicht thematisiert. In unserem
+          Workshop wollen wir den existierenden, oft als alternativlos
+          präsentierten, markt- und/oder
+          technikfixierten Lösungen von oben einige Ideen für Ansätze einer sozial-
+          ökologischen Transformation von unten gegenüberstellen. Wir wollen im
+          Vorfeld
+          des Pariser Klimagipfels im Dezember 2015 unterschiedliche Kurzschlüsse
+          aufzeigen, und damit zu einer Diskussion unter Klimabewegungsaktivist*innen
+          über adäquate Strategien politischer Intervention aus sozial-ökologischer
+          Perspektive beitragen. Dabei wollen wir auch begründen, warum der
+          Pariser Gipfel nicht der Fokus politischer Aktionen sein sollte.
+        </abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+    </room>
+    <room name='Open Space _____________'>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-15' end='2015-08-15T22:00:00+02:00' index='9' start='2015-08-15T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+    </room>
+    <room name='Open Space _____________'>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-16' end='2015-08-16T22:00:00+02:00' index='10' start='2015-08-16T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+    </room>
+    <room name='Open Space _____________'>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+  <day date='2015-08-17' end='2015-08-17T19:00:00+02:00' index='11' start='2015-08-17T09:30:00+02:00'>
+    <room name='Zelt Was war, was ist ..'>
+    </room>
+    <room name='Zelt Skills for Climate Movement ..'>
+    </room>
+    <room name='Zelt Kritik der Verhältnisse ..'>
+    </room>
+    <room name='Zelt Klima, Kohle &amp; Co2'>
+    </room>
+    <room name='Open Space _____________'>
+    </room>
+    <room name='Zirkuszelt'>
+    </room>
+    <room name='Degrowth 1'>
+    </room>
+    <room name='Degrowth 2'>
+    </room>
+    <room name='Degrowth 3'>
+    </room>
+    <room name='Landwirtschafts-Barrio-Zelt'>
+    </room>
+    <room name='Queer-Feministisches Barrio-Zelt'>
+    </room>
+  </day>
+</schedule>

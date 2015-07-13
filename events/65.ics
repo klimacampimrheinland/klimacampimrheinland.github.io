@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114412Z
+UID:24593adc-bc8d-4cb8-8f7e-46dfc5fb31bc@localhost
+DESCRIPTION:Nachhaltigkeit ist komplex und oft abstrakt\, von daher auch 
+ schwer vermittelbar. Visualisierungen wirken oft besser\, helfen beim Ve
+ rstehen und bleiben haften. Mit einfachen Mitteln und Techniken\, lassen
+  sich diese einfach erlernen und sofort umsetzen für die Dokumentation\
+ , unterstützend bei der Moderation oder auch als Grundlage für partizi
+ pative Prozesse.\nDurch Visualisierung kann man sehr viel mehr Menschen 
+ für das Thema Nachhaltigkeit begeistern und partizipieren lassen. Gerad
+ e das Thema Wachstum\, Umweltverhalten\, Konsum sind nicht immer einfach
+ e Themen. Durch die "Hands on" Methoden\, werden Teilnehmende sofort das
+  Erlernte umzusetzen und in ihrem täglichen Engagement und Tun anwenden
+  können.
+URL:2015/events/65.html
+SUMMARY:Visualisierung von Nachhaltigkeit
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

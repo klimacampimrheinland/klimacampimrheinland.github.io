@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T190312Z
+UID:3830d4ad-6f9d-473d-a8cb-c287bd921367@localhost
+DESCRIPTION: Aktive von Fossil Free Deutschland und einige aus dem europ
+ äischen\n   Netzwerk treffen sich zu einem Storytelling! Die Bewegung w
+ ächst und\n   feiert diverse Erfolge – welche Geschichten der lokalen
+ \n   Kampagnengruppen stecken dahinter? Neu an Divestment Interessierte\
+ n   sind herzlich eingeladen\, uns auf diese Art und Weise kennenzulerne
+ n\n   und von tollen oder misslungenen Aktionen zu hören\, aus denen al
+ le\n   lernen können!\n\n   Es wird eine kurze Einführung in Divestmen
+ t geben. Wer noch mehr\n   über unsere Strategie erfahren möchte\, kan
+ n gerne auch vorher zum\n   Workshop am Mittwochvormittag kommen. \n\n  
+  Wir freuen uns auf euch! \n\n Members of Fossil Free Germany and some o
+ f the European network are\n   going to meet for a storytelling! The mov
+ ement is growing and\n   celebrating several successes – which stories
+  of the local campaigns\n   can we find behind that? New people interest
+ ed in divestment are\n   most welcome to thus get to know Fossil Free an
+ d hear about\n   successful or failed actions\, from which everybody can
+  profit!\n\n   There will be a short introduction to divestment. If you 
+ want to\n   learn more about our strategy\, you can also come to the pre
+ vious\n   workshop on Wednesday morning.\n\n   Looking forward to see yo
+ u! 
+URL:2015/events/40.html
+SUMMARY:Fossil Free Storytelling
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

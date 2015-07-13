@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T111013Z
+UID:13ef562c-b373-4ccd-ae19-caded4d9480d@localhost
+DESCRIPTION:Die Teilnehmer_innen bekommen einen Überblick über verschie
+ dene Begrifflichkeiten und 	Formen städtischen Gärtnerns\, wie z.B. Co
+ mmunity Gardens\, Urban Gardening\, Urban Agriculture oder Urban Food St
+ rategies. Es werden Erfahrungen weitergegeben welche kulturellen/politis
+ chen/sozialen Auswirkungen solche Projekte haben können. \n\nReferent: 
+ Mitarbeiter der Prinzessinnengärten\, Berlin. \nTeilnehmer_innen: Sovie
+ le wie in das LaWi-Zelt reinpassen.
+URL:2015/events/102.html
+SUMMARY:Urbane Nahrungsproduktion für Ahnungslose
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

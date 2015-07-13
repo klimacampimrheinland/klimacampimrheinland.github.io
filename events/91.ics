@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T100000
+DTSTAMP;VALUE=DATE-TIME:20150709T114714Z
+UID:5116d4c4-81a9-496c-925a-3f9b64b94c3e@localhost
+DESCRIPTION:In diesem ersten Teil des Thementages " SoLaWi/CSA" wollen wi
+ r das SoLaWi/CSA-Konzept vorstellen und zeigen\, wie es zu einer lebendi
+ gen\, verantwortungsvollen Landwirtschaft führen kann und so einen esse
+ ntiellen Beitrag für eine nachhaltige Entwicklung leistet. Der workshop
+  richtet sich an Menschen\, die das Konzept (besser) kennenlernen möcht
+ en.
+URL:2015/events/91.html
+SUMMARY:Solidarische Landwirtschaft (SoLaWi)/Community Supported Agricult
+ ure – Was ist das und wie funktioniert es?
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

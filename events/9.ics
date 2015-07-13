@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T185429Z
+UID:bcdb05af-1987-45a6-ba53-5fc35898c08b@localhost
+DESCRIPTION:In diesem Workshop geht es um Archäologie\, Denkmalpflege 
+ – und um die Verstrickungen von RWE auf diesem Gebiet. Wir werden uns 
+ hierbei auch mit den Grundlagen des RWE-Filzes generell beschäftigen un
+ d dabei interaktiv die Verstrickungen zwischen RWE\, den Kommunen\, den 
+ Landschaftsverbänden und anderen Unternehmen erkunden.\nAußerdem werde
+ n wir die Auswirkungen des Filzes anhand des Beispiels der Archäologie 
+ und der Denkmalpflege in NRW betrachten.
+URL:2015/events/9.html
+SUMMARY:Archäologie und Denkmalpflege – Im Tagebaugebiet gefährdet
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

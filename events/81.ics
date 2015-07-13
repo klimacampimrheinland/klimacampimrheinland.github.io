@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
+DTSTAMP;VALUE=DATE-TIME:20150709T115259Z
+UID:03e3debe-ed17-4b5d-8ca8-e3f89fe3e938@localhost
+DESCRIPTION:\nSeit 2004 starteten Gentechnikkonzerne und Lobbygruppen ein
+ e neue\nKampagne zur Durchsetzung ihrer Profitinteressen und zur Anlage 
+ von\nFeldern mit manipulierten Pflanzen. Ab 2005 entwickelte sich - wie\
+ nschon Mitte der 90er Jahre - eine spannende Mischung des\nWiderstandes:
+  Feldbefreiungen\, Feldbesetzungen\, Aktionen vor\nKonzernzentralen und 
+ -versammlungen\, Recherchen hinter den Kulissen\,\nbrisante Veröffentli
+ chungen und viele informative Veranstaltungen.\nMit Erfolg: 2012 gab es 
+ kam noch Felder und die großen Konzerne\nkündigten ihren Abgang aus De
+ utschland an – und der Sommer 2013 wird\nwahrscheinlich ganz ohne gv-P
+ flanzen ablaufen. Da lohnt sich der\nRückblick: Was macht solche Widers
+ tandsstrategien aus? Und was lässt\nsich daraus für andere Kampagnen u
+ nd Aktionen lernen - z.B. für den\nWiderstand gegen Atom oder Kohle\, T
+ ierfabriken oder Schlachthöfe\,\nNazis oder Sozialabbau\, Militär oder
+  Repression. Fotos\, kurze Filme\nund ausgewählte Anekdoten machen die 
+ Ton-Bilder-Schau zu einer\nrasanten Erinnerung an vergangene Protestjahr
+ e. Dann folgen Thesen\nfür eine entschlossenere Protestkultur auch zu a
+ nderen Themen. Am\nEnde besteht die Gelegenheit zur Debatte\, Entwicklun
+ g eigener Ideen\nund für konkrete Verabredungen …
+URL:2015/events/81.html
+SUMMARY:Die Mischung macht's - erfolgreiche Strategien des Widerstandes a
+ m Beispiel der Agrogentechnik
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

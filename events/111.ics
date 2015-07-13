@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150707T192512Z
+UID:e5aa5c8e-9e5e-4b90-9f43-202ab7c7144d@localhost
+DESCRIPTION: „Wenn es falsch ist das Klima zu zerstören\, ist es falsc
+ h von dieser\n   Zerstörung zu profitieren.“\n\n   Fossil Free forder
+ t daher: Kein Geld mehr für Kohle\, Öl und Gas! Bei\n   verschiedenen 
+ Institutionen (u.a. Unis\, Städte\, Pensionsfonds) sind\n   bereits Erf
+ olge zu verzeichnen: Sie trennen sich von Anlagen in die\n   fossile Bre
+ nnstoffindustrie! Erfahre mehr über die\n   Divestment-Bewegung\, warum
+  sie so rasant wächst und wie sie\n   funktioniert. Überlege gemeinsam
+  mit uns\, welche Möglichkeiten der\n   Vernetzung mit anderen Akteur*i
+ nnen der Klimabewegung bestehen und\n   wo es Überschneidungen und Syne
+ rgieeffekte gibt\, von denen alle\n   profitieren können! \n\n“If it
+ ’s wrong to wreck the climate\, it’s wrong to profit from that\n   w
+ reckage.”\n   That’s why Fossil Free claims: No money for coal\, oil
+  and gas! There\n   have been successes with different institutions (e.g
+ . universities\,\n   municipalities\, pension funds): They get rid of in
+ vestments in the\n   fossil fuel industry! Learn more about the divestme
+ nt movement\, why\n   it grows so fast and how it works. Consider with u
+ s\, which\n   networking possibilities there are with other actors in th
+ e climate\n   movement and where we can find overlapping and synergetic 
+ effects\n   that we all can profit from! 
+URL:2015/events/111.html
+SUMMARY:Fossil Free - internationale Graswurzelbewegung
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

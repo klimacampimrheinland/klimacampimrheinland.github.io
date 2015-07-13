@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T143000
+DTSTAMP;VALUE=DATE-TIME:20150709T115006Z
+UID:9cf41fda-7a4f-4e4b-ab6c-69fda6ac5cb9@localhost
+DESCRIPTION:"Die Weiten des Rheinischen Braunkohlereviers. Soviele Mögli
+ chkeiten.\nKleine Gruppen von klimaschützenden Braunkohlegegner*innen s
+ chlendern\ndurch die Landschaft\, immer auf der Suche nach dem idealen O
+ rt für einen\nBannerdrop\, ein Bagger-Selfie oder ein High Five mit dem
+  Team\nWachschutz. Im Blick immer der Punktstand und das Ziel katastroph
+ alen\nKlimawandeln zu verhindern. Macht mit bei der Rally Monte Grube\, 
+ sammelt\nPunkte für coole Aktionen (Anregungen im Kickoff Treffen um 16
+  Uhr im Zirkuszelt) und\nlernt die Kohlegruben von ihrer besten Seite ke
+ nnen\, als Spielfeld.\nAbends im Camp Erfahrungsaustausch und Auspunkten
+ ."
+URL:2015/events/101.html
+SUMMARY:Rally Monte Grube
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+END:VCALENDAR

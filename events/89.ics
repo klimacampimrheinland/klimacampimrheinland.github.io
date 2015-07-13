@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T110714Z
+UID:08b3af95-86bf-4aff-8a45-b542fed34e36@localhost
+DESCRIPTION:Klima retten - Erneuerbare Energien ausbauen - Regionalwirtsc
+ haft stärken - Zukunftsfähige Arbeitsplätze schaffen - Heimat bewahre
+ n - Natur schützen - Lebensqualität sichern\n\nVorgeschichte – Bürg
+ erforum Pulheim – Inhalt – Wirkung
+URL:2015/events/89.html
+SUMMARY:Das Pulheimer Manifest von 2006
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T093000
+DTSTAMP;VALUE=DATE-TIME:20150709T110640Z
+UID:0841a30b-6b67-4519-8650-ca7cb5298919@localhost
+DESCRIPTION:Du sitzt auf der Straße\, vor Dir eine Polizeikette. Die Pol
+ izei fordert Dich auf\, zu gehen. Tausende Fragen... Mach ich mich straf
+ bar\, wenn ich sitzenbleibe? Muß die Polizei nicht 3-mal auffordern? Da
+ rf sie mich danach kesseln? Meine Personalien aufnehmen? Und wie war das
+  mit der Nötigung?\nWer sich rechtlich unsicher fühlt\, was Blockaden\
+ , Versammlungen und Nötigungen eigentlich bedeuten\, zieht in\nder konk
+ reten Auseinandersetzung mit den Cops häufig den Kürzeren...
+URL:2015/events/87.html
+SUMMARY:Legal Aid -von A wie Anketten bis Z wie Zivilrechtsklage
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

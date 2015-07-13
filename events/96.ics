@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150809T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T110829Z
+UID:6e3e3757-b063-4e30-bb0a-433d5964b544@localhost
+DESCRIPTION:Selbst als Feminist_innen haben wir oft völlig fragmentierte
+  Elemente verschiedenster Gender-Theorien im Kopf. Im Workshop wollen wi
+ r mit zunächst die groben Richtungen auseinanderhalten\, und darauf auf
+ bauend gemeinsam unsere eigenen Vorstellungen reflektieren. 
+URL:2015/events/96.html
+SUMMARY:Einführung in feministische Theorien
+ORGANIZER:kc2015
+LOCATION:Queer-Feministisches Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

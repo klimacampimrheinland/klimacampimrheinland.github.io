@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T201125Z
+UID:1d56657a-2e38-4241-8d90-ea9245f47235@localhost
+DESCRIPTION:Kein Zweifel: Karl Marx hat wieder Konjunktur. Aber wie hilfr
+ eich ist der überragende Denker des 19. Jahrhunderts wirklich für uns 
+ heute\, wenn wir eine nachhaltige und solidarische Gesellschaft aufbauen
+  wollen? Bruno Kern zeigt die Grenzen und die bleibende Bedeutung des De
+ nkens von Karl Marx aus ökosozialistischer Perspektive auf. 
+URL:2015/events/4.html
+SUMMARY:Karl Marx aus ökosozialistischer Perspektive
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+END:VCALENDAR

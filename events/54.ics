@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T113000
+DTSTAMP;VALUE=DATE-TIME:20150629T203822Z
+UID:a3d25d76-fcfd-4805-b1fc-cc63681e327d@localhost
+DESCRIPTION:Um Menschen die Zusammenhänge und Folgen der Kohleverbrennun
+ g und des Klimawandels verständlich zu machen\, brauchen wir kreative B
+ ildungsmaterialien\, mit denen wir alle erreichen. Das Beehive Collectiv
+ e\, ein Künstler*innen- Netzwerk aus den USA\, zeigt anhand eines 5 x 2
+ \,50 Meter großen Mosaikposters auf eindrückliche Weise die Entstehung
+  der Kohle\, den Abbau in den USA und dessen Folgen\, ihre Rolle in der 
+ kapitalistischen Gesellschaft aber auch den vielfältigen Widerstand und
+  Alternativen. Mit der Methode der "story-basededucation" gelingt es ihn
+ en\, komplexe Zusammenhänge künstlerisch und für jeden verständlich 
+ in Geschichten zu verpacken. Im Vortrag werden auch Geschichten des Kohl
+ eabbaus und Widerstands aus Deutschland erzählt.
+URL:2015/events/54.html
+SUMMARY:The True Cost of Coal
+ORGANIZER:kc2015
+LOCATION:Zelt Klima\, Kohle & Co2
+END:VEVENT
+END:VCALENDAR

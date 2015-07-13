@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T113000
+DTSTAMP;VALUE=DATE-TIME:20150709T114732Z
+UID:cd234b5e-54b5-4c4e-a6d9-406baa6907d5@localhost
+DESCRIPTION:Nachdem der unbewaffnete\, schwarze Teenager Mike Brown in Fe
+ rguson\,\nMissouri im August 2014 von einem weißen Polizisten erschosse
+ n wurde\,\nfolgten massive Proteste\, die sich schnell über die ganze U
+ SA\nausbreiteten und noch immer anhalten. Kampagnen wie "Hands Up\, Don'
+ t\nShoot" und "Black Lives Matter" machen seitdem mit prominenten und\nm
+ edienwirksamen Aktionen auf institutionellen Rassismus aufmerksam. Eine\
+ nReise in die größte Gefängnisnation der Welt\, in der selbst 50 Jahr
+ e\nnach der Bürgerrechtsbewegung mehr schwarze Männer Haftstrafen absi
+ tzen\,\nals 1850 in den Südstaaten versklavt waren.\n\n\nDer Bildervort
+ rag von Emily Laquer\, ehemals Mitglied von Berkeley\nCopwatch\, beleuch
+ tet Zusammenhänge der US-amerikanischen Justiz\, sucht\nnach historisch
+ en und politischen Gründen für staatlichen Rassismus und\nzeigt Bilder
+  einer wachsenden antirassistischen Bewegung.\n
+URL:2015/events/80.html
+SUMMARY:Was ist los in Ferguson? Polizeigewalt\, Gefängnisindustrie und 
+ institutioneller Rassismus in den USA
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T150000
+DTSTAMP;VALUE=DATE-TIME:20150709T114755Z
+UID:64f7d613-911d-4f3c-bfc6-f359e72e524e@localhost
+DESCRIPTION:Im zweiten Teil des Thementages " SoLaWi/CSA" wollen wir für
+  Menschen die das SoLaWi/CSA-Konzept praktisch umsetzen einen Raum des A
+ ustausches schaffen. Ob für Gärtner_in oder Begärtnerte_n\, in der Pr
+ axis kommen doch immer wieder Fragen auf (z.B. zu Verteilung\, Finanzier
+ ung und Mitgliederstruktur). Darüber wollen wir sprechen\, Erfahrungen 
+ austauschen und ggf. gemeinsam neue Lösungen finden. Dazu sind alle Int
+ eressierten\, ob nun schon in einer SoLaWi/CSA aktiv oder nicht\, eingel
+ aden.
+URL:2015/events/92.html
+SUMMARY:Wenn es praktisch wird – das SoLaWi/CSA Konzept  und seine Hera
+ usfoderungen
+ORGANIZER:kc2015
+LOCATION:Landwirtschafts-Barrio-Zelt
+END:VEVENT
+END:VCALENDAR

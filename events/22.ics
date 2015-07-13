@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T123000
+DTSTAMP;VALUE=DATE-TIME:20150704T090813Z
+UID:94855bab-c214-4b5c-990d-abaa9b8c6787@localhost
+DESCRIPTION:Im Klimaschutzgesetz der Landesregierung NRW weichen SPD und 
+ Grüne die deutschen Klimaschutzziele\nsignifikant auf. Anstatt das gesa
+ mtdeutsche Reduktionsziel (minus 40 % bis 2020) aktiv zu unterstützen\,
+  schert\nNRW aus der Phalanx aus und begnügt sich mit einem Reduktionsz
+ iel von nur „mindestens 25 %“. Der Koalitionsvertrag macht sich nich
+ t einmal die Mühe\, diesen elementaren Kurswechsel zu erklären\, die L
+ andesregierung versucht vor allem\, RWE zu retten. Ausgerechnet Rot-Grü
+ n fällt damit den Klimazielen der\nBundesregierung in den Rücken\, obw
+ ohl mehr als ein Drittel der in Deutschland ausgestoßenen klimaschädli
+ chen Gase auf das Konto von Nordrhein-Westfalen gehen.
+URL:2015/events/22.html
+SUMMARY:„Heiße Luft beim Klimaschutz“. Eine Bilanz der Klimapolitik 
+ in NRW
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

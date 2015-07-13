@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150713T104625Z
+UID:4fcaac79-454f-4ced-8e67-97c76078a868@localhost
+DESCRIPTION:Gemeinsam wollen wir uns die Grundlagen der Ersten-Hilfe erar
+ beiten und dabei besonders auf Hilfsmaßnahmen eingehen\, die bei einer 
+ emonstration oder einer Blockade benötigt werden könnten. Bitte beacht
+ et\, dass dieser Workshop ein Austausch von Fähigkeiten ist und kein Le
+ hrgang. Bitte bringt ein Handtuch mit.
+URL:2015/events/114.html
+SUMMARY:Sanitäts-Workshop
+ORGANIZER:kc2015
+LOCATION:Degrowth 2
+END:VEVENT
+END:VCALENDAR

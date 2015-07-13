@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T130000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T113000
+DTSTAMP;VALUE=DATE-TIME:20150625T112241Z
+UID:8142b65f-881e-4ae4-bc68-e06c78c65230@localhost
+DESCRIPTION:Die Geschichten\, die Marc-Uwe Kling und sein kommunistischer
+  Mitbewohner\nerleben\, haben längst Einzug in die Pop-Kultur gehalten 
+ und einige\nZitate haben es bis in unseren Alltag geschafft (“Ach\, me
+ ins deins - das\n\nIn dieser Diskussion mochte ich mit euch zusammen die
+  Vielschichtigkeit\ndes Känguru Manifests besprechen und beispielhaft e
+ inige Geschichten\nanalysieren. Wer oder was ist das Ministerium für Pr
+ oduktivität? Wie\nfiktiv ist Joern Dwigs? Und was hat Tomatencremesuppe
+  mit der CDU zu\ntun? Ich werde einige Textstellen vorbereiten\, aber ih
+ r dürft auch gerne\nselbst eure Lieblingsausschnitte mitbringen. Dieser
+  Workshop ist für\nalle Fans des Kängurus und die\, die es noch werden
+  wollen.\nsind doch bürgerliche Kategorien!”). Durch seine brillante\
+ nBeobachtungsgabe\, die beschreibende Erzählweise und eine angenehme\nP
+ ortion Selbstironie hält Marc-Uwe Kling der Gesellschaft einen Spiegel\
+ nvor ohne den Zeigefinger zu erheben und deckt so die Absurditäten\nuns
+ eres Zusammenlebens und der Konsumgesellschaft auf. Aber auch die\nlinke
+  Bewegung mit all ihren Widersprüchen wird thematisiert: Probleme\nbei 
+ der Entscheidungsfindung im Konsens\, die Gewaltfrage\, oder die\nDiskre
+ panz zwischen Theorie und Praxis.
+URL:2015/events/36.html
+SUMMARY:Das Känguru Manifest
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

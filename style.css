@@ -1,0 +1,115 @@
+.cell-height1 { height: 80px; }
+.cell-height2 { height: 157px; }
+.cell-height3 { height: 237px; }
+.cell-height4 { height: 317px; }
+.cell-height5 { height: 397px; }
+.cell-height6 { height: 477px; }
+.cell-height7 { height: 557px; }
+.cell-height8 { height: 637px; }
+.cell-height9 { height: 717px; }
+.cell-height10 { height: 797px; }
+
+
+.event.track-default {
+  background-color: #555;
+  border-color: #555;
+}
+
+.event.track-default div.event-header {
+  background-color: #555;
+}
+
+.event.track-default div.event-header a {
+  color: #fff;
+}
+
+.conference-background {
+  background-color: #555;
+}
+
+
+.event.track-klima-kohle-co2 {
+  background-color: #fefd7f;
+  border-color: #fefd7f;
+}
+.event.track-klima-kohle-co2 div.event-header {
+  background-color: #fefd7f;
+}
+.event.track-klima-kohle-co2 div.event-header a {
+  color: #000;
+}
+
+.event.track-kritik-der-verhaltnisse-alles-verandern {
+  background-color: #fefd7f;
+  border-color: #fefd7f;
+}
+.event.track-kritik-der-verhaltnisse-alles-verandern div.event-header {
+  background-color: #fefd7f;
+}
+.event.track-kritik-der-verhaltnisse-alles-verandern div.event-header a {
+  color: #000;
+}
+
+.event.track-skills-for-climate-movement-bauen-bewegen-kunst {
+  background-color: #fefd7f;
+  border-color: #fefd7f;
+}
+.event.track-skills-for-climate-movement-bauen-bewegen-kunst div.event-header {
+  background-color: #fefd7f;
+}
+.event.track-skills-for-climate-movement-bauen-bewegen-kunst div.event-header a {
+  color: #000;
+}
+
+.event.track-was-war-los-was-ist-los-und-wie-geht-s-weiter-mit-der-klimabewegung {
+  background-color: #fefd7f;
+  border-color: #fefd7f;
+}
+.event.track-was-war-los-was-ist-los-und-wie-geht-s-weiter-mit-der-klimabewegung div.event-header {
+  background-color: #fefd7f;
+}
+.event.track-was-war-los-was-ist-los-und-wie-geht-s-weiter-mit-der-klimabewegung div.event-header a {
+  color: #000;
+}
+
+/* Colorkeys for Tracks */
+
+
+#colorkeys .track-klima-kohle-co2 {
+  background-color: #fefd7f;
+}
+
+#colorkeys .track-kritik-der-verhaltnisse-alles-verandern {
+  background-color: #fefd7f;
+}
+
+#colorkeys .track-skills-for-climate-movement-bauen-bewegen-kunst {
+  background-color: #fefd7f;
+}
+
+#colorkeys .track-was-war-los-was-ist-los-und-wie-geht-s-weiter-mit-der-klimabewegung {
+  background-color: #fefd7f;
+}
+
+#colorkeys {
+  font-size: .8em;
+  opacity: .85;
+}
+
+#colorkeys ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#colorkeys ul li {
+  margin: 0 .2em;
+  float: right;
+}
+
+#colorkeys ul li div {
+  padding: 0;
+}
+
+/* Custom Conference CSS */
+

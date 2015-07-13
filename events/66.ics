@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114603Z
+UID:58feb9a6-9314-40fe-9f60-5753f009342f@localhost
+DESCRIPTION:Nachhaltigkeit ist komplex und oft abstrakt\, von daher auch 
+ schwer vermittelbar. Visualisierungen wirken oft besser\, helfen beim Ve
+ rstehen und bleiben haften. Mit einfachen Mitteln und Techniken\, lassen
+  sich diese einfach erlernen und sofort umsetzen für 
+URL:2015/events/66.html
+SUMMARY:Visualisierung von Nachhaltigkeit Teil 2
+ORGANIZER:kc2015
+LOCATION:Zirkuszelt
+END:VEVENT
+END:VCALENDAR

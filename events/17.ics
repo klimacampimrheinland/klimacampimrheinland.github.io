@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150812T160000
+DTSTAMP;VALUE=DATE-TIME:20150629T175738Z
+UID:07606881-5077-4aa0-b827-411881b9811a@localhost
+DESCRIPTION:In dem Workshop "Mobilität in der Postwachstumsgesellschaft"
+  werde ich nach der Methode des Solution Cycle arbeiten\, welche verstä
+ rkt das Engagement der Beteiligten erfordert. Der Solution Cycle arbeite
+ t in 8 Schritten\, in denen die Teilnehmer interaktiv involviert sind\, 
+ so dass gemeinsam ein Raum geschaffen wird\, in dem Neues denkbar wird: 
+ Erkennen\, erfinden\, klären\, wählen\, gestalten\, flow\, lernen und 
+ beenden. Es wird nach dem Motto gestaltet werden: Handle so\, dass stets
+  mehr Möglichkeiten entstehen. Ich arbeite für Prof. Dr. Gustav Bergma
+ nn in dem Projekt Scoutopia\, in dem er erfolgreich diese Methode in Gru
+ ppenworkshops anwendet. Im Oktober werde ich das Projekt "Mobiläb" star
+ ten und mit verschiedenen Disziplinen der Universität Siegen die neue M
+ obilität erforschen und gestalten. Ich freue mich auf den Austausch und
+  das Weiterentwickeln der Möglichkeiten\, die wir jetzt schon sehen.\n
+URL:2015/events/17.html
+SUMMARY:Mobilität in der Postwachstumsgesellschaft 
+ORGANIZER:kc2015
+LOCATION:Zelt Kritik der Verhältnisse ..
+END:VEVENT
+END:VCALENDAR

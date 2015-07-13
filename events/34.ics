@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150811T160000
+DTSTAMP;VALUE=DATE-TIME:20150707T190140Z
+UID:2f0e64b8-2c11-4419-85bd-b520f4374715@localhost
+DESCRIPTION:„Mongolei“ assoziiert Leere\, Weite\, Pferde\, Nomaden un
+ d Hügel. Gleichzeitig ist das Land reich an Rohstoffen. Nationale und i
+ nternationale Konzerne wollen Gold\, Kupfer\, Kohle und Uran abbauen\, e
+ in Konzernchef freute sich\, dass dort „kein Dschungel\, keine NGOs un
+ d keine Menschen“ seien und plant tolle Biodiversitäts-Offsets. Der W
+ orkshop gibt auf der Grundlage eines Besuchs im April Einsichten in die 
+ Probleme des Bergbaus und des Offsettings\, das nach dem Prinzip funktio
+ niert: „wir machen hier ein bisschen Natur kaputt und dafür woanders 
+ mehr wieder heile“. 
+URL:2015/events/34.html
+SUMMARY:Bergbau in der Mongolei - Gold\, Kupfer\, Kohle und wer dabei den
+  Kürzeren zieht
+ORGANIZER:kc2015
+LOCATION:Zelt Was war\, was ist ..
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150810T160000
+DTSTAMP;VALUE=DATE-TIME:20150706T102320Z
+UID:e15fb421-70c2-4fd7-ac3a-5b4b72c3ccee@localhost
+DESCRIPTION:In dem Workshop wollen wir uns anhand kleiner Textauszüge Kr
+ itiken an Staat und Kapitalismus verständlicher machen und erörtern\, 
+ in wie fern staatliche Herrschaft und kapitalistische Ausbeutung Ursache
+ n des Klimawandels sind. Dieser Einführungsworkshop soll die Teilnahme 
+ an dem Fortgeschrittenen-Workshop: "Strategien zur Verhindung des Klimaw
+ andels - Wie Staat und Kapitalismus überwinden und den Klimawandel aufh
+ alten?" erleichtern.\n
+URL:2015/events/19.html
+SUMMARY:Einführungsworkshop: Warum wir Staat und Kapitalismus zurückdr
+ ängen müssen um den Klimawandel einzudämmen
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR

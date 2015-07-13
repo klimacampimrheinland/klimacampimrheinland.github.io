@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150808T160000
+DTSTAMP;VALUE=DATE-TIME:20150709T114214Z
+UID:b02b7bb6-cf15-4946-8d06-26df8d61e8d1@localhost
+DESCRIPTION:Die GFK bietet viele Methoden und Denkansätze\, die uns helf
+ en mit uns\nund anderen Menschen liebevoller umzugehen\, aber auch "Nein
+ " zu sagen\nund unsere Grenzen zu wahren. Ich werde die theoretischen Gr
+ undlagen\nkurz erklären und dann anhand der Fragen der Teilnehmenden ei
+ nige\nAspekte (auch mit praktischen Übungen) vertiefen.
+URL:2015/events/55.html
+SUMMARY:Einführung in die Gewaltfreie Kommunikation 
+ORGANIZER:kc2015
+LOCATION:Open Space _____________
+END:VEVENT
+END:VCALENDAR
